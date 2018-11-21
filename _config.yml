@@ -10,10 +10,10 @@ locale                   : "en-US"
 title                    : "Hannah Rae Kerner"
 title_separator          : "-"
 name                     : &name "Your Name"
-description              : &description "personal description"
+description              : &description "PhD candidate at Arizona State University"
 url                      : https://hannah-rae.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "hannah-rae/hannah-rae.github.io"
+repository               : "hannah-rae.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Hannah Kerner"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
+  bio              : "PhD candidate at Arizona State University"
   location         : "Tempe, AZ"
   employer         :
   googlescholar    : "https://scholar.google.com/citations?user=g5CD7dQAAAAJ&hl=en"
