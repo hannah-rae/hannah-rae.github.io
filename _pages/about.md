@@ -14,4 +14,4 @@ Currently, I work mostly with remote sensing data of Mars collected by the Mars 
 
 I received my B.S. in computer science from the University of North Carolina at Chapel Hill. I have worked at NASA's Jet Propulsion Laboratory, Goddard Space Flight Center, and Langley Research Center, as well as the commercial remote sensing company Planet. I am passionate about advancing opportunities for women and other under-represented individuals in computer science and devote much of my time outside of research to these efforts.
 
-You can download my CV [here](http://hannah-rae.github.io/files/Kerner_Hannah_CV.pdf)
+You can download my CV [here](http://hannah-rae.github.io/files/Kerner_Hannah_CV.pdf).
