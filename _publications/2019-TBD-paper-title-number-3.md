@@ -3,7 +3,7 @@ title: "Deep Learning Methods Toward Generalized Change Detection on Planetary S
 collection: publications
 permalink: /publication/2019-TBD-paper-title-number-3
 excerpt: 'Ongoing Mars exploration missions are returning large volumes of image data. Identifying surface changes in these images, e.g., new impact craters, is critical for investigating many scientific hypotheses. Traditional approaches to change detection rely on image differencing and manual feature engineering. These methods can be sensitive to irrelevant variations in illumination or image quality and typically require before and after images to be co-registered, which itself is a major challenge. To overcome these limitations, we propose novel deep learning approaches to change detection that rely on transfer learning, convolutional autoencoders, and Siamese networks. Our experiments show that these approaches can detect meaningful changes with high accuracy despite significant differences in illumination, image quality, imaging sensors, and alignment between before and after images. We show that the latent representations learned by a convolutional autoencoder yield the most general representations for detecting change across surface feature types, scales, sensors, and planetary bodies.'
-date: TBD
+date: 2019-01-01
 venue: 'Transactions on Geoscience and Remote Sensing'
 paperurl: 
 citation: 'Kerner, H. R., Wagstaff, K. L., Bue, B., Gray, P. C., Bell III, J. F., Ben Amor, H. (2019). &quot;Deep Learning Methods Toward Generalized Change Detection on Planetary Surfaces.&quot; In Preparation for <i>Transactions on Geoscience and Remote Sensing</i>.'
