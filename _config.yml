@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Hannah Kerner"
 title_separator          : "-"
 name                     : &name "Hannah Kerner"
-description              : &description "PhD candidate at Arizona State University"
+description              : &description "Researcher at Arizona State University"
 url                      : https://hannah-rae.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "hannah-rae.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Hannah Kerner"
   avatar           : "profile_small.png"
-  bio              : "PhD candidate at Arizona State University"
+  bio              : "Researcher at Arizona State University"
   location         : "Tempe, AZ"
   employer         :
   googlescholar    : "https://scholar.google.com/citations?user=g5CD7dQAAAAJ&hl=en"
