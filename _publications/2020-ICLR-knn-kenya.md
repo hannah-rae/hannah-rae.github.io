@@ -12,4 +12,4 @@ Accurate crop type maps provide critical information for ensuring food security,
 
 [Download paper here](https://arxiv.org/abs/2004.03023)
 
-Recommended citation: Kerner, H. R., Wagstaff, K. L., Bue, B. D., Wellington, D. F., Jacob, S., Bell III, J. F., Kwan, C., Ben Amor, H. (2019). &quot;Comparison of novelty detection methods for multispectral images in rover-based planetary exploration missions.&quot; In <i>Proceedings of the International Conference on Learning Representations (ICLR) Workshops</i>.
+Recommended citation: Kerner, H. R., Nakalembe, C., Becker-Reshef, I. (2020). &quot;Field-level crop type classification with k-nearest neighbors: A baseline for a new Kenya smallholder dataset.&quot; In <i>Proceedings of the International Conference on Learning Representations (ICLR) Workshops</i>.
