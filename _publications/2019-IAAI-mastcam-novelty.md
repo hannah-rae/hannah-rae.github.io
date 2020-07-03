@@ -12,4 +12,4 @@ In this work, we present a system based on convolutional autoencoders for detect
 
 [Download paper here](https://www.aaai.org/ojs/index.php/AAAI/article/view/5003/4876)
 
-Recommended citation: Kerner, H. R., Wellington, D. F., Wagstaff, K. L., Bell III, J. F., Ben Amor, H. (2019). &quot;Novelty Detection for Multispectral Images with Application to Planetary Exploration.&quot; In <i>Proceedings of the AAAI Conference on Artificial Intelligence, 33(1)</i>, 9484-9491, doi:10.1609/aaai.v33i01.33019484.'
+Recommended citation: Kerner, H. R., Wellington, D. F., Wagstaff, K. L., Bell III, J. F., Ben Amor, H. (2019). &quot;Novelty Detection for Multispectral Images with Application to Planetary Exploration.&quot; In <i>Proceedings of the AAAI Conference on Artificial Intelligence, 33(1)</i>, 9484-9491, doi:10.1609/aaai.v33i01.33019484.
