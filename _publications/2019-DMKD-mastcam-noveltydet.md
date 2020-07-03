@@ -11,4 +11,4 @@ Science teams for rover-based planetary exploration missions like the Mars Scien
 
 [Download paper here](https://doi.org/10.1007/s10618-020-00697-6) -->
 
-Recommended citation: Kerner, H. R., Wagstaff, K. L., Bue, B. D., Wellington, D. F., Jacob, S., Bell III, J. F., Kwan, C., Ben Amor, H. (2019). &quot;Comparison of novelty detection methods for multispectral images in rover-based planetary exploration missions.&quot; <i>Data Mining and Knowledge Discovery</i>, 1-24, doi:10.1007/s10618-020-00697-6.
+Recommended citation: Kerner, H. R., Wagstaff, K. L., Bue, B. D., Wellington, D. F., Jacob, S., Horton, P., Bell III, J. F., Kwan, C., Ben Amor, H. (2019). &quot;Comparison of novelty detection methods for multispectral images in rover-based planetary exploration missions.&quot; <i>Data Mining and Knowledge Discovery</i>, 1-24, doi:10.1007/s10618-020-00697-6.
