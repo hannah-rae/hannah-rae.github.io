@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am currently an Assistant Research Professor at the University of Maryland, College Park. My research focuses on developing machine learning solutions for remote sensing applications in agricultural monitoring, food security, and Earth/planetary science. Most of this work is part of [NASA Harvest](https://nasaharvest.org/), NASA’s food security initiative run out of the University of Maryland.
+I am currently an Assistant Research Professor at the University of Maryland, College Park. My research focuses on developing machine learning solutions for remote sensing applications in agricultural monitoring, food security, and Earth/planetary science. I am the Machine Learning Lead and U.S. Domestic Co-Lead for [NASA Harvest](https://nasaharvest.org/), NASA’s food security initiative run out of the University of Maryland.
 
 ![Timelapse of PlanetScope images showing smallholder farms in Mali](http://hannah-rae.github.io/images/mali_timelapse.gif)
 <br><sub><sup>Timelapse of PlanetScope images showing smallholder farms in Mali</sup></sub>
