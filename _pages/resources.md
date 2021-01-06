@@ -18,7 +18,7 @@ Tired of hearing the excuse that the women did not exist to invite as speakers i
 
 --
 
-**(Mostly) Non-Technical Book Recommendations**
+**(Mostly Non-Technical) Book Recommendations**
 I read a lot of books from a wide variety of genres and find huge value in reading books that are not related to my research/expertise. Here are my favorite books from each year, in hopes that they bring you value and joy as well:
 
 2020
