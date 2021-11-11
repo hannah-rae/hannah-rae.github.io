@@ -8,9 +8,9 @@ author_profile: true
   You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
 {% endif %}
 
-1. :new: Tseng, G., Zvonkov, I., Nakalembe, C., **Kerner, H.** (2021). CropHarvest: a global satellite dataset for crop type classification. To appear in *Neural Information Processing Systems (NeurIPS) Datasets and Benchmarks*.
+1. 🆕 Tseng, G., Zvonkov, I., Nakalembe, C., **Kerner, H.** (2021). CropHarvest: a global satellite dataset for crop type classification. To appear in *Neural Information Processing Systems (NeurIPS) Datasets and Benchmarks*.
 
-2. :new: Lacoste, A., Sherwin, E., **Kerner, H.**, Alemohammad, H., Lutjens, B., Irvin, J., Dao, D., Chang, A., Gunturkun, M., Drouin, A., Rodriguez, P., Vazquez, D. (2021). Toward Foundation Models for Earth Monitoring: Proposal for a Climate Change Benchmark. To appear in *Proceedings of the Neural Information Processing Systems (NeurIPS) Workshops*, Tackling Climate Change with AI.
+2. 🆕 Lacoste, A., Sherwin, E., **Kerner, H.**, Alemohammad, H., Lutjens, B., Irvin, J., Dao, D., Chang, A., Gunturkun, M., Drouin, A., Rodriguez, P., Vazquez, D. (2021). Toward Foundation Models for Earth Monitoring: Proposal for a Climate Change Benchmark. To appear in *Proceedings of the Neural Information Processing Systems (NeurIPS) Workshops*, Tackling Climate Change with AI.
 
 3. Shirzaei, M., Khoshmanesh, M., Ojha, C., Werth, S., **Kerner, H.**, Carlson, G., Sherpa, S. F., Zhai, G., and Lee, J. Persistent impact of spring floods on crop loss in U.S. Midwest. *Weather and Climate Extremes, 34*, 100392, https://doi.org/10.1016/j.wace.2021.100392.
 
