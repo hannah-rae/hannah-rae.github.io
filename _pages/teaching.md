@@ -7,19 +7,19 @@ author_profile: true
 
 ### Courses at UMD
 - Spring 2022: Open Source GIS
-- Spring 2023*: Machine Learning for Computational Earth Observation Science
+- Spring 2023\*: Machine Learning for Computational Earth Observation Science
 
 ### Courses elsewhere
 - Spring 2015: CS for People Who Don't Know CS (Yet!), UNC Chapel Hill
 
 ### Guest lectures
-- Aug 2022*: Computer Vision for Ecology (CV4E) Summer School (Caltech)
+- Aug 2022\*: Computer Vision for Ecology (CV4E) Summer School (Caltech)
 - Fall 2021, Fall 2022: Coding for Exploration (ASU, Instructor: JD Das)
 - July 2021: PRAIRIE AI summer school (PAISS)
 - Spring 2021: Remote Sensing for Sustainable Development (Univ. of Strasbourg, Instructor: Inbal Becker-Reshef)
 - Spring 2020: Remote Sensing (UMD, Instructor: Mong-Han Huang)
 
-* Planned courses or lectures
+\* Planned courses or lectures
 
 ### Capacity building
 - Sep 2021: Crop Yield Modeling Workshop, Regional Center for Mapping of Resources for Development (RCMRD) (NASA Harvest and NASA SERVIR, PI: Nakalembe)
