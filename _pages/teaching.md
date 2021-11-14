@@ -15,7 +15,7 @@ author_profile: true
 ### Guest lectures
 - Fall 2021, Fall 2022: Coding for Exploration (ASU, Instructor: JD Das)
 - July 2021: PRAIRIE AI summer school (PAISS)
-- Spring 2021: Remote Sensing for Sustainable Development (University of Strasbourg, Instructor: Inbal Becker-Reshef)
+- Spring 2021: Remote Sensing for Sustainable Development (Univ. of Strasbourg, Instructor: Inbal Becker-Reshef)
 - Spring 2020: Remote Sensing (UMD, Instructor: Mong-Han Huang)
 
 ### Capacity building
