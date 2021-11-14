@@ -24,6 +24,7 @@ You can download my CV [here](http://hannah-rae.github.io/files/Kerner_Hannah_CV
 
 ## Recent News
 - Nov 2021: Our paper on Foundation Models for Earth Monitoring: Proposal for a Climate Change Benchmark was accepted for the Climate Change AI workshop at NeurIPS!
+- Oct 2021: Our work on rapid response cropland mapping with ML/EO in Togo was featured in Radiant Earth's article on [Discoverable and Reusable ML Workflows for Earth Observation](https://medium.com/radiant-earth-insights/discoverable-and-reusable-ml-workflows-for-earth-observation-part-2-ebe2b4812d5a)!
 - Sep 2021: Our paper on the new [CropHarvest dataset](https://openreview.net/forum?id=JtjzUXPEaCu) was accepted for NeurIPS Datasets and Benchmarks track!
 - Aug 2021: Kicked off our project on planted area change estimation using ML/EO in Ethiopia and Sudan, part of FEWS NET East Africa virtual crop tour! (PI: Kerner/UMD)
 - Jul 2021: Field data collection campaign in Uganda for Street2Sat/Helmets Labeling Crops project completed! (PI: Nakalembe/UMD)
