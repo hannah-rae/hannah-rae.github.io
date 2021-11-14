@@ -22,8 +22,12 @@ I did my Ph.D. at Arizona State University on machine learning methods (especial
 
 You can download my CV [here](http://hannah-rae.github.io/files/Kerner_Hannah_CV.pdf).
 
-<!-- ## Recent News
-- stuff -->
+## Recent News
+- Nov 2021: Our paper on Foundation Models for Earth Monitoring: Proposal for a Climate Change Benchmark was accepted for the Climate Change AI workshop at NeurIPS!
+- Sep 2021: Our paper on the new [CropHarvest dataset](https://openreview.net/forum?id=JtjzUXPEaCu) was accepted for NeurIPS Datasets and Benchmarks track!
+- Aug 2021: Kicked off our project on planted area change estimation using ML/EO in Ethiopia and Sudan, part of FEWS NET East Africa virtual crop tour! (PI: Kerner/UMD)
+- Jul 2021: Field data collection campaign in Uganda for Street2Sat/Helmets Labeling Crops project completed! (PI: Nakalembe/UMD)
+- Apr 2021: Kicked off our project on Domain-agnostic Outlier Ranking Algorithms (DORA) with JPL, funded by NASA SMD as a Cross-Divisional AI/ML Use Case Demonstration! (PI: Kerner/UMD)
 
 ## Recognition
 - Forbes 30 Under 30 in Science (2021)
