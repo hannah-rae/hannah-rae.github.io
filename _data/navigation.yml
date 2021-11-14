@@ -1,5 +1,8 @@
 # main links links
 main:
+  - title: "Research"
+    url: /projects/
+
   - title: "Publications"
     url: /publications/
 
@@ -11,9 +14,6 @@ main:
 
   # - title: "Teaching"
   #   url: /teaching/    
-    
-  # - title: "Research"
-  #   url: /research/
         
   # - title: "Blog Posts"
   #   url: /year-archive/
