@@ -34,4 +34,4 @@ You can download my CV [here](http://hannah-rae.github.io/files/Kerner_Hannah_CV
 - Forbes 30 Under 30 in Science (2021)
 - Outstanding Research Faculty department award (2021)
 - Radiant Earth Foundation's 15 Leading Women in ML4EO (2021)
-- Women Techmakers award (2018)
+- Google Women Techmakers award (2018)
