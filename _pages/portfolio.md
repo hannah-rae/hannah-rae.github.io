@@ -5,7 +5,7 @@ author_profile: true
 ---
 
 ## Agricultural land cover/land use classification and monitoring
-<img style="float: left;" src="http://hannah-rae.github.io/images/crop_type_classification.png" width=300>
+<img style="float: left; padding: 10px 10px 10px 10px;" src="http://hannah-rae.github.io/images/crop_type_classification.png" width=300>
 Information about where and which types of crops are growing in addition to how they are growing and expected to perform (e.g., crop conditions, expected yield, farming practices) is critical for informing agricultural market decisions and ensuring global food security. Machine learning and remote sensing data can be used to create crop type maps and other data products that provide information such as crop-specific land cover classifications to enable timely analysis at field scales throughout the growing season. These data products can be used in downstream analyses and decision-making such as agricultural production statistics, early warning for impending food shortages, pest/disease monitoring, crop damage assessment, and more.
 
 ### Related papers
