@@ -22,7 +22,7 @@ author_profile: true
 - Sep 2021: Crop Yield Modeling Workshop, Regional Center for Mapping of Resources for Development (RCMRD) (NASA Harvest and NASA SERVIR, PI: Nakalembe)
 - Aug-Dec 2021: Course on remote sensing and ML technologies for agriculture, part of Educational program to strengthen agricultural and agroindustrial educational establishments of the Province of Buenos Aires, on agricultural estimates and new applied technologies (NASA Harvest and Bolsa de Cereales)
 
-<img style="float: left; padding: 10px 10px 10px 10px;" src="http://hannah-rae.github.io/images/girls_who_code.jpeg" width=300>
+<img style="float: right; padding: 10px 10px 10px 10px;" src="http://hannah-rae.github.io/images/girls_who_code.jpeg" width=300>
 ### Outreach
 - 2020-: From Prison Cells to Ph.D. (mentor)
 - 2019-: Brooke Owens Fellowship (reviewer/mentor)
