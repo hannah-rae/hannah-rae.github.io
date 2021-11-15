@@ -52,3 +52,12 @@ author_profile: true
 | Saketh Sundar | 2021 | Field boundary delineation in satellite images | River Hill High School |
 
 \* Latest year working with me
+
+### Other research advising
+
+| Name | Year\* | Topic | Last Known Affiliation |
+| --- | --- |
+| Robert Huppertz | 2021 | Burned area mapping near refugee settlements | Orbio |
+| NDspace team | 2021 | Depth estimation for Street2Sat using structure from motion (Deloitte Gravity Challenge) | n/a |
+
+\* Latest year working with me
