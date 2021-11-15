@@ -5,6 +5,8 @@ permalink: /students/
 author_profile: true
 ---
 
+<img style="float: center; padding: 10px 10px 10px 10px;" src="http://hannah-rae.github.io/images/group_zoom.png" width=500>
+
 ### Doctoral and Masters Students
 
 | Name | Year | Topic | Current Affiliation |
@@ -39,6 +41,7 @@ author_profile: true
 | Bryce Dubayah | 2021 | DORA pipeline for outlier detection, volcanic thermal anomalies | UMD CS |
 | Sakshum Kulshrestha | 2021 | Novelty-guided targeting for Mars rovers | UMD CS |
 | Yao Poudima | 2021 | Cropland mapping in Mali | UMD iSchool |
+| Bissaka Kenah | 2021 | Segmentation for crop type mapping in US Midwest | Morgan Stanley |
 | Favour Nerrise | 2020 | Novelty-guided targeting for Mars rovers | Stanford CS |
 
 <sub><sup>\* Latest year working with me</sup></sub>
