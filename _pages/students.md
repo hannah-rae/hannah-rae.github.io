@@ -13,7 +13,7 @@ author_profile: true
 | Ivan Zvonkov | 2023\* | Scaling ML ops and vegetation forecasting in satelilte data| UMD CS |
 | Kevin Yoo | 2023\* | Vegetation forecasting in satellite data | UMD CS |
 
-\* Planned graduation year
+<sub><sup>\* Planned graduation year</sub></sup>
 
 ### Masters Capstone Students
 
@@ -25,7 +25,7 @@ author_profile: true
 | Adam Martin | Fall 2021 | Leveraging Machine Learning to Map Salient Classes in Jezero Crater, Mars | Leidos |
 | Afolarin Lawal | Spring 2020 | Mapping prevent plant acres due to US Midwest 2019 flooding | Cloud to Street |
 
-\* Capstone semester and year
+<sub><sup>\* Capstone semester and year</sub></sup>
 
 ### Undergraduate Students
 
@@ -41,7 +41,7 @@ author_profile: true
 | Yao Poudima | 2021 | Cropland mapping in Mali | UMD iSchool |
 | Favour Nerrise | 2020 | Novelty-guided targeting for Mars rovers | Stanford CS |
 
-\* Latest year working with me
+<sub><sup>\* Latest year working with me</sub></sup>
 
 ### High School Students
 
@@ -51,7 +51,7 @@ author_profile: true
 | Vinay Raman | 2021 | DORA pipeline for outlier detection, ground annotations with noisy labels | Montgomery Blair High School |
 | Saketh Sundar | 2021 | Field boundary delineation in satellite images | River Hill High School |
 
-\* Latest year working with me
+<sub><sup>\* Latest year working with me</sub></sup>
 
 ### Other research advising
 
@@ -60,4 +60,4 @@ author_profile: true
 | Robert Huppertz | 2021 | Burned area mapping near refugee settlements | Orbio |
 | NDspace team | 2021 | Depth estimation for Street2Sat using structure from motion (Deloitte Gravity Challenge) | n/a |
 
-\* Latest year working with me
+<sub><sup>\* Latest year working with me</sub></sup>
