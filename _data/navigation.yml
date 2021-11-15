@@ -9,11 +9,11 @@ main:
   - title: "Teaching"
     url: /teaching/
 
+  - title: "Students"
+    url: /students/
+
   - title: "Resources"
     url: /resources/
-
-  # - title: "Talks"
-  #   url: /talks/    
         
   # - title: "Blog Posts"
   #   url: /year-archive/
