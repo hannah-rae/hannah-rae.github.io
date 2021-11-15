@@ -5,7 +5,7 @@ permalink: /students/
 author_profile: true
 ---
 
-<img style="float: center; padding: 10px 10px 10px 10px;" src="http://hannah-rae.github.io/images/group_zoom.png" width=500>
+<img style="float: center; padding: 10px 10px 10px 10px;" src="http://hannah-rae.github.io/images/group_zoom.jpg" width=500>
 
 ### Doctoral and Masters Students
 
