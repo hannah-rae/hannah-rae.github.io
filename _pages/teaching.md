@@ -14,7 +14,7 @@ author_profile: true
 
 ### Guest lectures
 - Aug 2022\*: Computer Vision for Ecology (CV4E) Summer School (Caltech)
-- Fall 2021, Fall 2022: Coding for Exploration (ASU, Instructor: JD Das)
+- Fall 2019, 2021, 2022: Coding for Exploration (ASU, Instructor: JD Das)
 - July 2021: PRAIRIE AI summer school (PAISS)
 - Spring 2021: Remote Sensing for Sustainable Development (Univ. of Strasbourg, Instructor: Inbal Becker-Reshef)
 - Spring 2020: Remote Sensing (UMD, Instructor: Mong-Han Huang)
