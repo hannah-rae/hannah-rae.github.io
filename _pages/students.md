@@ -21,7 +21,7 @@ author_profile: true
 
 | Name | Year\* | Topic | Current Affiliation |
 | --- | --- |
-| David Adamkiewcz | Spring 2021 | Shedding Light on Opaque Statistics of the World’s Largest Agricultural Consumer (China) | NGA |
+| David Adamkiewicz | Spring 2021 | Shedding Light on Opaque Statistics of the World’s Largest Agricultural Consumer (China) | NGA |
 | Ryan McWeeney | Spring 2021 | Inter-comparison of cropland detection accuracy in public land cover products | Maxar |
 | Amanda Lopez | Spring 2021 | Assessing impact of conflict on planted area change in Tigray Region, Ethiopia | USDA |
 | Adam Martin | Fall 2021 | Leveraging Machine Learning to Map Salient Classes in Jezero Crater, Mars | Leidos |
