@@ -35,6 +35,7 @@ author_profile: true
 | --- | --- |
 | Madhava Paliyam | 2021 | Segmentation for crop type mapping, Street2Sat object detection and depth estimation | UMD CS |
 | Eva Utzschneider | 2021 | Cropland mapping for planted area change assessment | UMD CS |
+| Kevin Liu | 2021 | Street2Sat object detection and data visualization | UMD CS |
 | Logan Daytner | 2021 | Label annotation for satellite images | UMD GEOG |
 | Sophia Owens | 2021 | Label annotation for satellite images | UMD GEOG |
 | Chin-Yun Kuei | 2021 | Label annotation for satellite images | UMD GEOG |
