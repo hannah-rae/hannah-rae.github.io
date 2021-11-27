@@ -5,6 +5,9 @@ permalink: /teaching/
 author_profile: true
 ---
 
+### Teaching philosophy
+For students to thrive and be successful, it is important for them to understand *why* they are learning something and to feel invested in learning the concepts being taught. The motivation for a topic should come first, not as an afterthought. My teaching style is interactive and problem-based as I encourage students to engage with the material and think about how it relates to things they are learning and experiencing outside the classroom. Students can find limitless resources to learn computer science and AI concepts online. I feel that my role as their instructor is to not just teach them the concepts in the course syllabus but, as with some machine learning models, equip them with better meta-learning tools that enable them to learn new concepts and tools more efficiently in the future.
+
 ### Courses at UMD
 - Spring 2022: Open Source GIS
 - Spring 2023\*: Machine Learning for Computational Earth Observation Science
