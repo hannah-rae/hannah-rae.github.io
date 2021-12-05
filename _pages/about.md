@@ -30,6 +30,7 @@ You can download my CV [here](http://hannah-rae.github.io/files/Kerner_Hannah_CV
 - Google Women Techmakers award (2018)
 
 ## News
+- Dec 2021: Our paper on task-informed meta-learning for crop type mapping was accepted for the AI for Agriculture and Food Systems (AIAFS) workshop at AAAI!
 - Nov 2021: Our paper on Foundation Models for Earth Monitoring: Proposal for a Climate Change Benchmark was accepted for the Climate Change AI workshop at NeurIPS!
 - Oct 2021: Our [NASA E-Clips educational videos](https://www.youtube.com/watch?v=jit5spufdhg) explaining how NASA data is used for agriculture and food security are live!
 - Oct 2021: Our work on rapid response cropland mapping with ML/EO in Togo was featured in Radiant Earth's article on [Discoverable and Reusable ML Workflows for Earth Observation](https://medium.com/radiant-earth-insights/discoverable-and-reusable-ml-workflows-for-earth-observation-part-2-ebe2b4812d5a)!
