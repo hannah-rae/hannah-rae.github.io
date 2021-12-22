@@ -10,9 +10,9 @@ author_profile: true
 
 1. 🆕 Tseng, G., **Kerner, H.**, Rolnick, D. (2021). TIML: Task-Informed Meta-Learning for crop type mapping. To appear in *Association for the Advancement of Artificial Intelligence (AAAI) Workshops*, AI for Agriculture and Food Systems (AIAFS).
 
-1. 🆕 Tseng, G., Zvonkov, I., Nakalembe, C., **Kerner, H.** (2021). CropHarvest: a global satellite dataset for crop type classification. To appear in *Neural Information Processing Systems (NeurIPS) Datasets and Benchmarks*.
+1. 🆕 Tseng, G., Zvonkov, I., Nakalembe, C., **Kerner, H.** (2021). CropHarvest: a global satellite dataset for crop type classification. *Neural Information Processing Systems (NeurIPS) Datasets and Benchmarks*, [link](https://openreview.net/forum?id=JtjzUXPEaCu).
 
-2. 🆕 Lacoste, A., Sherwin, E., **Kerner, H.**, Alemohammad, H., Lutjens, B., Irvin, J., Dao, D., Chang, A., Gunturkun, M., Drouin, A., Rodriguez, P., Vazquez, D. (2021). Toward Foundation Models for Earth Monitoring: Proposal for a Climate Change Benchmark. To appear in *Proceedings of the Neural Information Processing Systems (NeurIPS) Workshops*, Tackling Climate Change with AI.
+2. 🆕 Lacoste, A., Sherwin, E., **Kerner, H.**, Alemohammad, H., Lutjens, B., Irvin, J., Dao, D., Chang, A., Gunturkun, M., Drouin, A., Rodriguez, P., Vazquez, D. (2021). Toward Foundation Models for Earth Monitoring: Proposal for a Climate Change Benchmark. *Proceedings of the Neural Information Processing Systems (NeurIPS) Workshops*, Tackling Climate Change with AI, [link](https://www.climatechange.ai/papers/neurips2021/73/paper.pdf).
 
 3. Shirzaei, M., Khoshmanesh, M., Ojha, C., Werth, S., **Kerner, H.**, Carlson, G., Sherpa, S. F., Zhai, G., and Lee, J. Persistent impact of spring floods on crop loss in U.S. Midwest. *Weather and Climate Extremes, 34*, 100392, [link](https://doi.org/10.1016/j.wace.2021.100392).
 
