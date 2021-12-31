@@ -33,13 +33,15 @@ author_profile: true
 
 | Name | Year\* | Topic | Last Known Affiliation |
 | --- | --- |
+| Arushi Patel | 2022 | Out-of-distribution detection for science applications | UMD CS |
+| Maryann Vazhapilly | 2022 | Addressing dataset shift for operational ML systems for crop mapping | UMD CS |
 | Madhava Paliyam | 2021 | Segmentation for crop type mapping, Street2Sat object detection and depth estimation | UMD CS |
 | Eva Utzschneider | 2021 | Cropland mapping for planted area change assessment | UMD CS |
 | Kevin Liu | 2021 | Street2Sat object detection and data visualization | UMD CS |
 | Logan Daytner | 2021 | Label annotation for satellite images | UMD GEOG |
 | Sophia Owens | 2021 | Label annotation for satellite images | UMD GEOG |
 | Chin-Yun Kuei | 2021 | Label annotation for satellite images | UMD GEOG |
-| Bryce Dubayah | 2021 | DORA pipeline for outlier detection, volcanic thermal anomalies | UMD CS |
+| Bryce Dubayah | 2021 | DORA pipeline for outlier detection, volcanic thermal anomalies | DeepCell |
 | Sakshum Kulshrestha | 2021 | Novelty-guided targeting for Mars rovers | UMD CS |
 | Yao Poudima | 2021 | Cropland mapping in Mali | UMD iSchool |
 | Bissaka Kenah | 2021 | Segmentation for crop type mapping in US Midwest | Morgan Stanley |
