@@ -24,12 +24,14 @@ I did my Ph.D. at Arizona State University on machine learning methods (especial
 You can download my CV [here](http://hannah-rae.github.io/files/Kerner_Hannah_CV.pdf).
 
 ## Recognition
+-  Top 10 of 100 projects solving problems related to the UN SDGs with AI, International Research Centre on Artificial Intelligence (IRCAI), for NASA Harvest (2021)
 - Forbes 30 Under 30 in Science (2021)
 - Outstanding Research Faculty department award (2021)
 - Radiant Earth Foundation's 15 Leading Women in ML4EO (2021)
 - Google Women Techmakers award (2018)
 
 ## News
+- Dec 2021: Our team at NASA Harvest was recognized in the Top 10 of 100 projects solving problems related to the UN SDGs with AI, International Research Centre on Artificial Intelligence (IRCAI)!
 - Dec 2021: Our paper on task-informed meta-learning for crop type mapping was accepted for the AI for Agriculture and Food Systems (AIAFS) workshop at AAAI!
 - Nov 2021: Our paper on Foundation Models for Earth Monitoring: Proposal for a Climate Change Benchmark was accepted for the Climate Change AI workshop at NeurIPS!
 - Oct 2021: Our [NASA E-Clips educational videos](https://www.youtube.com/watch?v=jit5spufdhg) explaining how NASA data is used for agriculture and food security are live!
