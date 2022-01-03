@@ -31,6 +31,7 @@ You can download my CV [here](http://hannah-rae.github.io/files/Kerner_Hannah_CV
 - Google Women Techmakers award (2018)
 
 ## News
+- Jan 2022: Our CVPR 2022 workshop proposal was accepted for the 3rd International Workshop and Prize Challenge on Agriculture-Vision: Challenges & Opportunities for Computer Vision in Agriculture!
 - Dec 2021: Our team at NASA Harvest was recognized in the Top 10 of 100 projects solving problems related to the UN SDGs with AI, International Research Centre on Artificial Intelligence (IRCAI)!
 - Dec 2021: Our paper on task-informed meta-learning for crop type mapping was accepted for the AI for Agriculture and Food Systems (AIAFS) workshop at AAAI!
 - Nov 2021: Our paper on Foundation Models for Earth Monitoring: Proposal for a Climate Change Benchmark was accepted for the Climate Change AI workshop at NeurIPS!
