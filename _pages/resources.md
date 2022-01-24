@@ -21,6 +21,15 @@ Tired of hearing the excuse that the women did not exist to invite as speakers i
 **(Mostly Non-Technical) Book Recommendations**
 I read a lot of books from a wide variety of genres and find huge value in reading books that are not related to my research/expertise. Here are my favorite books from each year, in hopes that they bring you value and joy as well:
 
+2021
+- *Homegoing* by Yaa Gyasi
+- *Abyssinian Chronicles* by Moses Isegawa
+- *Hood Feminism* by Mikki Kendall
+- *Deep Work* by Cal Newport
+- *Educated* by Tara Westover
+- *A Promised Land* by Barack Obama
+- *A Woman is No Man* by Nadia Murad
+
 2020
 - *The Last Girl* by Nadia Murad
 - *The Nickel Boys* by Colson Whitehead
