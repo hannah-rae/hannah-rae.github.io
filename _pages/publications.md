@@ -8,7 +8,9 @@ author_profile: true
   You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
 {% endif %}
 
-1. 🆕 Tseng, G., **Kerner, H.**, Rolnick, D. (2021). TIML: Task-Informed Meta-Learning for crop type mapping. To appear in *Association for the Advancement of Artificial Intelligence (AAAI) Workshops*, AI for Agriculture and Food Systems (AIAFS).
+1. 🆕 Nakalembe, C. L. and **Kerner, H. R.** (2022). Applications and Considerations for AI-EO for Agriculture in Sub-Saharan Africa. To appear in *Association for the Advancement of Artificial Intelligence (AAAI) Workshops*, International Workshop on Social Impact of AI for Africa.
+
+1. 🆕 Tseng, G., **Kerner, H.**, Rolnick, D. (2022). TIML: Task-Informed Meta-Learning for crop type mapping. To appear in *Association for the Advancement of Artificial Intelligence (AAAI) Workshops*, AI for Agriculture and Food Systems (AIAFS).
 
 1. 🆕 Tseng, G., Zvonkov, I., Nakalembe, C., **Kerner, H.** (2021). CropHarvest: a global satellite dataset for crop type classification. *Neural Information Processing Systems (NeurIPS) Datasets and Benchmarks*, [link](https://openreview.net/forum?id=JtjzUXPEaCu).
 
