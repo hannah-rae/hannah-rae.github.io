@@ -31,7 +31,8 @@ You can download my CV [here](http://hannah-rae.github.io/files/Kerner_Hannah_CV
 - Google Women Techmakers award (2018)
 
 ## News
-- Feb 2022: Our paper ``Applications and Considerations for AI-EO for Agriculture in Sub-Saharan Africa`` was accepted for an oral presentation at AAAI 2022, International Workshop on Social Impact of AI for Africa!
+- Feb 2022: Kicked off our project on "Optimizing Crop Yield Data Collection for Supply Chain Enhancement", funded by Tetra Tech and Bill & Melinda Gates Foundation! (PI: Nakalembe/UMD)
+- Feb 2022: Our paper "Applications and Considerations for AI-EO for Agriculture in Sub-Saharan Africa" was accepted for an oral presentation at AAAI 2022, International Workshop on Social Impact of AI for Africa!
 - Feb 2022: We were invited to give a tutorial at CVPR 2022 on Remote Sensing for Agriculture and Food Security!
 - Jan 2022: Our CVPR 2022 workshop proposal was accepted for the 3rd International Workshop and Prize Challenge on Agriculture-Vision: Challenges & Opportunities for Computer Vision in Agriculture!
 - Dec 2021: Our team at NASA Harvest was recognized in the Top 10 of 100 projects solving problems related to the UN SDGs with AI, International Research Centre on Artificial Intelligence (IRCAI)!
