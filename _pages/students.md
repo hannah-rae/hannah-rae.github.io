@@ -11,9 +11,10 @@ author_profile: true
 
 | Name | Year | Topic | Current Affiliation |
 | --- | --- |
-| Gabriel Tseng | 2025\* | ML algorithms for remote sensing data with sparse labels | McGill/Mila |
-| Ivan Zvonkov | 2023\* | Scaling ML ops and vegetation forecasting in satelilte data| UMD CS |
-| Kevin Yoo | 2023\* | Vegetation forecasting in satellite data | UMD CS |
+| Gabriel Tseng | 2025\* | ML algorithms for remote sensing data with sparse labels | McGill/Mila (PhD) |
+| Ivan Zvonkov | 2023\* | Scaling ML ops and vegetation forecasting in satelilte data| UMD CS (MS) |
+| Yiming Zhang | 2023\* | Urban area change detection in high-resolution satellite images | UMD GEOG (PhD) |
+| Kevin Yoo | 2023\* | Vegetation forecasting in satellite data | UMD CS (MS) |
 
 <sub><sup>\* Planned graduation year</sup></sub>
 
@@ -33,13 +34,15 @@ author_profile: true
 
 | Name | Year\* | Topic | Last Known Affiliation |
 | --- | --- |
-| Arushi Patel | 2022 | Out-of-distribution detection for science applications | UMD CS |
+| Ekenedilichukwu Ndu | 2022 | Label annotation for satellite images | UMD CS |
+| Adam Yang | 2022 | Label annotation for satellite images, land cover benchmarking | UMD CS |
 | Maryann Vazhapilly | 2022 | Addressing dataset shift for operational ML systems for crop mapping | UMD CS |
-| Madhava Paliyam | 2022 | Segmentation for crop type mapping, Street2Sat object detection and depth estimation | UMD CS |
+| Madhava Paliyam | 2022 | Segmentation for crop type mapping, Street2Sat object detection and depth estimation | Palantir |
 | Eva Utzschneider | 2022 | Cropland mapping for planted area change assessment | UMD CS |
-| Logan Daytner | 2022 | Label annotation for satellite images | UMD GEOG |
 | Sophia Owens | 2022 | Label annotation for satellite images | UMD GEOG |
 | Chin-Yun Kuei | 2022 | Label annotation for satellite images | UMD GEOG |
+| Logan Daytner | 2022 | Label annotation for satellite images | UMD GEOG |
+| Arushi Patel | 2022 | Out-of-distribution detection for science applications | UMD CS |
 | Kevin Liu | 2021 | Street2Sat object detection and data visualization | UMD CS |
 | Bryce Dubayah | 2021 | DORA pipeline for outlier detection, volcanic thermal anomalies | DeepCell |
 | Sakshum Kulshrestha | 2021 | Novelty-guided targeting for Mars rovers | UMD CS |
