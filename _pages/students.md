@@ -21,7 +21,6 @@ author_profile: true
 | Ivan Zvonkov | 2023\* | Scalable and deployed ML for remote sensing | UMD CS (MS) |
 | Yiming Zhang | 2023\* | Urban area change detection in high-resolution satellite images | UMD GEOG (PhD) |
 | Ujjwala Anantheswaran | 2022 | Event Detection as Multi-Task Text Generation | ASU CS (MS) |
-<!-- | Kevin Yoo | 2023\* | Vegetation forecasting in satellite data | UMD CS (MS) | -->
 
 <sub><sup>\* Planned graduation year</sup></sub>
 
