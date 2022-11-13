@@ -8,13 +8,25 @@ author_profile: true
   You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
 {% endif %}
 
-1. 🆕 Nakalembe, C. L. and **Kerner, H. R.** (2022). Applications and Considerations for AI-EO for Agriculture in Sub-Saharan Africa. To appear in *Association for the Advancement of Artificial Intelligence (AAAI) Workshops*, International Workshop on Social Impact of AI for Africa.
+1. 🆕 Rice, M.S., Seeger, C., Bell, J., Calef, F., St Clair, M., Eng, A., Fraeman, A.A., Hughes, C., Horgan, B., Jacob, S., Johnson, J., **Kerner, H.**, Kinch, K., Lemmon, M., Million, C., Starr, M., and Wellington, D. (2022). Spectral diversity of rocks and soils in Mastcam observations along the Curiosity rover’s traverse in Gale crater, Mars. *Journal of Geophysical Research: Planets*, e2021JE007134, [link](https://doi.org/10.1029/2021JE007134).
 
-1. 🆕 Tseng, G., **Kerner, H.**, Rolnick, D. (2022). TIML: Task-Informed Meta-Learning for crop type mapping. To appear in *Association for the Advancement of Artificial Intelligence (AAAI) Workshops*, AI for Agriculture and Food Systems (AIAFS).
+1. 🆕 **Kerner, H. R.** and Adler, J. B. (2022). Guiding Field Exploration on Earth and Mars with Outlier Detection. *Proceedings of the International Geoscience and Remote Sensing Symposium (IGARSS 2022)*, pp. 5333-5336, [link](https://ieeexplore.ieee.org/document/9884366).
 
-1. 🆕 Tseng, G., Zvonkov, I., Nakalembe, C., **Kerner, H.** (2021). CropHarvest: a global satellite dataset for crop type classification. *Neural Information Processing Systems (NeurIPS) Datasets and Benchmarks*, [link](https://openreview.net/forum?id=JtjzUXPEaCu).
+1. Manheim, M. R., Henriksen, M. R., Robinson, M. S., **Kerner, H. R.**, Karas, B. A., Becker, K. J., Chojnacki, M., Sutton, S. S., Blewett, D. T. (2022). High-Resolution Regional Digital Elevation Models and Derived Products from MESSENGER MDIS Images. *Remote Sensing, 14*, 3564, [link](https://doi.org/10.3390/rs14153564).
 
-2. 🆕 Lacoste, A., Sherwin, E., **Kerner, H.**, Alemohammad, H., Lutjens, B., Irvin, J., Dao, D., Chang, A., Gunturkun, M., Drouin, A., Rodriguez, P., Vazquez, D. (2021). Toward Foundation Models for Earth Monitoring: Proposal for a Climate Change Benchmark. *Proceedings of the Neural Information Processing Systems (NeurIPS) Workshops*, Tackling Climate Change with AI, [link](https://www.climatechange.ai/papers/neurips2021/73/paper.pdf).
+1. **Kerner, H. R.**, Sahajpal, R., Pai, D. B., Skakun, S., Puricelli, E., Hosseini, M., Meyer, S., and Becker-Reshef, I. (2022). Phenological normalization can improve in-season classification of maize and soybean: A case study in the central US Corn Belt. *Science of Remote Sensing, 6*, 100059, [link](https://doi.org/10.1016/j.srs.2022.100059).
+
+1. **Kerner, H. R.**, Rebbapragada, U., Wagstaff, K. L., Lu, S., Dubayah, B., Huff, E., Raman, V., and Kulshrestha, S. (2022). Domain-Agnostic Outlier Ranking Algorithms---A Configurable Pipeline for Facilitating Outlier Detection in Scientific Datasets. *Frontiers in Astronomy and Space Sciences, 9*, 867947, [link](https://doi.org/10.3389/fspas.2022.867947).
+
+1. Nakalembe, C. L. and **Kerner, H. R.** (2022). Applications and Considerations for AI-EO for Agriculture in Sub-Saharan Africa. *Association for the Advancement of Artificial Intelligence (AAAI) Workshops*, International Workshop on Social Impact of AI for Africa.
+
+1. Tseng, G., **Kerner, H.**, Rolnick, D. (2022). TIML: Task-Informed Meta-Learning for crop type mapping. *Association for the Advancement of Artificial Intelligence (AAAI) Workshops*, AI for Agriculture and Food Systems (AIAFS).
+
+1. Handwerger, A. L., Jones, S. Y., Amatya, P., **Kerner, H. R.**, Kirschbaum, D. B., and Huang, M. H. (2021). Strategies for landslide detection using open-access synthetic aperture radar backscatter change in Google Earth Engine. *Natural Hazards and Earth System Sciences Discussions, 22*, pp. 753-773, [link](https://doi.org/10.5194/nhess-22-753-2022).
+
+1. Tseng, G., Zvonkov, I., Nakalembe, C., **Kerner, H.** (2021). CropHarvest: a global satellite dataset for crop type classification. *Neural Information Processing Systems (NeurIPS) Datasets and Benchmarks*, [link](https://openreview.net/forum?id=JtjzUXPEaCu).
+
+2. Lacoste, A., Sherwin, E., **Kerner, H.**, Alemohammad, H., Lutjens, B., Irvin, J., Dao, D., Chang, A., Gunturkun, M., Drouin, A., Rodriguez, P., Vazquez, D. (2021). Toward Foundation Models for Earth Monitoring: Proposal for a Climate Change Benchmark. *Proceedings of the Neural Information Processing Systems (NeurIPS) Workshops*, Tackling Climate Change with AI, [link](https://www.climatechange.ai/papers/neurips2021/73/paper.pdf).
 
 3. Shirzaei, M., Khoshmanesh, M., Ojha, C., Werth, S., **Kerner, H.**, Carlson, G., Sherpa, S. F., Zhai, G., and Lee, J. Persistent impact of spring floods on crop loss in U.S. Midwest. *Weather and Climate Extremes, 34*, 100392, [link](https://doi.org/10.1016/j.wace.2021.100392).
 
