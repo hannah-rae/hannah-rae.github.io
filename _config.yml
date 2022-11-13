@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Hannah Kerner"
 title_separator          : "-"
 name                     : &name "Hannah Kerner"
-description              : &description "Assistant Research Professor at University of Maryland"
+description              : &description "Assistant Professor at Arizona State University"
 url                      : https://hannah-rae.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "hannah-rae.github.io"
@@ -82,11 +82,11 @@ analytics:
 author:
   name             : "Hannah Kerner"
   avatar           : "profile_small.png"
-  bio              : "Assistant Research Professor at University of Maryland"
-  location         : "College Park, MD"
+  bio              : "Assistant Professor at Arizona State University"
+  location         : "Tempe, AZ"
   employer         :
   googlescholar    : "https://scholar.google.com/citations?user=g5CD7dQAAAAJ&hl=en"
-  email            : "hkerner@umd.edu"
+  email            : "hkerner@asu.edu"
   uri              :
   bitbucket        :
   codepen          :
