@@ -8,9 +8,15 @@ author_profile: true
   You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
 {% endif %}
 
-1. 🆕 Rice, M.S., Seeger, C., Bell, J., Calef, F., St Clair, M., Eng, A., Fraeman, A.A., Hughes, C., Horgan, B., Jacob, S., Johnson, J., **Kerner, H.**, Kinch, K., Lemmon, M., Million, C., Starr, M., and Wellington, D. (2022). Spectral diversity of rocks and soils in Mastcam observations along the Curiosity rover’s traverse in Gale crater, Mars. *Journal of Geophysical Research: Planets*, e2021JE007134, [link](https://doi.org/10.1029/2021JE007134).
+1. 🆕 Zvonkov, I., Tseng, G., Nakalembe, C., and **Kerner, H.** (2023). OpenMapFlow: A Library for Rapid Map Creation with Machine Learning and Remote Sensing Data. To appear in *Proceedings of the 2023 AAAI Conference on Artificial Intelligence*.
 
-1. 🆕 **Kerner, H. R.** and Adler, J. B. (2022). Guiding Field Exploration on Earth and Mars with Outlier Detection. *Proceedings of the International Geoscience and Remote Sensing Symposium (IGARSS 2022)*, pp. 5333-5336, [link](https://ieeexplore.ieee.org/document/9884366).
+1. 🆕 **Kerner, H.**, Sundar, S., and Satish, M. (2023). Multi-Region Transfer Learning for Segmentation of Crop Field Boundaries in Satellite Images with Limited Labels. To appear in *Proceedings of the 2023 AAAI Conference on Artificial Intelligence Workshops*.
+
+1. 🆕 Manimurugan, S., Singaram, R., Nakalembe, C., and **Kerner, H.** (2022). Geo-referencing crop labels from street-level images using Structure from Motion. In *Proceedings of the 73rd International Astronautical Congress (IAC)*, [link](https://www.researchgate.net/publication/365360146_Geo-referencing_crop_labels_from_street-level_images_using_Structure_from_Motion).
+
+1. Rice, M.S., Seeger, C., Bell, J., Calef, F., St Clair, M., Eng, A., Fraeman, A.A., Hughes, C., Horgan, B., Jacob, S., Johnson, J., **Kerner, H.**, Kinch, K., Lemmon, M., Million, C., Starr, M., and Wellington, D. (2022). Spectral diversity of rocks and soils in Mastcam observations along the Curiosity rover’s traverse in Gale crater, Mars. *Journal of Geophysical Research: Planets*, e2021JE007134, [link](https://doi.org/10.1029/2021JE007134).
+
+1. **Kerner, H. R.** and Adler, J. B. (2022). Guiding Field Exploration on Earth and Mars with Outlier Detection. *Proceedings of the International Geoscience and Remote Sensing Symposium (IGARSS 2022)*, pp. 5333-5336, [link](https://ieeexplore.ieee.org/document/9884366).
 
 1. Manheim, M. R., Henriksen, M. R., Robinson, M. S., **Kerner, H. R.**, Karas, B. A., Becker, K. J., Chojnacki, M., Sutton, S. S., Blewett, D. T. (2022). High-Resolution Regional Digital Elevation Models and Derived Products from MESSENGER MDIS Images. *Remote Sensing, 14*, 3564, [link](https://doi.org/10.3390/rs14153564).
 

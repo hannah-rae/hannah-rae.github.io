@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-<a href="https://www.youtube.com/watch?v=64WcfBXnuKI" title="AskSME: Dr. Hannah Kerner - Artificial Intelligence Lead, Close-up with a NASA Subject Matter Expert"><img style="float: right; padding: 10px 10px 10px 10px;" src="http://hannah-rae.github.io/images/asksme.png" alt="AskSME: Dr. Hannah Kerner - Artificial Intelligence Lead" width=300 /></a>
+<a href="https://www.youtube.com/watch?v=5pBfi-buqo8" title="AskSME: Dr. Hannah Kerner - Artificial Intelligence Lead, Close-up with a NASA Subject Matter Expert"><img style="float: right; padding: 10px 10px 10px 10px;" src="http://hannah-rae.github.io/images/asksme.png" alt="AskSME: Dr. Hannah Kerner - Artificial Intelligence Lead" width=300 /></a>
 <!-- <img style="float: right; padding: 10px 10px 10px 10px;" src="http://hannah-rae.github.io/images/mali_l3h_small.gif" width=300> -->
 I am currently an Assistant Professor in the School of Computing and Augmented Intelligence at Arizona State University. My research focuses on developing machine learning systems for real-world data and use cases. This includes remote sensing and spatial datasets, fairness (particularly w.r.t. geographic bias), scientific discovery and exploration, agriculture and food security, and other topics. I am the Machine Learning Lead and U.S. Domestic Co-Lead for [NASA Harvest](https://nasaharvest.org/), NASA’s agriculture and food security initiative run as a consortium out of the University of Maryland. I was recognized on the [Forbes 30 Under 30](https://www.forbes.com/profile/hannah-kerner/?sh=66d9f317624f) list in Science in 2021. I also write and speak about challenges for developing AI/ML applications for real world problems, such as in [this recent article in MIT Technology Review](https://www.technologyreview.com/2020/08/18/1007196/ai-research-machine-learning-applications-problems-opinion/).
 
@@ -31,6 +31,9 @@ You can download my CV [here](http://hannah-rae.github.io/files/Kerner_Hannah_CV
 - Google Women Techmakers award (2018)
 
 ## News
+- Dec 2022: Our proposal for the Machine Learning for Remote Sensing workshop at ICLR 2023 was accepted!
+- Nov 2022: Our paper "OpenMapFlow: A Library for Rapid Map Creation with Machine Learning and Remote Sensing Data" was accepted for AAAI 2023!
+- Nov 2022: Our paper "Multi-Region Transfer Learning for Segmentation of Crop Field Boundaries in Satellite Images with Limited Labels" was accepted for the 2nd Annual AAAI Workshop on AI to Accelerate Science and Engineering (AI2ASE)!
 - Nov 2022: Inbal Becker-Reshef and I gave an invited talk for the AI Helps Ukraine fundraiser conference! See recording [here](https://lnkd.in/g_Z9jEce)
 - Nov 2022: Our NASA proposal for "NASA ACRES: A Climate Resilient Ecosystem Approach to Strengthening US Agriculture" (PI: Whitcraft/UMD) was awarded! (NASA Earth Science Applications: Agriculture program)
 - Oct 2022: Our NASA proposal for "NASA Harvest: NASA Food Security and Agriculture Consortium" (PI: Becker-Reshef/UMD) was awarded!
