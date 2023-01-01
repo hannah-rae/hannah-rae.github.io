@@ -21,6 +21,15 @@ Tired of hearing the excuse that the women did not exist to invite as speakers i
 **(Mostly Non-Technical) Book Recommendations**
 I read a lot of books from a wide variety of genres and find huge value in reading books that are not related to my research/expertise. Here are my favorite books from each year, in hopes that they bring you value and joy as well:
 
+2022
+- *In Defense of Food: An Eater's Manifesto* by Michael Pollan
+- *Crying in H Mart* by Michelle Zauner
+- *Sapiens: A Brief History of Humankind* by Yuval Noah Harari
+- *The Undocumented Americans* by Karla Cornejo Villavicencio
+- *Braiding Sweetgrass* by Robin Wall Kimmerer
+- *Piranesi* by Susanna Clarke
+- *Caste: The Origins of Our Discontents* by Isabel Wilkerson
+
 2021
 - *Homegoing* by Yaa Gyasi
 - *Abyssinian Chronicles* by Moses Isegawa

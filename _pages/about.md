@@ -32,6 +32,7 @@ You can download my CV [here](http://hannah-rae.github.io/files/Kerner_Hannah_CV
 
 ## News
 - Dec 2022: Our proposal for the Machine Learning for Remote Sensing workshop at ICLR 2023 was accepted!
+- Nov 2022: An [article](https://nasaharvest.org/news/nasa-harvest-expands-food-security-work-maui-county-hi-community-based-partners) was published about our AI and Earth Observations-enabled food security project in Maui County!
 - Nov 2022: Our paper "OpenMapFlow: A Library for Rapid Map Creation with Machine Learning and Remote Sensing Data" was accepted for AAAI 2023!
 - Nov 2022: Our paper "Multi-Region Transfer Learning for Segmentation of Crop Field Boundaries in Satellite Images with Limited Labels" was accepted for the 2nd Annual AAAI Workshop on AI to Accelerate Science and Engineering (AI2ASE)!
 - Nov 2022: Inbal Becker-Reshef and I gave an invited talk for the AI Helps Ukraine fundraiser conference! See recording [here](https://lnkd.in/g_Z9jEce)

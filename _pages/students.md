@@ -12,9 +12,10 @@ author_profile: true
 | Name | Year | Topic | Current Affiliation |
 | --- | --- |
 | Mirali Purohit | 2027\* | ML for planetary exploration | ASU CS (PhD) |
+| Rahul Nair | 2027\* | Geographic bias and scene understanding in computer vision | ASU CS (PhD) |
 | Gabriel Tseng | 2025\* | ML algorithms for remote sensing data with sparse labels | McGill/Mila (PhD) |
 | Aditya Mohan | 2024\* | Anomaly detection in remote sensing | ASU CS (MS) |
-| Aditya Shrivastava | 2024\* | Geo-referencing ground-level objects in satellite images (Street2Sat) | ASU CS (MS) |
+<!-- | Aditya Shrivastava | 2024\* | Geo-referencing ground-level objects in satellite images (Street2Sat) | ASU CS (MS) | -->
 | Keun Park | 2024\* | Automatic map feature extraction (DARPA challenge) | ASU CS (MS) |
 | Bhanu Tokas | 2024\* | Automatic map feature extraction (DARPA challenge) | ASU CS (MS) |
 | Manthan Satish | 2023\* | Computer vision for field boundary segmentation | ASU CS (MS) |
@@ -28,7 +29,7 @@ author_profile: true
 
 | Name | Year\* | Topic | Last Known Affiliation |
 | --- | --- |
-| Adam Yang | 2022 | Label annotation for satellite images, land cover benchmarking | UMD CS |
+| Adam Yang | 2023 | Label annotation for satellite images, land cover benchmarking | UMD CS |
 | Ekenedilichukwu Ndu | 2022 | Label annotation for satellite images | UMD CS |
 | Maryann Vazhapilly | 2022 | Addressing dataset shift for operational ML systems for crop mapping | UMD CS |
 | Madhava Paliyam | 2022 | Segmentation for crop type mapping, Street2Sat object detection and depth estimation | Palantir |
@@ -50,7 +51,7 @@ author_profile: true
 
 | Name | Year\* | Topic | Last Known Affiliation |
 | --- | --- |
-| Saketh Sundar | 2022 | Field boundary delineation in satellite images, species detection | River Hill High School |
+| Saketh Sundar | 2023 | Field boundary delineation in satellite images, species detection | River Hill High School |
 | Dhruv Pai | 2022 | In-season crop type mapping, WASDE report explorer tool | Stanford CS |
 | Vinay Raman | 2022 | DORA pipeline for outlier detection | Montgomery Blair High School |
 
@@ -60,9 +61,9 @@ author_profile: true
 
 | Name | Year\* | Topic | Last Known Affiliation |
 | --- | --- |
-| Benjamin Yeh (Intern) | 2022 | Rapid response with ML and Earth observations | NASA Harvest |
-| Abena Boatemaa Asare-Ansah (Intern) | 2022 | Cropland mapping with ML and Earth observations | NASA Harvest |
-| Nils Prieur (Postdoc) | 2022 | Computer vision for automated boulder detection in satellite images | Stanford EPSP
+| Benjamin Yeh (Intern) | 2023 | Rapid response with ML and Earth observations | NASA Harvest |
+| Abena Boatemaa Asare-Ansah (Intern) | 2023 | Cropland mapping with ML and Earth observations | NASA Harvest |
+| Nils Prieur (Postdoc) | 2023 | Computer vision for automated boulder detection in satellite images | Stanford EPSP
 | NDspace team | 2022 | Depth estimation for Street2Sat using structure from motion (Deloitte Gravity Challenge) | n/a |
 | Robert Huppertz | 2021 | Burned area mapping near refugee settlements | Orbio |
 
