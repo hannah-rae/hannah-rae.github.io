@@ -15,7 +15,6 @@ author_profile: true
 | Rahul Nair | 2027\* | Geographic bias and scene understanding in computer vision | ASU CS (PhD) |
 | Gabriel Tseng | 2025\* | ML algorithms for remote sensing data with sparse labels | McGill/Mila (PhD) |
 | Aditya Mohan | 2024\* | Anomaly detection in remote sensing | ASU CS (MS) |
-<!-- | Aditya Shrivastava | 2024\* | Geo-referencing ground-level objects in satellite images (Street2Sat) | ASU CS (MS) | -->
 | Keun Park | 2024\* | Automatic map feature extraction (DARPA challenge) | ASU CS (MS) |
 | Bhanu Tokas | 2024\* | Automatic map feature extraction (DARPA challenge) | ASU CS (MS) |
 | Manthan Satish | 2023\* | Computer vision for field boundary segmentation | ASU CS (MS) |
