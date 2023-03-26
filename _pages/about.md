@@ -31,6 +31,12 @@ You can download my CV [here](http://hannah-rae.github.io/files/Kerner_Hannah_CV
 - Google Women Techmakers award (2018)
 
 ## News
+- Mar 2023: Catherine Nakalembe and I published a Perspective article titled Considerations for AI-EO for agriculture in Sub-Saharan Africa in *Environmental Research Letters* [[paper link]](https://iopscience.iop.org/article/10.1088/1748-9326/acc476/meta)
+- Mar 2023: Kerner Lab group members Manthan Satish, Mirali Purohit, and Aditya Mohan made the winning solution for the Wildfire Risk and Social Disparity track at [SpaceHACK for Sustainability](https://asuevents.asu.edu/event/spacehack-sustainability)
+- Mar 2023: I gave an invited talk for the NSF AI Planning Institute Seminar at Carnegie Mellon University!
+- Mar 2023: An [article](https://news.asu.edu/20230303-solutions-asu-researcher-combats-food-insecurity-ai) was published about our work combatting food security in Maui County using AI!
+- Feb 2023: I gave the colloquium talk for the School of Earth and Space Exploration at ASU! See the recording [here](https://youtu.be/wGxr8v7nqC8)
+- Feb 2023: Our group traveled to Maui, Lanai, and Molokai to kick off our 'Aina Data Stewards program!
 - Dec 2022: Our proposal for the Machine Learning for Remote Sensing workshop at ICLR 2023 was accepted!
 - Nov 2022: An [article](https://nasaharvest.org/news/nasa-harvest-expands-food-security-work-maui-county-hi-community-based-partners) was published about our AI and Earth Observations-enabled food security project in Maui County!
 - Nov 2022: Our paper "OpenMapFlow: A Library for Rapid Map Creation with Machine Learning and Remote Sensing Data" was accepted for AAAI 2023!
