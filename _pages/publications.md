@@ -8,11 +8,13 @@ author_profile: true
   You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
 {% endif %}
 
-1. 🆕 Zvonkov, I., Tseng, G., Nakalembe, C., and **Kerner, H.** (2023). OpenMapFlow: A Library for Rapid Map Creation with Machine Learning and Remote Sensing Data. To appear in *Proceedings of the 2023 AAAI Conference on Artificial Intelligence*.
+1. 🆕 Nakalembe, C. and **Kerner, H.** (2023). Considerations for AI-EO for agriculture in Sub-Saharan Africa. *Environmental Research Letters, 18(4)*, [link](https://iopscience.iop.org/article/10.1088/1748-9326/acc476/meta}).
 
-1. 🆕 **Kerner, H.**, Sundar, S., and Satish, M. (2023). Multi-Region Transfer Learning for Segmentation of Crop Field Boundaries in Satellite Images with Limited Labels. To appear in *Proceedings of the 2023 AAAI Conference on Artificial Intelligence Workshops*.
+1. 🆕 Zvonkov, I., Tseng, G., Nakalembe, C., and **Kerner, H.** (2023). OpenMapFlow: A Library for Rapid Map Creation with Machine Learning and Remote Sensing Data. In *Proceedings of the 2023 AAAI Conference on Artificial Intelligence*.
 
-1. 🆕 Manimurugan, S., Singaram, R., Nakalembe, C., and **Kerner, H.** (2022). Geo-referencing crop labels from street-level images using Structure from Motion. In *Proceedings of the 73rd International Astronautical Congress (IAC)*, [link](https://www.researchgate.net/publication/365360146_Geo-referencing_crop_labels_from_street-level_images_using_Structure_from_Motion).
+1. 🆕 **Kerner, H.**, Sundar, S., and Satish, M. (2023). Multi-Region Transfer Learning for Segmentation of Crop Field Boundaries in Satellite Images with Limited Labels. In *Proceedings of the 2023 AAAI Conference on Artificial Intelligence Workshops*.
+
+1. Manimurugan, S., Singaram, R., Nakalembe, C., and **Kerner, H.** (2022). Geo-referencing crop labels from street-level images using Structure from Motion. In *Proceedings of the 73rd International Astronautical Congress (IAC)*, [link](https://www.researchgate.net/publication/365360146_Geo-referencing_crop_labels_from_street-level_images_using_Structure_from_Motion).
 
 1. Rice, M.S., Seeger, C., Bell, J., Calef, F., St Clair, M., Eng, A., Fraeman, A.A., Hughes, C., Horgan, B., Jacob, S., Johnson, J., **Kerner, H.**, Kinch, K., Lemmon, M., Million, C., Starr, M., and Wellington, D. (2022). Spectral diversity of rocks and soils in Mastcam observations along the Curiosity rover’s traverse in Gale crater, Mars. *Journal of Geophysical Research: Planets*, e2021JE007134, [link](https://doi.org/10.1029/2021JE007134).
 
