@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "Students"
-permalink: /students/
+permalink: /research-group/
 author_profile: true
 ---
 
