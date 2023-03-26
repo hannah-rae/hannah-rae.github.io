@@ -5,7 +5,7 @@ permalink: /research-group/
 author_profile: true
 ---
 
-<img style="float: center; padding: 10px 10px 10px 10px;" src="http://hannah-rae.github.io/images/kerner-group-collage.jpg" width=500>
+<img style="float: center; padding: 10px 10px 10px 10px;" src="http://hannah-rae.github.io/images/kerner-group-collage.jpg" width=750>
 
 ### Doctoral and Masters Students
 
