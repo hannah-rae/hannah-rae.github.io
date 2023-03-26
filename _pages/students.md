@@ -5,24 +5,22 @@ permalink: /research-group/
 author_profile: true
 ---
 
-<img style="float: center; padding: 10px 10px 10px 10px;" src="http://hannah-rae.github.io/images/group_zoom.jpg" width=500>
+<img style="float: center; padding: 10px 10px 10px 10px;" src="http://hannah-rae.github.io/images/kerner-group-collage.jpg" width=500>
 
 ### Doctoral and Masters Students
 
-| Name | Year | Topic | Current Affiliation |
+| Name | Year\* | Topic | Current Affiliation |
 | --- | --- |
-| Mirali Purohit | 2027\* | ML for planetary exploration | ASU CS (PhD) |
-| Rahul Nair | 2027\* | Geographic bias and scene understanding in computer vision | ASU CS (PhD) |
-| Gabriel Tseng | 2025\* | ML algorithms for remote sensing data with sparse labels | McGill/Mila (PhD) |
-| Aditya Mohan | 2024\* | Anomaly detection in remote sensing | ASU CS (MS) |
-| Keun Park | 2024\* | Automatic map feature extraction (DARPA challenge) | ASU CS (MS) |
-| Bhanu Tokas | 2024\* | Automatic map feature extraction (DARPA challenge) | ASU CS (MS) |
-| Manthan Satish | 2023\* | Computer vision for field boundary segmentation | ASU CS (MS) |
-| Ivan Zvonkov | 2023\* | Scalable and deployed ML for remote sensing | UMD CS (MS) |
-| Yiming Zhang | 2023\* | Urban area change detection in high-resolution satellite images | UMD GEOG (PhD) |
-| Ujjwala Anantheswaran | 2022 | Event Detection as Multi-Task Text Generation | ASU CS (MS) |
+| Mirali Purohit | 2027 | ML for planetary exploration | ASU CS (PhD) |
+| Rahul Nair | 2027 | Geographic bias and scene understanding in computer vision | ASU CS (PhD) |
+| Gabriel Tseng | 2025 | ML algorithms for remote sensing data with sparse labels | McGill/Mila (PhD) |
+| Aditya Mohan | 2024 | Anomaly detection in remote sensing | ASU CS (MS) |
+| Keun Park | 2024 | Automatic map feature extraction (DARPA challenge) | ASU CS (MS) |
+| Bhanu Tokas | 2024 | Automatic map feature extraction (DARPA challenge) | ASU CS (MS) |
+| Manthan Satish | 2023 | Computer vision for field boundary segmentation | ASU CS (MS) |
+| Ivan Zvonkov | 2023 | Scalable and deployed ML for remote sensing | UMD CS (MS) |
 
-<sub><sup>\* Planned graduation year</sup></sub>
+<sub><sup>\* Expected graduation year</sup></sub>
 
 ### Undergraduate Students
 
@@ -56,17 +54,29 @@ author_profile: true
 
 <sub><sup>\* Latest year working with me</sup></sub>
 
-### Other research advising
+### Interns and Postdocs
 
-| Name | Year\* | Topic | Last Known Affiliation |
+| Name | Year\* | Topic | Current Affiliation |
 | --- | --- |
 | Benjamin Yeh (Intern) | 2023 | Rapid response with ML and Earth observations | NASA Harvest |
 | Abena Boatemaa Asare-Ansah (Intern) | 2023 | Cropland mapping with ML and Earth observations | NASA Harvest |
+| Adebowale Daniel Adebayo (Intern) | 2023 | Cropland area estimation with ML and Earth observations | NASA Harvest |
 | Nils Prieur (Postdoc) | 2023 | Computer vision for automated boulder detection in satellite images | Stanford EPSP
 | NDspace team | 2022 | Depth estimation for Street2Sat using structure from motion (Deloitte Gravity Challenge) | n/a |
 | Robert Huppertz | 2021 | Burned area mapping near refugee settlements | Orbio |
 
 <sub><sup>\* Latest year working with me</sup></sub>
+
+### Thesis committee membership
+
+| Name | Year\* | Topic | Current Affiliation |
+| --- | --- |
+| Paul Horton | 2023 | Data science systems for planetary science and astronomy | ASU SESE (PhD) |
+| Matthew Watson | 2023 | Fourier Analysis for Affine Transformation Invariance in Neural Networks | ASU CS (MS) |
+| Yiming Zhang | 2023 | Urban area change detection in high-resolution satellite images | UMD GEOG (PhD) |
+| Ujjwala Anantheswaran | 2022 | Event Detection as Multi-Task Text Generation | ASU CS (MS) |
+
+<sub><sup>\* Expected graduation year</sup></sub>
 
 ### Masters Capstone Students
 
