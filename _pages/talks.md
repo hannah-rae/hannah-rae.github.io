@@ -7,10 +7,11 @@ author_profile: true
 
 ## Selected Invited Talks
 
-### Upcoming
-- April 2023: "Artificial Intelligence: From Sci-Fi to Societal Good." Machinery Dealers National Association (MDNA) Convention & Annual Meeting, Tucson.
+<!-- ### Upcoming -->
+
 
 ### Past
+- April 2023: "Artificial Intelligence: From Sci-Fi to Societal Good." Machinery Dealers National Association (MDNA) Convention & Annual Meeting, Tucson.
 - March 2023: "AI for the Digital Planet." NSF AI Planning Institute Seminar, Carnegie Mellon University, Pittsburgh.
 - February 2023: "AI for the Digital Planet(s)." School of Earth and Space Exploration Colloquium, Arizona State University, Tempe. [[recording]](https://youtu.be/wGxr8v7nqC8)
 - December 2022: "Supporting Food Security in Africa using Machine Learning and Earth Observations." Machine Learning and the Physical Sciences Workshop, Neural Information Processing Systems (NeurIPS) 2022, New Orleans/Virtual.

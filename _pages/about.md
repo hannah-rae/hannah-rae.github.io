@@ -31,6 +31,8 @@ You can download my CV [here](http://hannah-rae.github.io/files/Kerner_Hannah_CV
 - Google Women Techmakers award (2018)
 
 ## News
+- Apr 2023: I am thrilled to be affiliated with the [Center for Global Discovery and Conservation Science](https://gdcs.asu.edu/) at ASU! The Center's mission is to address human-environmental challenges on land and sea.
+- Apr 2023: I had fun giving the keynote talk on "Artificial Intelligence: From Sci-Fi to Societal Good" at the Machinery Dealers National Association meeting in Tucson!
 - Mar 2023: Catherine Nakalembe and I published a Perspective article titled Considerations for AI-EO for agriculture in Sub-Saharan Africa in *Environmental Research Letters* [[paper link]](https://iopscience.iop.org/article/10.1088/1748-9326/acc476/meta)
 - Mar 2023: Kerner Lab group members Manthan Satish, Mirali Purohit, and Aditya Mohan made the winning solution for the Wildfire Risk and Social Disparity track at [SpaceHACK for Sustainability](https://asuevents.asu.edu/event/spacehack-sustainability)
 - Mar 2023: I gave an invited talk for the NSF AI Planning Institute Seminar at Carnegie Mellon University!
