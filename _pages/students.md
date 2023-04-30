@@ -67,7 +67,7 @@ author_profile: true
 
 <sub><sup>\* Latest year working with me</sup></sub>
 
-### Thesis committee membership
+### Other thesis committee membership
 
 | Name | Year\* | Topic | Current Affiliation |
 | --- | --- |

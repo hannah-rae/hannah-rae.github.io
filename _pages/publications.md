@@ -8,6 +8,8 @@ author_profile: true
   You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
 {% endif %}
 
+1. 🆕 Tseng, G., Zvonkov, I., Purohit, M., Rolnick, D., and **Kerner, H** (2023). Lightweight, Pre-trained Transformers for Remote Sensing Timeseries. arXiv preprint, [link](https://arxiv.org/abs/2304.14065).
+
 1. 🆕 Nakalembe, C. and **Kerner, H.** (2023). Considerations for AI-EO for agriculture in Sub-Saharan Africa. *Environmental Research Letters, 18(4)*, [link](https://iopscience.iop.org/article/10.1088/1748-9326/acc476/meta}).
 
 1. 🆕 Zvonkov, I., Tseng, G., Nakalembe, C., and **Kerner, H.** (2023). OpenMapFlow: A Library for Rapid Map Creation with Machine Learning and Remote Sensing Data. In *Proceedings of the 2023 AAAI Conference on Artificial Intelligence*.

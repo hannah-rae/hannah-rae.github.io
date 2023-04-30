@@ -31,6 +31,7 @@ You can download my CV [here](http://hannah-rae.github.io/files/Kerner_Hannah_CV
 - Google Women Techmakers award (2018)
 
 ## News
+- Apr 2023: Our latest paper, "Lightweight, Pre-trained Transformers for Remote Sensing Timeseries," is available [on arxiv](https://arxiv.org/abs/2304.14065)!
 - Apr 2023: I am thrilled to be affiliated with the [Center for Global Discovery and Conservation Science](https://gdcs.asu.edu/) at ASU! The Center's mission is to address human-environmental challenges on land and sea.
 - Apr 2023: I had fun giving the keynote talk on "Artificial Intelligence: From Sci-Fi to Societal Good" at the Machinery Dealers National Association meeting in Tucson!
 - Mar 2023: Catherine Nakalembe and I published a Perspective article titled Considerations for AI-EO for agriculture in Sub-Saharan Africa in *Environmental Research Letters* [[paper link]](https://iopscience.iop.org/article/10.1088/1748-9326/acc476/meta)
