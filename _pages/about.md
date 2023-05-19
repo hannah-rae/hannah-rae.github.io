@@ -31,6 +31,8 @@ You can download my CV [here](http://hannah-rae.github.io/files/Kerner_Hannah_CV
 - Google Women Techmakers award (2018)
 
 ## News
+- May 2023: Our NASA Multidomain Reusable Artificial Intelligence Tools proposal titled "Anomaly Visualization for Earth and Heliophysics GNSS Data using DORA" (PI: Rebbapragada/JPL) was selected!
+- May 2023: We hosted a successful 1st Workshop on Machine Learning for Remote Sensing at ICLR 2023 *and* Tutorial on the same at CMU Africa! Read accepted papers on our [workshop website](https://nasaharvest.github.io/ml-for-remote-sensing/iclr2023/)
 - Apr 2023: Our latest paper, "Lightweight, Pre-trained Transformers for Remote Sensing Timeseries," is available [on arxiv](https://arxiv.org/abs/2304.14065)!
 - Apr 2023: I am thrilled to be affiliated with the [Center for Global Discovery and Conservation Science](https://gdcs.asu.edu/) at ASU! The Center's mission is to address human-environmental challenges on land and sea.
 - Apr 2023: I had fun giving the keynote talk on "Artificial Intelligence: From Sci-Fi to Societal Good" at the Machinery Dealers National Association meeting in Tucson!

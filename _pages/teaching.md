@@ -26,7 +26,7 @@ For students to thrive and be successful, it is important for them to understand
 - Spring 2020: Remote Sensing (UMD, Instructor: Mong-Han Huang)
 
 ### Tutorials and capacity building
-- Apr 2023: Machine Learning for Remote Sensing Summit, hosted in Kigali, Rwanda at CMU Africa and led by ASU, NASA Harvest, and CMU.
+- May 2023: Machine Learning for Remote Sensing Summit, hosted in Kigali, Rwanda at CMU Africa and led by ASU, NASA Harvest, and CMU (https://nasaharvest.github.io/ml-for-remote-sensing/iclr2023/tutorial)
 - Feb 2023: 'Āina Data Stewards program kickoff, hosted at University of Hawaii Maui College and led by ASU, UMD, and NASA Harvest/ACRES consortium team members (https://nasaharvest.github.io/mauinui#data)
 - Sep 2022: Argentina Multilateral training program led by NASA Harvest, University of Maryland (UMD), the Buenos Aires Grain Exchange (Bolsa de Cereales), the Argentinian Ministry of Education, and the International Development Bank [[article]](https://nasaharvest.org/news/harvest-expands-work-argentina-new-multilateral-training-program)
 - Aug 2022: Scalable Cropland Mapping Workshop, hosted at University of Maryland for Regional Centre on Mapping Resources and Development (RCMRD) [[agenda]](https://nasaharvest.github.io/rcmrd2022.html)
