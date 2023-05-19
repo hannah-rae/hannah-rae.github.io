@@ -10,11 +10,11 @@ author_profile: true
 
 1. 🆕 Tseng, G., Zvonkov, I., Purohit, M., Rolnick, D., and **Kerner, H** (2023). Lightweight, Pre-trained Transformers for Remote Sensing Timeseries. arXiv preprint, [link](https://arxiv.org/abs/2304.14065).
 
-1. 🆕 Nakalembe, C. and **Kerner, H.** (2023). Considerations for AI-EO for agriculture in Sub-Saharan Africa. *Environmental Research Letters, 18(4)*, [link](https://iopscience.iop.org/article/10.1088/1748-9326/acc476/meta}).
+1. Nakalembe, C. and **Kerner, H.** (2023). Considerations for AI-EO for agriculture in Sub-Saharan Africa. *Environmental Research Letters, 18(4)*, [link](https://iopscience.iop.org/article/10.1088/1748-9326/acc476/meta}).
 
-1. 🆕 Zvonkov, I., Tseng, G., Nakalembe, C., and **Kerner, H.** (2023). OpenMapFlow: A Library for Rapid Map Creation with Machine Learning and Remote Sensing Data. In *Proceedings of the 2023 AAAI Conference on Artificial Intelligence*.
+1. Zvonkov, I., Tseng, G., Nakalembe, C., and **Kerner, H.** (2023). OpenMapFlow: A Library for Rapid Map Creation with Machine Learning and Remote Sensing Data. In *Proceedings of the 2023 AAAI Conference on Artificial Intelligence*.
 
-1. 🆕 **Kerner, H.**, Sundar, S., and Satish, M. (2023). Multi-Region Transfer Learning for Segmentation of Crop Field Boundaries in Satellite Images with Limited Labels. In *Proceedings of the 2023 AAAI Conference on Artificial Intelligence Workshops*.
+1. **Kerner, H.**, Sundar, S., and Satish, M. (2023). Multi-Region Transfer Learning for Segmentation of Crop Field Boundaries in Satellite Images with Limited Labels. In *Proceedings of the 2023 AAAI Conference on Artificial Intelligence Workshops*.
 
 1. Manimurugan, S., Singaram, R., Nakalembe, C., and **Kerner, H.** (2022). Geo-referencing crop labels from street-level images using Structure from Motion. In *Proceedings of the 73rd International Astronautical Congress (IAC)*, [link](https://www.researchgate.net/publication/365360146_Geo-referencing_crop_labels_from_street-level_images_using_Structure_from_Motion).
 
@@ -34,7 +34,7 @@ author_profile: true
 
 1. Handwerger, A. L., Jones, S. Y., Amatya, P., **Kerner, H. R.**, Kirschbaum, D. B., and Huang, M. H. (2021). Strategies for landslide detection using open-access synthetic aperture radar backscatter change in Google Earth Engine. *Natural Hazards and Earth System Sciences Discussions, 22*, pp. 753-773, [link](https://doi.org/10.5194/nhess-22-753-2022).
 
-1. Tseng, G., Zvonkov, I., Nakalembe, C., **Kerner, H.** (2021). CropHarvest: a global satellite dataset for crop type classification. *Neural Information Processing Systems (NeurIPS) Datasets and Benchmarks*, [link](https://openreview.net/forum?id=JtjzUXPEaCu).
+1. Tseng, G., Zvonkov, I., Nakalembe, C., **Kerner, H.** (2021). CropHarvest: a global satellite dataset for crop type classification. *Neural Information Processing Systems (NeurIPS) Datasets and Benchmarks*, [link](https://datasets-benchmarks-proceedings.neurips.cc/paper/2021/file/54229abfcfa5649e7003b83dd4755294-Paper-round2.pdf).
 
 2. Lacoste, A., Sherwin, E., **Kerner, H.**, Alemohammad, H., Lutjens, B., Irvin, J., Dao, D., Chang, A., Gunturkun, M., Drouin, A., Rodriguez, P., Vazquez, D. (2021). Toward Foundation Models for Earth Monitoring: Proposal for a Climate Change Benchmark. *Proceedings of the Neural Information Processing Systems (NeurIPS) Workshops*, Tackling Climate Change with AI, [link](https://www.climatechange.ai/papers/neurips2021/73/paper.pdf).
 
