@@ -15,8 +15,10 @@ author_profile: true
 | Rahul Nair | 2027 | Geographic bias and scene understanding in computer vision | ASU CS (PhD) |
 | Gabriel Tseng | 2025 | ML algorithms for remote sensing data with sparse labels | McGill/Mila (PhD) |
 | Aditya Mohan | 2024 | Anomaly detection in remote sensing | ASU CS (MS) |
+| Kartik Jawanjal | 2024 | Object detection and depth estimation in street-level images | ASU CS (MS) |
+| Bhanu Tokas | 2024 | Object detection and depth estimation in street-level images | ASU CS (MS) |
 | Keun Park | 2024 | Automatic map feature extraction (DARPA challenge) | ASU CS (MS) |
-| Bhanu Tokas | 2024 | Automatic map feature extraction (DARPA challenge) | ASU CS (MS) |
+| Aninda Ghosh | 2024 | Computer vision for field boundary segmentation | ASU CS (MS) |
 | Manthan Satish | 2023 | Computer vision for field boundary segmentation | ASU CS (MS) |
 | Ivan Zvonkov | 2023 | Scalable and deployed ML for remote sensing | UMD CS (MS) |
 
@@ -71,6 +73,8 @@ author_profile: true
 
 | Name | Year\* | Topic | Current Affiliation |
 | --- | --- |
+| Saisumana Konatam | 2024 | Predicting energy poverty using ML and remote sensing | UMD CS (undergraduate) |
+| Madeline Shwarz | 2026 | Feature matching for spatio-temporal change detection | ASU SESE (PhD) |
 | Paul Horton | 2023 | Data science systems for planetary science and astronomy | ASU SESE (PhD) |
 | Matthew Watson | 2023 | Fourier Analysis for Affine Transformation Invariance in Neural Networks | ASU CS (MS) |
 | Yiming Zhang | 2023 | Urban area change detection in high-resolution satellite images | UMD GEOG (PhD) |
