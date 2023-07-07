@@ -31,6 +31,7 @@ You can download my CV [here](http://hannah-rae.github.io/files/Kerner_Hannah_CV
 - Google Women Techmakers award (2018)
 
 ## News
+- July 2023: I taught a guest lecture on AI for Agriculture for Climate Change AI's summer school, which you can watch [here](https://www.youtube.com/live/_eaYVkkbjzg?feature=share)
 - July 2023: Our latest paper, "How accurate are existing land cover maps for agriculture in Sub-Saharan Africa?" is available on [arxiv](https://arxiv.org/abs/2307.02575)!
 - May 2023: Our NASA Multidomain Reusable Artificial Intelligence Tools proposal titled "Anomaly Visualization for Earth and Heliophysics GNSS Data using DORA" (PI: Rebbapragada/JPL) was selected!
 - May 2023: We hosted a successful 1st Workshop on Machine Learning for Remote Sensing at ICLR 2023 *and* Tutorial on the same at CMU Africa! Read accepted papers on our [workshop website](https://nasaharvest.github.io/ml-for-remote-sensing/iclr2023/)
