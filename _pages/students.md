@@ -11,6 +11,8 @@ author_profile: true
 
 | Name | Year\* | Topic | Current Affiliation |
 | --- | --- |
+| Gedeon Muhawenayo | 2028 | Machine learning for remote sensing | ASU CS (PhD) |
+| Ivan Zvonkov | 2028 | Machine learning for remote sensing | ASU CS (PhD) |
 | Mirali Purohit | 2027 | ML for planetary exploration | ASU CS (PhD) |
 | Rahul Nair | 2027 | Geographic bias and scene understanding in computer vision | ASU CS (PhD) |
 | Gabriel Tseng | 2025 | ML algorithms for remote sensing data with sparse labels | McGill/Mila (PhD) |
@@ -18,8 +20,9 @@ author_profile: true
 | Kartik Jawanjal | 2024 | Object detection and depth estimation in street-level images | ASU CS (MS) |
 | Bhanu Tokas | 2024 | Object detection and depth estimation in street-level images | ASU CS (MS) |
 | Keun Park | 2024 | Automatic map feature extraction (DARPA challenge) | ASU CS (MS) |
-| Aninda Ghosh | 2024 | Computer vision for field boundary segmentation | ASU CS (MS) |
-| Manthan Satish | 2023 | Computer vision for field boundary segmentation | ASU CS (MS) |
+| Snehal Chaudhari | 2024 | Computer vision for field boundary segmentation | ASU CS (MS) |
+| Aninda Ghosh | 2024 | Computer vision for field boundary segmentation | ASU Robotics (MS) |
+| Manthan Satish | 2023 | Computer vision for field boundary segmentation | ASU Robotics (MS) |
 | Ivan Zvonkov | 2023 | Scalable and deployed ML for remote sensing | UMD CS (MS) |
 
 <sub><sup>\* Expected graduation year</sup></sub>
