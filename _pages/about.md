@@ -31,6 +31,9 @@ You can download my CV [here](http://hannah-rae.github.io/files/Kerner_Hannah_CV
 - Google Women Techmakers award (2018)
 
 ## News
+- Aug 2023: We were awarded a grant from NASA, "Machine Learning Datasets for Public Good with a Data-Centric AI Approach," to lead the development of new ML datasets using satellite remote sensing data in partnership with NASA and ML Commons!
+- Aug 2023: Catherine Nakalembe and I gave a talk on Supporting Global Food Security with Machine Learning and Earth Observations for the [2023 Computer Vision for Ecology summer school](https://cv4ecology.caltech.edu/)!
+- Aug 2023: We created a website of satellite data sources in support of the Maui wildfires [here](https://nasaacres.github.io/maui-wildfires)
 - July 2023: I taught a guest lecture on AI for Agriculture for Climate Change AI's summer school, which you can watch [here](https://www.youtube.com/live/_eaYVkkbjzg?feature=share)
 - July 2023: Our latest paper, "How accurate are existing land cover maps for agriculture in Sub-Saharan Africa?" is available on [arxiv](https://arxiv.org/abs/2307.02575)!
 - May 2023: Our NASA Multidomain Reusable Artificial Intelligence Tools proposal titled "Anomaly Visualization for Earth and Heliophysics GNSS Data using DORA" (PI: Rebbapragada/JPL) was selected!

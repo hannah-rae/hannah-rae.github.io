@@ -18,9 +18,9 @@ For students to thrive and be successful, it is important for them to understand
 - Spring 2015: CS for People Who Don't Know CS (Yet!) (UNC Chapel Hill)
 
 ### Guest lectures
-- July 2023: Introduction to AI for Agriculture (Climate Change AI Summer School), [link](https://www.youtube.com/live/_eaYVkkbjzg?feature=share)
+- July 2023: Introduction to AI for Agriculture (Climate Change AI Summer School), [[link]](https://www.youtube.com/live/_eaYVkkbjzg?feature=share)
 - Feb 2023: Machine Learning Challenges in the Real World (Oregon State Univ., Instructor: Kiri Wagstaff)
-- Aug 2022: Computer Vision for Ecology (CV4E) Summer School (Caltech)
+- Aug 2022, 2023: Computer Vision for Ecology (CV4E) Summer School (Caltech) [[2022 link](https://www.youtube.com/watch?v=QS0YThiTSsM&list=PLGuY5I6wycRiDGYnimr98jYfITWBjmqhv&index=10)]
 - Fall 2019, 2021, 2022: Coding for Exploration (Arizona State Univ., Instructor: JD Das)
 - July 2021: PRAIRIE AI summer school (PAISS)
 - Spring 2021: Remote Sensing for Sustainable Development (Univ. of Strasbourg, Instructor: Inbal Becker-Reshef)

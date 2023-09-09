@@ -12,6 +12,8 @@ author_profile: true
 
 1. 🆕 Tseng, G., Zvonkov, I., Purohit, M., Rolnick, D., and **Kerner, H.** (2023). Lightweight, Pre-trained Transformers for Remote Sensing Timeseries. arXiv preprint, [link](https://arxiv.org/abs/2304.14065).
 
+1. 🆕 Lacoste, A., Lehmann, N., Rodriguez, P., Sherwin, E. D., **Kerner, H.**, Lütjens, B., Irvin, J. A., Dao, D., Alemohammad, H., Drouin, A., Gunturkun, M., Huang, G., Vazquez, D., Newman, D., Bengio, Y., Ermon, S., Zhu, X. (2023). GEO-Bench: Toward Foundation Models for Earth Monitoring. arXiv preprint, [link](https://arxiv.org/abs/2306.03831).
+
 1. Nakalembe, C. and **Kerner, H.** (2023). Considerations for AI-EO for agriculture in Sub-Saharan Africa. *Environmental Research Letters, 18(4)*, [link](https://iopscience.iop.org/article/10.1088/1748-9326/acc476).
 
 1. Zvonkov, I., Tseng, G., Nakalembe, C., and **Kerner, H.** (2023). OpenMapFlow: A Library for Rapid Map Creation with Machine Learning and Remote Sensing Data. In *Proceedings of the AAAI Conference on Artificial Intelligence, 37(12)*, 14655-14663, [link](https://doi.org/10.1609/aaai.v37i12.26713).
