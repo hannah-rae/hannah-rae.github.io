@@ -7,15 +7,21 @@ author_profile: true
 
 <img style="float: center; padding: 10px 10px 10px 10px;" src="http://hannah-rae.github.io/images/kerner-group-collage.jpg" width=750>
 
-### Doctoral and Masters Students
+### Doctoral Students
 
 | Name | Year\* | Topic | Current Affiliation |
 | --- | --- |
 | Gedeon Muhawenayo | 2028 | Machine learning for remote sensing | ASU CS (PhD) |
-| Ivan Zvonkov | 2028 | Machine learning for remote sensing | ASU CS (PhD) |
 | Mirali Purohit | 2027 | ML for planetary exploration | ASU CS (PhD) |
 | Rahul Nair | 2027 | Geographic bias and scene understanding in computer vision | ASU CS (PhD) |
 | Gabriel Tseng | 2025 | ML algorithms for remote sensing data with sparse labels | McGill/Mila (PhD) |
+
+<sub><sup>\* Expected graduation year</sup></sub>
+
+### Masters Students
+
+| Name | Year\* | Topic | Current Affiliation |
+| --- | --- |
 | Aditya Mohan | 2024 | Anomaly detection in remote sensing | ASU CS (MS) |
 | Kartik Jawanjal | 2024 | Object detection and depth estimation in street-level images | ASU CS (MS) |
 | Bhanu Tokas | 2024 | Object detection and depth estimation in street-level images | ASU CS (MS) |
@@ -31,6 +37,10 @@ author_profile: true
 
 | Name | Year\* | Topic | Last Known Affiliation |
 | --- | --- |
+| Mandy Zhou | 2023 | Automated geologic mapping | ASU CS |
+| Rini Jain | 2023 | Deep Learning Generation of Digital Elevation Maps | ASU CS (Barrett Honors Thesis) |
+| Anant Rastogi | 2023 | Deep Learning Generation of Digital Elevation Maps | ASU CS (Barrett Honors Thesis) |
+| Nicholas Johnson | 2023 | Crop yield prediction | ASU CS (Barrett Honors Thesis) |
 | Adam Yang | 2023 | Label annotation for satellite images, land cover benchmarking | UMD CS |
 | Ekenedilichukwu Ndu | 2022 | Label annotation for satellite images | UMD CS |
 | Maryann Vazhapilly | 2022 | Addressing dataset shift for operational ML systems for crop mapping | UMD CS |
