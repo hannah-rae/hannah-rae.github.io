@@ -31,6 +31,9 @@ You can download my CV [here](http://hannah-rae.github.io/files/Kerner_Hannah_CV
 - Google Women Techmakers award (2018)
 
 ## News
+- Oct 2023: Our proposal to Google Research (Collective & Society Centered AI) titled "A Data-Centric Approach to Improve Geographic Equity in Geospatial ML" was awarded!
+- Oct 2023: Our paper "Automated Multi-class Crater Segmentation in Mars Orbital Images" was accepted to the GeoAI workshop at SIGSPATIAL 2023!
+- Oct 2023: Our collaboration with Maui United Way to support residents impacted by the Maui wildfires was highlighted [an article in Maui Times](https://mauitimes.org/environment/maui-united-way-and-nasa-collaboration-expedites-aid-for-maui-wildfire-survivors/)!
 - Sep 2023: Our NSF RAPID proposal, "RAPID: Rapid computational modeling of wildfires and management with emphasis on human activity," was selected!
 - Sep 2023: Our proposal, "Lowering the Barriers to Planetary Science Studies with a Large Mars Model,” was selected for the JPL Strategic University Research Program - congrats to PhD student Mirali Purohit on this fellowship!
 - Sep 2023: Our paper, "GEO-Bench: Toward Foundation Models for Earth Monitoring," was accepted for NeurIPS 2023 Datasets and Benchmarks Track!
