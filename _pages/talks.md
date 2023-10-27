@@ -8,11 +8,12 @@ author_profile: true
 ## Selected Invited Talks
 
 ### Upcoming
+- December 2023: Computational Sustainability workshop at NeurIPS 2023, New Orleans
+
+### Past
 - October 2023: Keynote, Digital Agriculture and Advanced Analytics Symposium (DA3), Kansas State University, Manhattan
 - October 2023: Computer Science and Engineering Colloquium, Washington University in St. Louis
 - October 2023: "Demystifying Artificial Intelligence: how it works and how it can benefit society." Sagewood Retirement Community, Phoenix
-
-### Past
 - April 2023: "Artificial Intelligence: From Sci-Fi to Societal Good." Machinery Dealers National Association (MDNA) Convention & Annual Meeting, Tucson.
 - March 2023: "AI for the Digital Planet." NSF AI Planning Institute Seminar, Carnegie Mellon University, Pittsburgh.
 - February 2023: "AI for the Digital Planet(s)." School of Earth and Space Exploration Colloquium, Arizona State University, Tempe. [[recording]](https://youtu.be/wGxr8v7nqC8)

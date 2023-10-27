@@ -31,6 +31,7 @@ You can download my CV [here](http://hannah-rae.github.io/files/Kerner_Hannah_CV
 - Google Women Techmakers award (2018)
 
 ## News
+- Oct 2023: Our paper "ConeQuest: A Benchmark for Cone Detection on Mars" was accepted to WACV 2023!
 - Oct 2023: Our proposal to Google Research (Collective & Society Centered AI) titled "A Data-Centric Approach to Improve Geographic Equity in Geospatial ML" was awarded!
 - Oct 2023: Our paper "Automated Multi-class Crater Segmentation in Mars Orbital Images" was accepted to the GeoAI workshop at SIGSPATIAL 2023!
 - Oct 2023: Our collaboration with Maui United Way to support residents impacted by the Maui wildfires was highlighted [an article in Maui Times](https://mauitimes.org/environment/maui-united-way-and-nasa-collaboration-expedites-aid-for-maui-wildfire-survivors/)!
