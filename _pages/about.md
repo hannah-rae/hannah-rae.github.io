@@ -31,6 +31,7 @@ You can download my CV [here](http://hannah-rae.github.io/files/Kerner_Hannah_CV
 - Google Women Techmakers award (2018)
 
 ## News
+- Nov 2023: Our paper "Lightweight, Pre-trained Transformers for Remote Sensing Timeseries" was accepted for a spotlight presentation at the NeurIPS 2023 Climate Change AI Workshop!
 - Oct 2023: Our paper "ConeQuest: A Benchmark for Cone Detection on Mars" was accepted to WACV 2023!
 - Oct 2023: Our proposal to Google Research (Collective & Society Centered AI) titled "A Data-Centric Approach to Improve Geographic Equity in Geospatial ML" was awarded!
 - Oct 2023: Our paper "Automated Multi-class Crater Segmentation in Mars Orbital Images" was accepted to the GeoAI workshop at SIGSPATIAL 2023!

@@ -8,6 +8,8 @@ author_profile: true
   You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
 {% endif %}
 
+1. 🆕 Tseng, G., Zvonkov, I., Purohit, M., Rolnick, D., and **Kerner, H.** (2023). Lightweight, Pre-trained Transformers for Remote Sensing Timeseries. To appear in *Neural Information Processing Systems (NeurIPS), Climate Change AI Workshop*.
+
 1. 🆕 Purohit, M., Adler, J., and **Kerner, H.** (2023). ConeQuest: A Benchmark for Cone Detection on Mars. To appear in *Proceedings of the IEEE/CVF Winter Conference on Applications of Computer Vision (WACV)*.
 
 1. 🆕 Malvi, S., Shah, H., Chandarana, N., Purohit, M., Adler, J., **Kerner, H.** (2023). Automated Multi-class Crater Segmentation in Mars Orbital Images. To appear in *Proceedings of the 31st ACM SIGSPATIAL International Conference on Advances in Geographic Information Systems (ACM SIGSPATIAL 2023), GeoAI Workshop*.
@@ -16,7 +18,7 @@ author_profile: true
 
 1. 🆕 Tseng, G., Zvonkov, I., Purohit, M., Rolnick, D., and **Kerner, H.** (2023). Lightweight, Pre-trained Transformers for Remote Sensing Timeseries. arXiv preprint, [link](https://arxiv.org/abs/2304.14065).
 
-1. 🆕 Lacoste, A., Lehmann, N., Rodriguez, P., Sherwin, E. D., **Kerner, H.**, Lütjens, B., Irvin, J. A., Dao, D., Alemohammad, H., Drouin, A., Gunturkun, M., Huang, G., Vazquez, D., Newman, D., Bengio, Y., Ermon, S., Zhu, X. (2023). GEO-Bench: Toward Foundation Models for Earth Monitoring. In *Proceedings of the Neural Information Processing Systems (NeurIPS) Datasets and Benchmarks Track*, [link](https://arxiv.org/abs/2306.03831).
+1. Lacoste, A., Lehmann, N., Rodriguez, P., Sherwin, E. D., **Kerner, H.**, Lütjens, B., Irvin, J. A., Dao, D., Alemohammad, H., Drouin, A., Gunturkun, M., Huang, G., Vazquez, D., Newman, D., Bengio, Y., Ermon, S., Zhu, X. (2023). GEO-Bench: Toward Foundation Models for Earth Monitoring. In *Proceedings of the Neural Information Processing Systems (NeurIPS) Datasets and Benchmarks Track*, [link](https://arxiv.org/abs/2306.03831).
 
 1. Nakalembe, C. and **Kerner, H.** (2023). Considerations for AI-EO for agriculture in Sub-Saharan Africa. *Environmental Research Letters, 18(4)*, [link](https://iopscience.iop.org/article/10.1088/1748-9326/acc476).
 
