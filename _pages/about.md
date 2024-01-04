@@ -31,6 +31,12 @@ You can download my CV [here](http://hannah-rae.github.io/files/Kerner_Hannah_CV
 - Google Women Techmakers award (2018)
 
 ## News
+- Dec 2023: Our proposal for the EarthVision workshop at CVPR 2024 in Seattle was accepted!
+- Dec 2023: Our proposal for the 2nd Machine Learning for Remote Sensing Workshop at ICLR 2024 in Vienna was accepted!
+- Dec 2023: I was appointed to the NOAA Science Advisory Board (SAB) Data Archiving and Access Requirements Working Group (DAARWG), which is a 3-year Federal Advisory Committee appointment!
+- Dec 2023: A preprint of our paper, "Satellite Data Shows Resilience of Tigrayan Farmers in Crop Cultivation During Civil War," is now available on [arxiv](https://arxiv.org/abs/2312.10819)!
+- Dec 2023: I gave a keynote talk at the NeurIPS Sustainable Computing workshop in New Orleans!
+- Dec 2023: I gave three research talks and hosted several sessions on machine learning at the AGU Fall Meeting in San Francisco!
 - Nov 2023: Our paper "Lightweight, Pre-trained Transformers for Remote Sensing Timeseries" was accepted for a spotlight presentation at the NeurIPS 2023 Climate Change AI Workshop!
 - Oct 2023: Our paper "ConeQuest: A Benchmark for Cone Detection on Mars" was accepted to WACV 2023!
 - Oct 2023: Our proposal to Google Research (Collective & Society Centered AI) titled "A Data-Centric Approach to Improve Geographic Equity in Geospatial ML" was awarded!

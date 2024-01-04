@@ -8,15 +8,19 @@ author_profile: true
   You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
 {% endif %}
 
-1. 🆕 Tseng, G., Zvonkov, I., Purohit, M., Rolnick, D., and **Kerner, H.** (2023). Lightweight, Pre-trained Transformers for Remote Sensing Timeseries. To appear in *Neural Information Processing Systems (NeurIPS), Climate Change AI Workshop*.
+1. 🆕 **Kerner, H.**, Nakalembe, C., Yeh, B., Zvonkov, I., Skakun, S., Becker-Reshef, I., and McNally, A. (2023). Satellite Data Shows Resilience of Tigrayan Farmers in Crop Cultivation During Civil War. arXiv preprint, [link](https://arxiv.org/abs/2312.10819).
 
-1. 🆕 Purohit, M., Adler, J., and **Kerner, H.** (2023). ConeQuest: A Benchmark for Cone Detection on Mars. To appear in *Proceedings of the IEEE/CVF Winter Conference on Applications of Computer Vision (WACV)*.
+1. 🆕 Prieur, N. C., Amaro, B., Gonzalez, E., **Kerner, H.**, Medvedev, S., Rubanenko, L., Werner, S., Xiao, Z., Zastrozhnov, D., and Lapôtre, M. G. (2023). Automatic Characterization of Boulders on Planetary Surfaces From High‐Resolution Satellite Images. *Journal of Geophysical Research: Planets, 128(11)*, e2023JE008013, [link](https://doi.org/10.1029/2023JE008013).
 
-1. 🆕 Malvi, S., Shah, H., Chandarana, N., Purohit, M., Adler, J., **Kerner, H.** (2023). Automated Multi-class Crater Segmentation in Mars Orbital Images. To appear in *Proceedings of the 31st ACM SIGSPATIAL International Conference on Advances in Geographic Information Systems (ACM SIGSPATIAL 2023), GeoAI Workshop*.
+1. 🆕 Tseng, G., Zvonkov, I., Purohit, M., Rolnick, D., and **Kerner, H.** (2023). Lightweight, Pre-trained Transformers for Remote Sensing Timeseries. *Neural Information Processing Systems (NeurIPS), Climate Change AI Workshop*, [link](https://www.climatechange.ai/papers/neurips2023/58).
 
-1. 🆕 **Kerner, H.**, Nakalembe, C., Yang, A., Zvonkov, I., McWeeny, R., Tseng, G., and Becker-Reshef, I. (2023). How accurate are existing land cover maps for agriculture in Sub-Saharan Africa? arXiv preprint, [link](https://arxiv.org/abs/2307.02575).
+1. 🆕 Purohit, M., Adler, J., and **Kerner, H.** (2023). ConeQuest: A Benchmark for Cone Detection on Mars. *Proceedings of the IEEE/CVF Winter Conference on Applications of Computer Vision (WACV)*, pp. 6026-6035, [link](https://openaccess.thecvf.com/content/WACV2024/html/Purohit_ConeQuest_A_Benchmark_for_Cone_Segmentation_on_Mars_WACV_2024_paper.html).
 
-1. 🆕 Tseng, G., Zvonkov, I., Purohit, M., Rolnick, D., and **Kerner, H.** (2023). Lightweight, Pre-trained Transformers for Remote Sensing Timeseries. arXiv preprint, [link](https://arxiv.org/abs/2304.14065).
+1. 🆕 Malvi, S., Shah, H., Chandarana, N., Purohit, M., Adler, J., **Kerner, H.** (2023). Automated Multi-class Crater Segmentation in Mars Orbital Images. *Proceedings of the 31st ACM SIGSPATIAL International Conference on Advances in Geographic Information Systems (ACM SIGSPATIAL 2023), GeoAI Workshop*, pp. 110-120, [link](https://dl.acm.org/doi/abs/10.1145/3615886.3627748).
+
+1. **Kerner, H.**, Nakalembe, C., Yang, A., Zvonkov, I., McWeeny, R., Tseng, G., and Becker-Reshef, I. (2023). How accurate are existing land cover maps for agriculture in Sub-Saharan Africa? arXiv preprint, [link](https://arxiv.org/abs/2307.02575).
+
+1. Tseng, G., Zvonkov, I., Purohit, M., Rolnick, D., and **Kerner, H.** (2023). Lightweight, Pre-trained Transformers for Remote Sensing Timeseries. arXiv preprint, [link](https://arxiv.org/abs/2304.14065).
 
 1. Lacoste, A., Lehmann, N., Rodriguez, P., Sherwin, E. D., **Kerner, H.**, Lütjens, B., Irvin, J. A., Dao, D., Alemohammad, H., Drouin, A., Gunturkun, M., Huang, G., Vazquez, D., Newman, D., Bengio, Y., Ermon, S., Zhu, X. (2023). GEO-Bench: Toward Foundation Models for Earth Monitoring. In *Proceedings of the Neural Information Processing Systems (NeurIPS) Datasets and Benchmarks Track*, [link](https://arxiv.org/abs/2306.03831).
 

@@ -11,10 +11,11 @@ author_profile: true
 
 | Name | Year\* | Topic | Current Affiliation |
 | --- | --- |
-| Gedeon Muhawenayo | 2028 | Machine learning for remote sensing | ASU CS (PhD) |
-| Mirali Purohit | 2027 | ML for planetary exploration | ASU CS (PhD) |
-| Rahul Nair | 2027 | Geographic bias and scene understanding in computer vision | ASU CS (PhD) |
-| Gabriel Tseng | 2025 | ML algorithms for remote sensing data with sparse labels | McGill/Mila (PhD) |
+| Chenwei Cui | 2028 | ASU Computer Science (PhD) |
+| Gedeon Muhawenayo | 2028 | ASU Computer Science (PhD) |
+| Mirali Purohit | 2027 | ASU Computer Science (PhD) |
+| Rahul Nair | 2027 | ASU Computer Science (PhD) |
+| Gabriel Tseng | 2025 | McGill/Mila (PhD) |
 
 <sub><sup>\* Expected graduation year</sup></sub>
 
@@ -37,22 +38,22 @@ author_profile: true
 
 | Name | Year\* | Topic | Last Known Affiliation |
 | --- | --- |
-| Mandy Zhou | 2023 | Automated geologic mapping | ASU CS |
-| Rini Jain | 2023 | Deep Learning Generation of Digital Elevation Maps | ASU CS (Barrett Honors Thesis) |
-| Anant Rastogi | 2023 | Deep Learning Generation of Digital Elevation Maps | ASU CS (Barrett Honors Thesis) |
-| Nicholas Johnson | 2023 | Crop yield prediction | ASU CS (Barrett Honors Thesis) |
+| Sloan Cooney | 2024 | Computer vision for medical imaging | ASU CS (Barrett Honors Thesis) |
+| Rini Jain | 2024 | Deep Learning Generation of Digital Elevation Maps | ASU CS (Barrett Honors Thesis) |
+| Anant Rastogi | 2024 | Deep Learning Generation of Digital Elevation Maps | ASU CS (Barrett Honors Thesis) |
+| Nicholas Johnson | 2024 | Crop yield prediction | ASU CS (Barrett Honors Thesis) |
 | Adam Yang | 2023 | Label annotation for satellite images, land cover benchmarking | UMD CS |
 | Ekenedilichukwu Ndu | 2022 | Label annotation for satellite images | UMD CS |
 | Maryann Vazhapilly | 2022 | Addressing dataset shift for operational ML systems for crop mapping | UMD CS |
 | Madhava Paliyam | 2022 | Segmentation for crop type mapping, Street2Sat object detection and depth estimation | Palantir |
 | Eva Utzschneider | 2022 | Cropland mapping for planted area change assessment | US Dept of Justice |
-| Sophia Owens | 2022 | Label annotation for satellite images | UMD GEOG |
+| Sophia Owens | 2022 | Label annotation for satellite images | Kamstrup |
 | Chin-Yun Kuei | 2022 | Label annotation for satellite images | UMD GEOG |
 | Logan Daytner | 2022 | Label annotation for satellite images | UMD GEOG |
 | Arushi Patel | 2022 | Out-of-distribution detection for science applications | Bank of America |
 | Kevin Liu | 2021 | Street2Sat object detection and data visualization | UMD CS |
 | Bryce Dubayah | 2021 | DORA pipeline for outlier detection, volcanic thermal anomalies | DeepCell |
-| Sakshum Kulshrestha | 2021 | Novelty-guided targeting for Mars rovers | UMD CS |
+| Sakshum Kulshrestha | 2021 | Novelty-guided targeting for Mars rovers | Waymo |
 | Yao Poudima | 2021 | Cropland mapping in Mali | UMD iSchool |
 | Bissaka Kenah | 2021 | Segmentation for crop type mapping in US Midwest | Morgan Stanley |
 | Favour Nerrise | 2020 | Novelty-guided targeting for Mars rovers | Stanford CS |
@@ -63,6 +64,7 @@ author_profile: true
 
 | Name | Year\* | Topic | Last Known Affiliation |
 | --- | --- |
+| Vedant Janapaty | 2023 | Crop conditions metrics from satellite observations in Hawaii | Silver Creek High School |
 | Saketh Sundar | 2023 | Field boundary delineation in satellite images, species detection | River Hill High School |
 | Dhruv Pai | 2022 | In-season crop type mapping, WASDE report explorer tool | Stanford CS |
 | Vinay Raman | 2022 | DORA pipeline for outlier detection | Montgomery Blair High School |

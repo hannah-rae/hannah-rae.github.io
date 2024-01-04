@@ -8,9 +8,10 @@ author_profile: true
 ## Selected Invited Talks
 
 ### Upcoming
-- December 2023: Computational Sustainability workshop at NeurIPS 2023, New Orleans
+- March 2024: Machine Learning and Data Management for Earth Observation Workshop, Forum Digitale Technologien, Berlin
 
 ### Past
+- December 2023: Computational Sustainability workshop at NeurIPS 2023, New Orleans
 - October 2023: Keynote, Digital Agriculture and Advanced Analytics Symposium (DA3), Kansas State University, Manhattan
 - October 2023: Computer Science and Engineering Colloquium, Washington University in St. Louis
 - October 2023: "Demystifying Artificial Intelligence: how it works and how it can benefit society." Sagewood Retirement Community, Phoenix
