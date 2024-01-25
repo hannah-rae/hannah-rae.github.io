@@ -9,7 +9,7 @@ author_profile: true
 
 ### Doctoral Students
 
-| Name | Year\* | Topic | Current Affiliation |
+| Name | Year\* | Current Affiliation |
 | --- | --- |
 | Chenwei Cui | 2028 | ASU Computer Science (PhD) |
 | Gedeon Muhawenayo | 2028 | ASU Computer Science (PhD) |
