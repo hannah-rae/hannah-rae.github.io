@@ -31,6 +31,11 @@ You can download my CV [here](http://hannah-rae.github.io/files/Kerner_Hannah_CV
 - Google Women Techmakers award (2018)
 
 ## News
+- Mar 2024: Kerner Lab PhD student Mirali Purohit presented about our research on the impact of pre-training data compositions on geospatial foundation model performance at the [NASA SMD AI Workshop](https://nasa-impact.github.io/nasa-smd-ai-workshop-2024/) in Huntsville!
+- Mar 2024: I gave a spotlight presentation at the Machine Learning and Data Management for Earth Observation [workshop](https://www.bifold.berlin/news-events/events/machine-learning-and-data-management-for-earth-observation) hosted by the BIFOLD (Berlin Institute for the Foundations of Learning and Data) in Berlin! 
+- Mar 2024: A preprint of our paper, "Application-Driven Innovation in Machine Learning," is now available on [arxiv](https://arxiv.org/abs/2403.17381)!
+- Feb 2024: Our [paper](https://www.nature.com/articles/s43017-024-00516-2), "Assessing and addressing the global state of food production data scarcity," was published in Nature Reviews Earth and Environment! 
+- Feb 2024: A preprint of our paper, "Mission Critical -- Satellite Data is a Distinct Modality in Machine Learning," is now available on [arxiv](https://arxiv.org/abs/2402.01444)!
 - Dec 2023: Our proposal for the EarthVision workshop at CVPR 2024 in Seattle was accepted!
 - Dec 2023: Our proposal for the 2nd Machine Learning for Remote Sensing Workshop at ICLR 2024 in Vienna was accepted!
 - Dec 2023: I was appointed to the NOAA Science Advisory Board (SAB) Data Archiving and Access Requirements Working Group (DAARWG), which is a 3-year Federal Advisory Committee appointment!
