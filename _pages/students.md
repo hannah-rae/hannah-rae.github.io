@@ -86,14 +86,18 @@ author_profile: true
 
 ### Other thesis committee membership
 
-| Name | Year\* | Topic | Current Affiliation |
+| Name | Year\* | University/Program |
 | --- | --- |
-| Saisumana Konatam | 2024 | Predicting energy poverty using ML and remote sensing | UMD CS (undergraduate) |
-| Madeline Shwarz | 2026 | Feature matching for spatio-temporal change detection | ASU SESE (PhD) |
-| Paul Horton | 2023 | Data science systems for planetary science and astronomy | ASU SESE (PhD) |
-| Matthew Watson | 2023 | Fourier Analysis for Affine Transformation Invariance in Neural Networks | ASU CS (MS) |
-| Yiming Zhang | 2023 | Urban area change detection in high-resolution satellite images | UMD GEOG (PhD) |
-| Ujjwala Anantheswaran | 2022 | Event Detection as Multi-Task Text Generation | ASU CS (MS) |
+| Laurel Hopkins | 2024 | Oregon State University, Computer Science, PhD  |
+| Jianghai Peng | 2027 | Arizona State University, Geological Sciences, PhD  |
+| Zifan Yu | 2024 | Arizona State University, Computer Science, PhD  |
+| Madeline Schwarz | 2026 | Arizona State University, Geological Sciences, PhD  |
+| Paul Horton | 2024 | Arizona State University, Exploration Systems Design, PhD  |
+| Yiming Zhang | 2023 | University of Maryland, Geographical Sciences, PhD |
+| Saisumana Konatam | 2024 | Arizona State University, Computer Science, Undergraduate Honors Thesis  |
+| Matthew Watson | 2023 |Arizona State University, Computer Science, Masters  |
+| Ujjwala Anantheswaran | 2022 | Arizona State University, Computer Science, Masters  |
+
 
 <sub><sup>\* Expected graduation year</sup></sub>
 
