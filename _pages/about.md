@@ -31,6 +31,9 @@ You can download my CV [here](http://hannah-rae.github.io/files/Kerner_Hannah_CV
 - Google Women Techmakers award (2018)
 
 ## News
+- May 2024: We had two position papers accepted for the ICML 2024 conference!
+- May 2024: We successfully hosted the 2nd Machine Learning for Remote Sensing workshop at ICLR 2024! Stay tuned for ICLR 2025.
+- Apr 2024: Our paper, [Sat2Cap: Mapping Fine-Grained Textual Descriptions from Satellite Images](https://arxiv.org/abs/2307.15904), was accepted for the EarthVision workshop at CVPR!
 - Mar 2024: Kerner Lab PhD student Mirali Purohit presented about our research on the impact of pre-training data compositions on geospatial foundation model performance at the [NASA SMD AI Workshop](https://nasa-impact.github.io/nasa-smd-ai-workshop-2024/) in Huntsville!
 - Mar 2024: I gave a spotlight presentation at the Machine Learning and Data Management for Earth Observation [workshop](https://www.bifold.berlin/news-events/events/machine-learning-and-data-management-for-earth-observation) hosted by the BIFOLD (Berlin Institute for the Foundations of Learning and Data) in Berlin!
 - Mar 2024: I presented about our work to create solutions using AI and Earth observations for food security and other community challenges in Maui County at the [Hawaii Student Success Institute](https://uhcc.hawaii.edu/hissi/schedule.php) in Honolulu! 

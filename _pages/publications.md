@@ -8,11 +8,13 @@ author_profile: true
   You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
 {% endif %}
 
-1. 🆕 Rolnick, D., Aspuru-Guzik, A., Beery, S., Dilkina, B., Donti, P. L., Ghassemi, M., **Kerner, H.**, Monteleoni, C., Rolf, E., Tambe, M., White, A. (2024). Application-Driven Innovation in Machine Learning. arXiv preprint, [link](https://arxiv.org/abs/2403.17381).
+1. 🆕 Dhakal, A., Ahmad, A., Khanal, S., Sastry, S., **Kerner, H.**, and Jacobs, N. (2024). Sat2Cap: Mapping Fine-Grained Textual Descriptions from Satellite Images. To appear in *Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition (CVPR) Workshops*, EarthVision 2024.
+
+1. 🆕 Rolnick, D., Aspuru-Guzik, A., Beery, S., Dilkina, B., Donti, P. L., Ghassemi, M., **Kerner, H.**, Monteleoni, C., Rolf, E., Tambe, M., White, A. (2024). Application-Driven Innovation in Machine Learning. To appear in *Proceedings of the International Conference on Machine Learning (ICML)*, [link](https://arxiv.org/abs/2403.17381).
+
+1. 🆕 Rolf, E., Klemmer, K., Robinson, C., and **Kerner, H.** (2024). Mission Critical--Satellite Data is a Distinct Modality in Machine Learning. To appear in *Proceedings of the International Conference on Machine Learning (ICML)*, [link](https://arxiv.org/abs/2402.01444).
 
 1. 🆕 Kebede, E. A., Abou Ali, H., Clavelle, T., Froehlich, H. E., Gephart, J. A., Hartman, S., Herrero, M., **Kerner, H.**, Mehta, P., Nakalembe, C., Ray, D. K., Siebert, S., Thornton, P., Davis, K. F. (2024). *Nature Reviews Earth & Environment*, p. 1-17, [link](https://www.nature.com/articles/s43017-024-00516-2).
-
-1. 🆕 Rolf, E., Klemmer, K., Robinson, C., and **Kerner, H.** (2024). Mission Critical--Satellite Data is a Distinct Modality in Machine Learning. arXiv preprint, [link](https://arxiv.org/abs/2402.01444).
 
 1. **Kerner, H.**, Nakalembe, C., Yeh, B., Zvonkov, I., Skakun, S., Becker-Reshef, I., and McNally, A. (2023). Satellite Data Shows Resilience of Tigrayan Farmers in Crop Cultivation During Civil War. arXiv preprint, [link](https://arxiv.org/abs/2312.10819).
 
