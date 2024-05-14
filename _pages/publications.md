@@ -26,7 +26,7 @@ author_profile: true
 
 1. Malvi, S., Shah, H., Chandarana, N., Purohit, M., Adler, J., **Kerner, H.** (2023). Automated Multi-class Crater Segmentation in Mars Orbital Images. *Proceedings of the 31st ACM SIGSPATIAL International Conference on Advances in Geographic Information Systems (ACM SIGSPATIAL 2023), GeoAI Workshop*, pp. 110-120, [link](https://dl.acm.org/doi/abs/10.1145/3615886.3627748).
 
-1. **Kerner, H.**, Nakalembe, C., Yang, A., Zvonkov, I., McWeeny, R., Tseng, G., and Becker-Reshef, I. (2023). How accurate are existing land cover maps for agriculture in Sub-Saharan Africa? arXiv preprint, [link](https://arxiv.org/abs/2307.02575).
+1. **Kerner, H.**, Nakalembe, C., Yang, A., Zvonkov, I., McWeeny, R., Tseng, G., and Becker-Reshef, I. (2023). How accurate are existing land cover maps for agriculture in Sub-Saharan Africa? *Nature Scientific Data, 11(486)*, [link](https://www.nature.com/articles/s41597-024-03306-z).
 
 1. Tseng, G., Zvonkov, I., Purohit, M., Rolnick, D., and **Kerner, H.** (2023). Lightweight, Pre-trained Transformers for Remote Sensing Timeseries. arXiv preprint, [link](https://arxiv.org/abs/2304.14065).
 
