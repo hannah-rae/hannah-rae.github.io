@@ -9,6 +9,7 @@ author_profile: true
 For students to thrive and be successful, it is important for them to understand *why* they are learning something and to feel invested in learning the concepts being taught. The motivation for a topic should come first, not as an afterthought. My teaching style is interactive and problem-based as I encourage students to engage with the material and think about how it relates to things they are learning and experiencing outside the classroom. Students can find limitless resources to learn computer science and AI concepts online. I feel that my role as their instructor is to not just teach them the concepts in the course syllabus but, as with some machine learning models, equip them with better meta-learning tools that enable them to learn new concepts and tools more efficiently in the future.
 
 ### Courses at ASU
+- Fall 2024: Foundations of Machine Learning (CSE 475)
 - Spring 2024: Machine Learning for Remote Sensing (CSE 598)
 - Fall 2023: Foundations of Machine Learning (CSE 475)
 - Spring 2023: Data Mining (CSE 572)
@@ -20,8 +21,8 @@ For students to thrive and be successful, it is important for them to understand
 
 ### Guest lectures
 - November 2023: GEOG272 Introduction to Earth Observation Science (University of Maryland, Instructor: Catherine Nakalembe)
-- July 2023: Introduction to AI for Agriculture (Climate Change AI Summer School), [[link]](https://www.youtube.com/live/_eaYVkkbjzg?feature=share)
-- Feb 2023: Machine Learning Challenges in the Real World (Oregon State Univ., Instructor: Kiri Wagstaff)
+- Summer 2023, 2024: Introduction to AI for Agriculture (Climate Change AI Summer School), [[2023 link]](https://www.youtube.com/live/_eaYVkkbjzg?feature=share)
+- Spring 2023, 2024: Machine Learning Challenges in the Real World (Oregon State Univ., Instructor: Kiri Wagstaff, Rebecca Hutchinson)
 - Aug 2022, 2023: Computer Vision for Ecology (CV4E) Summer School (Caltech) [[2022 link](https://www.youtube.com/watch?v=QS0YThiTSsM&list=PLGuY5I6wycRiDGYnimr98jYfITWBjmqhv&index=10)]
 - Fall 2019, 2021, 2022: Coding for Exploration (Arizona State Univ., Instructor: JD Das)
 - July 2021: PRAIRIE AI summer school (PAISS)
@@ -29,8 +30,9 @@ For students to thrive and be successful, it is important for them to understand
 - Spring 2020: Remote Sensing (UMD, Instructor: Mong-Han Huang)
 
 ### Tutorials and capacity building
+- June 2024: Cropland Mapping Training for NASA SERVIR West Africa Hub (Centre de Suivi Ecologique), Dakar, Senegal [[agenda]](https://nasaharvest.github.io/senegal2024)
 - May 2023: Machine Learning for Remote Sensing Summit, hosted in Kigali, Rwanda at CMU Africa and led by ASU, NASA Harvest, and CMU (https://nasaharvest.github.io/ml-for-remote-sensing/iclr2023/tutorial)
-- Feb 2023: 'Āina Data Stewards program kickoff, hosted at University of Hawaii Maui College and led by ASU, UMD, and NASA Harvest/ACRES consortium team members (https://nasaharvest.github.io/mauinui#data)
+- Feb 2023: 'Āina Data Stewards program kickoff, hosted at University of Hawaii Maui College and led by ASU, UMD, and NASA Harvest/ACRES consortium team members [[agenda]](https://nasaharvest.github.io/mauinui#data)
 - Sep 2022: Argentina Multilateral training program led by NASA Harvest, University of Maryland (UMD), the Buenos Aires Grain Exchange (Bolsa de Cereales), the Argentinian Ministry of Education, and the International Development Bank [[article]](https://nasaharvest.org/news/harvest-expands-work-argentina-new-multilateral-training-program)
 - Aug 2022: Scalable Cropland Mapping Workshop, hosted at University of Maryland for Regional Centre on Mapping Resources and Development (RCMRD) [[agenda]](https://nasaharvest.github.io/rcmrd2022.html)
 - Jun 2022: Machine Learning for Remote Sensing and Applications in Agriculture and Food Security tutorial (invited) at Computer Vision and Pattern Recognition (CVPR) [[agenda]](https://nasaharvest.github.io/cvpr2022.html)

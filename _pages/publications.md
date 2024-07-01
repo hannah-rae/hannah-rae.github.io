@@ -8,15 +8,19 @@ author_profile: true
   You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
 {% endif %}
 
-1. 🆕 Dhakal, A., Ahmad, A., Khanal, S., Sastry, S., **Kerner, H.**, and Jacobs, N. (2024). Sat2Cap: Mapping Fine-Grained Textual Descriptions from Satellite Images. To appear in *Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition (CVPR) Workshops*, EarthVision 2024.
+1. 🆕 Cui, C., Yan, Z., Muhawenayo, G., and **Kerner, H.** (2024). An All-MLP Sequence Modeling Architecture That Excels at Copying. *International Conference on Machine Learning (ICML) Workshops*, Next Generation of Sequence Modeling Architectures Workshop, [link](https://arxiv.org/abs/2406.16168v1).
 
-1. 🆕 Rolnick, D., Aspuru-Guzik, A., Beery, S., Dilkina, B., Donti, P. L., Ghassemi, M., **Kerner, H.**, Monteleoni, C., Rolf, E., Tambe, M., White, A. (2024). Application-Driven Innovation in Machine Learning. To appear in *Proceedings of the International Conference on Machine Learning (ICML)*, [link](https://arxiv.org/abs/2403.17381).
+1. 🆕 Gray, P. C., Boss, E., Prochaska, J. X., **Kerner, H.**, Demeaux, C. B., and Lehahn, Y. (2024). The Promise and Pitfalls of Machine Learning in Ocean Remote Sensing. *Authorea Preprints*, [link](https://essopenarchive.org/users/710666/articles/1090855-the-promise-and-pitfalls-of-machine-learning-in-ocean-remote-sensing).
 
-1. 🆕 Rolf, E., Klemmer, K., Robinson, C., and **Kerner, H.** (2024). Mission Critical--Satellite Data is a Distinct Modality in Machine Learning. To appear in *Proceedings of the International Conference on Machine Learning (ICML)*, [link](https://arxiv.org/abs/2402.01444).
+1. 🆕 Dhakal, A., Ahmad, A., Khanal, S., Sastry, S., **Kerner, H.**, and Jacobs, N. (2024). Sat2Cap: Mapping Fine-Grained Textual Descriptions from Satellite Images. To appear in *Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition (CVPR) Workshops*, EarthVision 2024. [link](https://openaccess.thecvf.com/content/CVPR2024W/EarthVision/papers/Dhakal_Sat2Cap_Mapping_Fine-Grained_Textual_Descriptions_from_Satellite_Images_CVPRW_2024_paper.pdf) 🏅 Best Paper Award 
 
-1. 🆕 Kebede, E. A., Abou Ali, H., Clavelle, T., Froehlich, H. E., Gephart, J. A., Hartman, S., Herrero, M., **Kerner, H.**, Mehta, P., Nakalembe, C., Ray, D. K., Siebert, S., Thornton, P., Davis, K. F. (2024). *Nature Reviews Earth & Environment*, p. 1-17, [link](https://www.nature.com/articles/s43017-024-00516-2).
+1. 🆕 Rolnick, D., Aspuru-Guzik, A., Beery, S., Dilkina, B., Donti, P. L., Ghassemi, M., **Kerner, H.**, Monteleoni, C., Rolf, E., Tambe, M., White, A. (2024). Application-Driven Innovation in Machine Learning. In *Proceedings of the International Conference on Machine Learning (ICML)*, [link](https://arxiv.org/abs/2403.17381).
 
-1. **Kerner, H.**, Nakalembe, C., Yeh, B., Zvonkov, I., Skakun, S., Becker-Reshef, I., and McNally, A. (2023). Satellite Data Shows Resilience of Tigrayan Farmers in Crop Cultivation During Civil War. arXiv preprint, [link](https://arxiv.org/abs/2312.10819).
+1. 🆕 Rolf, E., Klemmer, K., Robinson, C., and **Kerner, H.** (2024). Mission Critical--Satellite Data is a Distinct Modality in Machine Learning. In *Proceedings of the International Conference on Machine Learning (ICML)*, [link](https://arxiv.org/abs/2402.01444). 🌟 Spotlight Poster
+
+1. Kebede, E. A., Abou Ali, H., Clavelle, T., Froehlich, H. E., Gephart, J. A., Hartman, S., Herrero, M., **Kerner, H.**, Mehta, P., Nakalembe, C., Ray, D. K., Siebert, S., Thornton, P., Davis, K. F. (2024). *Nature Reviews Earth & Environment*, p. 1-17, [link](https://www.nature.com/articles/s43017-024-00516-2).
+
+1. **Kerner, H.**, Nakalembe, C., Yeh, B., Zvonkov, I., Skakun, S., Becker-Reshef, I., and McNally, A. (2024). Satellite Data Shows Resilience of Tigrayan Farmers in Crop Cultivation During Civil War. *Science of Remote Sensing*, [link](https://www.sciencedirect.com/science/article/pii/S2666017224000245?via%3Dihub).
 
 1. Prieur, N. C., Amaro, B., Gonzalez, E., **Kerner, H.**, Medvedev, S., Rubanenko, L., Werner, S., Xiao, Z., Zastrozhnov, D., and Lapôtre, M. G. (2023). Automatic Characterization of Boulders on Planetary Surfaces From High‐Resolution Satellite Images. *Journal of Geophysical Research: Planets, 128(11)*, e2023JE008013, [link](https://doi.org/10.1029/2023JE008013).
 
@@ -36,7 +40,7 @@ author_profile: true
 
 1. Zvonkov, I., Tseng, G., Nakalembe, C., and **Kerner, H.** (2023). OpenMapFlow: A Library for Rapid Map Creation with Machine Learning and Remote Sensing Data. In *Proceedings of the AAAI Conference on Artificial Intelligence, 37(12)*, 14655-14663, [link](https://doi.org/10.1609/aaai.v37i12.26713).
 
-1. **Kerner, H.**, Sundar, S., and Satish, M. (2023). Multi-Region Transfer Learning for Segmentation of Crop Field Boundaries in Satellite Images with Limited Labels. In *Proceedings of the AAAI Conference on Artificial Intelligence Workshops*, [link](https://ai-2-ase.github.io/papers/14%5cSubmission%5cField_boundary_delineation___AAAI_2023_AI2SE-camera-ready.pdf).
+1. **Kerner, H.**, Sundar, S., and Satish, M. (2023). Multi-Region Transfer Learning for Segmentation of Crop Field Boundaries in Satellite Images with Limited Labels. In *Proceedings of the AAAI Conference on Artificial Intelligence Workshops*, [link](https://arxiv.org/abs/2404.00179).
 
 1. Manimurugan, S., Singaram, R., Nakalembe, C., and **Kerner, H.** (2022). Geo-referencing crop labels from street-level images using Structure from Motion. In *Proceedings of the 73rd International Astronautical Congress (IAC)*, [link](https://www.researchgate.net/publication/365360146_Geo-referencing_crop_labels_from_street-level_images_using_Structure_from_Motion).
 
