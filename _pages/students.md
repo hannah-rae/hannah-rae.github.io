@@ -12,7 +12,7 @@ author_profile: true
 | Name | Year\* | Current Affiliation |
 | --- | --- |
 | Bhanu Tokas | 2029 | ASU Computer Science (PhD) |
-| Amna El-Mustafah | 2029 | ASU Computer Science (PhD) |
+| Amna El-Mustafa | 2029 | ASU Computer Science (PhD) |
 | Amandeep Kaur | 2029 | ASU Computer Science (PhD) |
 | Adam Hess-Dunlop | 2029 | ASU Computer Science (PhD) |
 | Chenwei Cui | 2028 | ASU Computer Science (PhD) |
