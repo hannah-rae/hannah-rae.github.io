@@ -16,21 +16,21 @@ author_profile: true
 
 1. 🆕 Rolnick, D., Aspuru-Guzik, A., Beery, S., Dilkina, B., Donti, P. L., Ghassemi, M., **Kerner, H.**, Monteleoni, C., Rolf, E., Tambe, M., White, A. (2024). Application-Driven Innovation in Machine Learning. In *Proceedings of the International Conference on Machine Learning (ICML)*, [link](https://arxiv.org/abs/2403.17381).
 
-1. 🆕 Rolf, E., Klemmer, K., Robinson, C., and **Kerner, H.** (2024). Mission Critical--Satellite Data is a Distinct Modality in Machine Learning. In *Proceedings of the International Conference on Machine Learning (ICML)*, [link](https://arxiv.org/abs/2402.01444). 🌟 Spotlight Poster
+1. 🆕 Rolf, E., Klemmer, K., Robinson, C., and **Kerner, H.** (2024). Mission Critical--Satellite Data is a Distinct Modality in Machine Learning. In *Proceedings of the International Conference on Machine Learning (ICML)*, [link](https://arxiv.org/abs/2402.01444). 🌟 Spotlight Poster (3.5% acceptance rate)
 
 1. Kebede, E. A., Abou Ali, H., Clavelle, T., Froehlich, H. E., Gephart, J. A., Hartman, S., Herrero, M., **Kerner, H.**, Mehta, P., Nakalembe, C., Ray, D. K., Siebert, S., Thornton, P., Davis, K. F. (2024). *Nature Reviews Earth & Environment*, p. 1-17, [link](https://www.nature.com/articles/s43017-024-00516-2).
 
-1. **Kerner, H.**, Nakalembe, C., Yeh, B., Zvonkov, I., Skakun, S., Becker-Reshef, I., and McNally, A. (2024). Satellite Data Shows Resilience of Tigrayan Farmers in Crop Cultivation During Civil War. *Science of Remote Sensing*, [link](https://www.sciencedirect.com/science/article/pii/S2666017224000245?via%3Dihub).
+1. **Kerner, H.**, Nakalembe, C., Yeh, B., Zvonkov, I., Skakun, S., Becker-Reshef, I., and McNally, A. (2024). Satellite Data Shows Resilience of Tigrayan Farmers in Crop Cultivation During Civil War. *Science of Remote Sensing*, 10, 100140, [link](https://www.sciencedirect.com/science/article/pii/S2666017224000245?via%3Dihub).
+
+1. **Kerner, H.**, Nakalembe, C., Yang, A., Zvonkov, I., McWeeny, R., Tseng, G., and Becker-Reshef, I. (2024). How accurate are existing land cover maps for agriculture in Sub-Saharan Africa? *Nature Scientific Data, 11(486)*, [link](https://www.nature.com/articles/s41597-024-03306-z).
 
 1. Prieur, N. C., Amaro, B., Gonzalez, E., **Kerner, H.**, Medvedev, S., Rubanenko, L., Werner, S., Xiao, Z., Zastrozhnov, D., and Lapôtre, M. G. (2023). Automatic Characterization of Boulders on Planetary Surfaces From High‐Resolution Satellite Images. *Journal of Geophysical Research: Planets, 128(11)*, e2023JE008013, [link](https://doi.org/10.1029/2023JE008013).
 
 1. Tseng, G., Zvonkov, I., Purohit, M., Rolnick, D., and **Kerner, H.** (2023). Lightweight, Pre-trained Transformers for Remote Sensing Timeseries. *Neural Information Processing Systems (NeurIPS), Climate Change AI Workshop*, [link](https://www.climatechange.ai/papers/neurips2023/58).
 
-1. Purohit, M., Adler, J., and **Kerner, H.** (2023). ConeQuest: A Benchmark for Cone Detection on Mars. *Proceedings of the IEEE/CVF Winter Conference on Applications of Computer Vision (WACV)*, pp. 6026-6035, [link](https://openaccess.thecvf.com/content/WACV2024/html/Purohit_ConeQuest_A_Benchmark_for_Cone_Segmentation_on_Mars_WACV_2024_paper.html).
+1. Purohit, M., Adler, J., and **Kerner, H.** (2023). ConeQuest: A Benchmark for Cone Detection on Mars. *Proceedings of the IEEE/CVF Winter Conference on Applications of Computer Vision (WACV)*, pp. 6026-6035, [link](https://openaccess.thecvf.com/content/WACV2024/html/Purohit_ConeQuest_A_Benchmark_for_Cone_Segmentation_on_Mars_WACV_2024_paper.html). 🎤 Oral Presentation (2.5% acceptance rate)
 
 1. Malvi, S., Shah, H., Chandarana, N., Purohit, M., Adler, J., **Kerner, H.** (2023). Automated Multi-class Crater Segmentation in Mars Orbital Images. *Proceedings of the 31st ACM SIGSPATIAL International Conference on Advances in Geographic Information Systems (ACM SIGSPATIAL 2023), GeoAI Workshop*, pp. 110-120, [link](https://dl.acm.org/doi/abs/10.1145/3615886.3627748).
-
-1. **Kerner, H.**, Nakalembe, C., Yang, A., Zvonkov, I., McWeeny, R., Tseng, G., and Becker-Reshef, I. (2023). How accurate are existing land cover maps for agriculture in Sub-Saharan Africa? *Nature Scientific Data, 11(486)*, [link](https://www.nature.com/articles/s41597-024-03306-z).
 
 1. Tseng, G., Zvonkov, I., Purohit, M., Rolnick, D., and **Kerner, H.** (2023). Lightweight, Pre-trained Transformers for Remote Sensing Timeseries. arXiv preprint, [link](https://arxiv.org/abs/2304.14065).
 
@@ -41,6 +41,8 @@ author_profile: true
 1. Zvonkov, I., Tseng, G., Nakalembe, C., and **Kerner, H.** (2023). OpenMapFlow: A Library for Rapid Map Creation with Machine Learning and Remote Sensing Data. In *Proceedings of the AAAI Conference on Artificial Intelligence, 37(12)*, 14655-14663, [link](https://doi.org/10.1609/aaai.v37i12.26713).
 
 1. **Kerner, H.**, Sundar, S., and Satish, M. (2023). Multi-Region Transfer Learning for Segmentation of Crop Field Boundaries in Satellite Images with Limited Labels. In *Proceedings of the AAAI Conference on Artificial Intelligence Workshops*, [link](https://arxiv.org/abs/2404.00179).
+
+1. Handwerger, A. L., Huang, M. H., Jones, S. Y., Amatya, P., **Kerner, H. R.**, and Kirschbaum, D. B. (2022). Generating landslide density heatmaps for rapid detection using open-access satellite radar data in Google Earth Engine. Natural Hazards and Earth System Sciences, 22(3), 753-773, [link](https://nhess.copernicus.org/articles/22/753/2022/nhess-22-753-2022.html).
 
 1. Manimurugan, S., Singaram, R., Nakalembe, C., and **Kerner, H.** (2022). Geo-referencing crop labels from street-level images using Structure from Motion. In *Proceedings of the 73rd International Astronautical Congress (IAC)*, [link](https://www.researchgate.net/publication/365360146_Geo-referencing_crop_labels_from_street-level_images_using_Structure_from_Motion).
 
@@ -66,7 +68,7 @@ author_profile: true
 
 3. Shirzaei, M., Khoshmanesh, M., Ojha, C., Werth, S., **Kerner, H.**, Carlson, G., Sherpa, S. F., Zhai, G., and Lee, J. Persistent impact of spring floods on crop loss in U.S. Midwest. *Weather and Climate Extremes, 34*, 100392, [link](https://doi.org/10.1016/j.wace.2021.100392).
 
-4. Huppertz, R., Nakalembe, C., **Kerner, H.** (2021). Using transfer learning to study burned area dynamics: A case study of Refugee settlements in West Nile, Northern Uganda. *Proceedings of the ACM/SIGKIDD Conference on Knowledge Discover and Data Mining (KDD) Workshops*, Humanitarian Mapping, [link](https://arxiv.org/abs/2107.14372).
+4. Huppertz, R., Nakalembe, C., **Kerner, H.** (2021). Using transfer learning to study burned area dynamics: A case study of Refugee settlements in West Nile, Northern Uganda. *Proceedings of the ACM/SIGKIDD Conference on Knowledge Discover and Data Mining (KDD) Workshops*, Humanitarian Mapping, [link](https://arxiv.org/abs/2107.14372). 🎤 Oral Presentation
 
 5. Paliyam, M., Nakalembe, C., **Kerner, H.** (2021). Street2Sat: A Machine Learning Pipeline for Generating Ground-truth Geo-referenced Labeled Datasets from Street-Level Images. *Proceedings of the International Conference on Machine Learning (ICML) Workshops*, Tackling Climate Change with AI, [link](https://www.climatechange.ai/papers/icml2021/74.html).
 
@@ -98,7 +100,7 @@ author_profile: true
 
 19. **Kerner, H. R.**, Wagstaff, K. L., Bue, B. D., Gray, P., Bell III, J. F., Ben Amor, H (2019). Deep Learning Methods Toward Generalized Change Detection on Planetary Surfaces. *Journal of Selected Topics in Applied Earth Observations and Remote Sensing, 12(10)*, pp. 3900-3918, [link](https://doi.org/10.1109/JSTARS.2019.2936771).
 
-20. **Kerner, H. R.**, Wellington, D. F., Wagstaff, K. L., Bell III, J. F., Kwan, C., Ben Amor, H. (2019). Novelty Detection for Multispectral Images with Application to Planetary Exploration. *Proceedings of the AAAI Conference on Artificial Intelligence*, pp. 9484-9491, [link](https://doi.org/10.1609/aaai.v33i01.33019484).
+20. **Kerner, H. R.**, Wellington, D. F., Wagstaff, K. L., Bell III, J. F., Kwan, C., Ben Amor, H. (2019). Novelty Detection for Multispectral Images with Application to Planetary Exploration. *Proceedings of the AAAI Conference on Artificial Intelligence*, pp. 9484-9491, [link](https://doi.org/10.1609/aaai.v33i01.33019484). 🎤 Oral Presentation
 
 21. **Kerner, H. R.**, Ben Amor, H., Bell III, J. F. (2018). Context-Dependent Image Quality Assessment of JPEG-Compressed Mars Science Laboratory Mastcam Images using Convolutional Neural Networks. *Computers and Geosciences, 118*, pp. 109-121, [link](https://doi.org/10.1016/j.cageo.2018.06.001).
 

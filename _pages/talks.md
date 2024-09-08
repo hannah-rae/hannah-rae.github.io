@@ -12,6 +12,7 @@ author_profile: true
 - September 2024: Computer Vision for Ecology Workshop, European Conference on Computer Vision (ECCV), Milan
 - December 2024: American Geophysical Union Fall Meeting, Washington DC
 - January 2025: 13th ELSI International Symposium on Life and Humans in Space, Tokyo
+- February 2025: Third U.S.-Africa Frontiers Symposium (National Academies of Sciences, Engineering, and Medicine), Kigali
 
 ### Past
 - September 2024: United Nations and ITU AI for Good, [[recording]](https://aiforgood.itu.int/event/harnessing-machine-learning-and-satellite-data-for-planetary-scale-impact/)
