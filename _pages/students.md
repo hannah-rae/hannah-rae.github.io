@@ -11,6 +11,10 @@ author_profile: true
 
 | Name | Year\* | Current Affiliation |
 | --- | --- |
+| Bhanu Tokas | 2029 | ASU Computer Science (PhD) |
+| Amna El-Mustafah | 2029 | ASU Computer Science (PhD) |
+| Amandeep Kaur | 2029 | ASU Computer Science (PhD) |
+| Adam Hess-Dunlop | 2029 | ASU Computer Science (PhD) |
 | Chenwei Cui | 2028 | ASU Computer Science (PhD) |
 | Gedeon Muhawenayo | 2028 | ASU Computer Science (PhD) |
 | Mirali Purohit | 2027 | ASU Computer Science (PhD) |
@@ -23,12 +27,13 @@ author_profile: true
 
 | Name | Year\* | Topic | Current Affiliation |
 | --- | --- |
-| Aditya Mohan | 2024 | Anomaly detection in remote sensing | ASU CS (MS) |
-| Kartik Jawanjal | 2024 | Object detection and depth estimation in street-level images | ASU CS (MS) |
-| Bhanu Tokas | 2024 | Object detection and depth estimation in street-level images | ASU CS (MS) |
-| Keun Park | 2024 | Automatic map feature extraction (DARPA challenge) | ASU CS (MS) |
 | Snehal Chaudhari | 2024 | Computer vision for field boundary segmentation | ASU CS (MS) |
 | Aninda Ghosh | 2024 | Computer vision for field boundary segmentation | ASU Robotics (MS) |
+| Kunal Kasodekar | 2024 | Diffusion models | ASU CS (MS) |
+| Kartik Jawanjal | 2024 | Object detection and depth estimation in street-level images | ASU CS (MS) |
+| Bhanu Tokas | 2024 | Object detection and depth estimation in street-level images | ASU CS (MS) |
+| Aditya Mohan | 2024 | Anomaly detection in remote sensing | Amazon Web Services |
+| Keun Park | 2024 | Automatic map feature extraction (DARPA challenge) | ASU CS (MS) |
 | Manthan Satish | 2023 | Computer vision for field boundary segmentation | ASU Robotics (MS) |
 | Ivan Zvonkov | 2023 | Scalable and deployed ML for remote sensing | UMD CS (MS) |
 
@@ -38,6 +43,7 @@ author_profile: true
 
 | Name | Year\* | Topic | Last Known Affiliation |
 | --- | --- |
+| Benjamin Herrera | 2024 | Crop yield prediction | ASU CS |
 | Sloan Cooney | 2024 | Computer vision for medical imaging | ASU CS (Barrett Honors Thesis) |
 | Rini Jain | 2024 | Deep Learning Generation of Digital Elevation Maps | ASU CS (Barrett Honors Thesis) |
 | Anant Rastogi | 2024 | Deep Learning Generation of Digital Elevation Maps | ASU CS (Barrett Honors Thesis) |

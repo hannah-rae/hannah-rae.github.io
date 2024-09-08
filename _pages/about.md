@@ -31,6 +31,10 @@ You can download my CV [here](http://hannah-rae.github.io/files/Kerner_Hannah_CV
 - Google Women Techmakers award (2018)
 
 ## News
+- September 2024: I gave an invited talk for the United Nations and ITU AI for Good, watch the [recording](https://aiforgood.itu.int/event/harnessing-machine-learning-and-satellite-data-for-planetary-scale-impact/)!
+- August 2024: Our NASA proposal, "Enabling Next-Generation Data Science in Planetary Research with Machine Learning Dataset Creation Tools in JMARS", was selected for a Planetary Data Archiving, Restoration, and Tools (PDART) award!
+- July 2024: PhD student Gedeon Muhawenayo was featured in an article, ["Emerging machine learning expert leads Kenya AI workshop"](https://fullcircle.asu.edu/research/emerging-machine-learning-expert-leads-kenya-ai-workshop/), by ASU Full Circle!
+- July 2024: PhD student Chenwei Cui presented a poster and I gave an invited talk at ICML 2024 in Vienna!
 - June 2024: Our paper, ["An All-MLP Sequence Modeling Architecture That Excels at Copying"](https://arxiv.org/abs/2406.16168v1), was accepted for the Next Generation of Sequence Modeling Architectures Workshop at ICML 2024!
 - June 2024: A preprint of our paper, ["The Promise and Pitfalls of Machine Learning in Ocean Remote Sensing"](https://essopenarchive.org/users/710666/articles/1090855-the-promise-and-pitfalls-of-machine-learning-in-ocean-remote-sensing), is available now!
 - June 2024: Our paper, ["Mission Critical -- Satellite Data is a Distinct Modality in Machine Learning"](https://arxiv.org/abs/2402.01444) will be featured as a Spotlight 🌟 Poster at ICML 2025! (3.5\% acceptance rate for spotlights)

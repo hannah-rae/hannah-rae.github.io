@@ -8,10 +8,15 @@ author_profile: true
 ## Selected Invited Talks
 
 ### Upcoming
-
+- September 2024: Department of Astronomy and Planetary Science Colloquium, Northern Arizona University, Flagstaff
+- September 2024: Computer Vision for Ecology Workshop, European Conference on Computer Vision (ECCV), Milan
+- December 2024: American Geophysical Union Fall Meeting, Washington DC
+- January 2025: 13th ELSI International Symposium on Life and Humans in Space, Tokyo
 
 ### Past
-- June 2024: ISPRS Technical Commission II Symposium, Las Vegas
+- September 2024: United Nations and ITU AI for Good, [[recording]](https://aiforgood.itu.int/event/harnessing-machine-learning-and-satellite-data-for-planetary-scale-impact/)
+- July 2024: International Conference on Machine Learning (ICML) Workshop on Foundation Models in the Wild, Vienna
+- June 2024: Keynote, ISPRS Technical Commission II Symposium, Las Vegas
 - March 2024: Machine Learning and Data Management for Earth Observation Workshop, Forum Digitale Technologien, Berlin. [[recording]](https://www.youtube.com/watch?v=a30faPVu0Z0)
 - December 2023: Computational Sustainability workshop at NeurIPS 2023, New Orleans
 - October 2023: Keynote, Digital Agriculture and Advanced Analytics Symposium (DA3), Kansas State University, Manhattan

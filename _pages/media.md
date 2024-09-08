@@ -6,6 +6,8 @@ author_profile: true
 
 
 ### Featured Articles, Podcasts, and Other Media
+- **Innovation Bridge Community Spotlight: Dr. Hannah Kerner.** [Taylor Geospatial Engine Blog, 2024](https://tgengine.org/innovation-bridge-community-spotlight-dr-hannah-kerner/).
+- **Emerging machine learning expert leads Kenya AI workshop.** [ASU Full Circle, 2024](https://fullcircle.asu.edu/research/emerging-machine-learning-expert-leads-kenya-ai-workshop/).
 - **With help from AI, ASU researcher develops models to address climate change, other global issues.** [ASU News, 2024](https://news.asu.edu/20240201-environment-and-sustainability-help-ai-asu-researcher-develops-models-address-climate).
 - **NASA is helping Hawai’i farmers grow more food with AI.** [Agriculture Dive, 2023](https://www.agriculturedive.com/news/nasa-ai-artificial-intelligence-farm-mapping-hawaii-wildfires/700757/).
 - **Maui United Way and NASA Collaboration Expedites Aid for Maui Wildfire Survivors.** [Maui Times, 2023](https://mauitimes.org/environment/maui-united-way-and-nasa-collaboration-expedites-aid-for-maui-wildfire-survivors/).
