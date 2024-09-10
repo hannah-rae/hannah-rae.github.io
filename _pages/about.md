@@ -23,6 +23,12 @@ Prior to joining the faculty at ASU, I was an Assistant Research Professor at th
 
 You can download my CV [here](http://hannah-rae.github.io/files/Kerner_Hannah_CV.pdf).
 
+## Working with Kerner Lab
+
+If you are interested in any position with the group (Postdoc, PhD, MS, Visitor, Intern, etc), instead of emailing me please fill out the interest survey below so I can better organize my responses. I am unlikely to respond to individual emails.
+- Use [this form](https://forms.gle/QJGKa8p4jPJ11nAg8) if you are **at ASU**
+- Use [this form](https://forms.gle/utmewBr6eiDddo1cA) if you are **not at ASU**
+
 ## Recognition
 -  Top 10 of 100 projects solving problems related to the UN SDGs with AI, International Research Centre on Artificial Intelligence (IRCAI), for NASA Harvest (2021)
 - Forbes 30 Under 30 in Science (2021)
@@ -31,6 +37,7 @@ You can download my CV [here](http://hannah-rae.github.io/files/Kerner_Hannah_CV
 - Google Women Techmakers award (2018)
 
 ## News
+- September 2024: I gave a colloquium for the Department of Astronomy and Planetary Science at Northern Arizona University in Flagstaff! [NAU is hiring faculty in AI/ML](https://hr.peoplesoft.nau.edu/psp/ph92prta/EMPLOYEE/HRMS/c/HRS_HRAM.HRS_APP_SCHJOB.GBL?Page=HRS_APP_JBPST&Action=U&FOCUS=Applicant&SiteId=2&JobOpeningId=607781&PostingSeq=1), so please apply if you are on the job market! 
 - September 2024: I gave an invited talk for the United Nations and ITU AI for Good, watch the [recording](https://aiforgood.itu.int/event/harnessing-machine-learning-and-satellite-data-for-planetary-scale-impact/)!
 - August 2024: Our NASA proposal, "Enabling Next-Generation Data Science in Planetary Research with Machine Learning Dataset Creation Tools in JMARS", was selected for a Planetary Data Archiving, Restoration, and Tools (PDART) award!
 - July 2024: PhD student Gedeon Muhawenayo was featured in an article, ["Emerging machine learning expert leads Kenya AI workshop"](https://fullcircle.asu.edu/research/emerging-machine-learning-expert-leads-kenya-ai-workshop/), by ASU Full Circle!
