@@ -8,15 +8,17 @@ author_profile: true
   You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
 {% endif %}
 
+1. 🆕 Kerner, H., Chaudhari, S., Ghosh, A., Robinson, C., Ahmad, A., Choi, E., Jacobs, N., Holmes, C., Mohr, M., Dodhia, R., Lavista Ferres, J. M., Marcus, J. (2024). Fields of The World: A Machine Learning Benchmark Dataset For Global Agricultural Field Boundary Segmentation, arXiv preprint, [link](https://fieldsofthe.world/paper.html).
+
 1. 🆕 Cui, C., Yan, Z., Muhawenayo, G., and **Kerner, H.** (2024). An All-MLP Sequence Modeling Architecture That Excels at Copying. *International Conference on Machine Learning (ICML) Workshops*, Next Generation of Sequence Modeling Architectures Workshop, [link](https://arxiv.org/abs/2406.16168v1).
 
 1. 🆕 Gray, P. C., Boss, E., Prochaska, J. X., **Kerner, H.**, Demeaux, C. B., and Lehahn, Y. (2024). The Promise and Pitfalls of Machine Learning in Ocean Remote Sensing. *Authorea Preprints*, [link](https://essopenarchive.org/users/710666/articles/1090855-the-promise-and-pitfalls-of-machine-learning-in-ocean-remote-sensing).
 
 1. 🆕 Dhakal, A., Ahmad, A., Khanal, S., Sastry, S., **Kerner, H.**, and Jacobs, N. (2024). Sat2Cap: Mapping Fine-Grained Textual Descriptions from Satellite Images. To appear in *Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition (CVPR) Workshops*, EarthVision 2024. [link](https://openaccess.thecvf.com/content/CVPR2024W/EarthVision/papers/Dhakal_Sat2Cap_Mapping_Fine-Grained_Textual_Descriptions_from_Satellite_Images_CVPRW_2024_paper.pdf) 🏅 Best Paper Award 
 
-1. 🆕 Rolnick, D., Aspuru-Guzik, A., Beery, S., Dilkina, B., Donti, P. L., Ghassemi, M., **Kerner, H.**, Monteleoni, C., Rolf, E., Tambe, M., White, A. (2024). Application-Driven Innovation in Machine Learning. In *Proceedings of the International Conference on Machine Learning (ICML)*, [link](https://arxiv.org/abs/2403.17381).
+1. Rolnick, D., Aspuru-Guzik, A., Beery, S., Dilkina, B., Donti, P. L., Ghassemi, M., **Kerner, H.**, Monteleoni, C., Rolf, E., Tambe, M., White, A. (2024). Application-Driven Innovation in Machine Learning. In *Proceedings of the International Conference on Machine Learning (ICML)*, [link](https://arxiv.org/abs/2403.17381).
 
-1. 🆕 Rolf, E., Klemmer, K., Robinson, C., and **Kerner, H.** (2024). Mission Critical--Satellite Data is a Distinct Modality in Machine Learning. In *Proceedings of the International Conference on Machine Learning (ICML)*, [link](https://arxiv.org/abs/2402.01444). 🌟 Spotlight Poster (3.5% acceptance rate)
+1. Rolf, E., Klemmer, K., Robinson, C., and **Kerner, H.** (2024). Mission Critical--Satellite Data is a Distinct Modality in Machine Learning. In *Proceedings of the International Conference on Machine Learning (ICML)*, [link](https://arxiv.org/abs/2402.01444). 🌟 Spotlight Poster (3.5% acceptance rate)
 
 1. Kebede, E. A., Abou Ali, H., Clavelle, T., Froehlich, H. E., Gephart, J. A., Hartman, S., Herrero, M., **Kerner, H.**, Mehta, P., Nakalembe, C., Ray, D. K., Siebert, S., Thornton, P., Davis, K. F. (2024). *Nature Reviews Earth & Environment*, p. 1-17, [link](https://www.nature.com/articles/s43017-024-00516-2).
 
