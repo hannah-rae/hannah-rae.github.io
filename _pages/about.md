@@ -37,6 +37,7 @@ If you are interested in any position with the group (Postdoc, PhD, MS, Visitor,
 - Google Women Techmakers award (2018)
 
 ## News
+- October 2024: Kerner Lab's Dr. Ana Tarano [delivered a testimony](https://mauicounty.legistar.com/View.ashx?M=A&ID=1233447&GUID=87C5BE78-2797-45A4-B067-80F28E66D0F5) to the Maui County Council's Agriculture, Diversification, Environment, and Public Transportation (ADEPT) committee about our work to support food security and agriculture in Maui county in relation to their strategic plan! 
 - October 2024: Our research was featured in [ASU's AI Journey report](https://tech.asu.edu/features/AI-Journey-24) (page 51), showcasing ASU's vision for harnessing AI’s power to elevate student success, drive groundbreaking research, and redefine the future of education and work.
 - October 2024: I gave an invited talk for the first [Computer Vision for Ecology workshop](https://cv4e.netlify.app/) at ECCV in Milan!
 - September 2024: We published a preprint of our new paper, ["Fields of The World: A Machine Learning Benchmark Dataset For Global Agricultural Field Boundary Segmentation"](https://fieldsofthe.world/paper.html), on Arxiv! This paper introduces our new near-global field boundary segmentation benchmark dataset and demonstrates impressive zero-shot results for FTW-trained models. See more details about the dataset and use it yourself at [https://fieldsofthe.world/](https://fieldsofthe.world/).
