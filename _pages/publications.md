@@ -8,13 +8,17 @@ author_profile: true
   You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
 {% endif %}
 
-1. 🆕 Kerner, H., Chaudhari, S., Ghosh, A., Robinson, C., Ahmad, A., Choi, E., Jacobs, N., Holmes, C., Mohr, M., Dodhia, R., Lavista Ferres, J. M., Marcus, J. (2024). Fields of The World: A Machine Learning Benchmark Dataset For Global Agricultural Field Boundary Segmentation, arXiv preprint, [link](https://fieldsofthe.world/paper.html).
+1. 🆕 **Kerner, H.**, Chaudhari, S., Ghosh, A., Robinson, C., Ahmad, A., Choi, E., Jacobs, N., Holmes, C., Mohr, M., Dodhia, R., Lavista Ferres, J. M., Marcus, J. (2024). Fields of The World: A Machine Learning Benchmark Dataset For Global Agricultural Field Boundary Segmentation, arXiv preprint, [link](https://fieldsofthe.world/paper.html).
+
+1. 🆕 Nakalembe, C., **Kerner, H.**, Zvonkov, I., Humber, M., Galvez, A., Makabe, E., Venturini, S., Becker-Reshef, I. (2024). A Framework for EO-Based National Agricultural Monitoring (EO-NAM)- For the African Context. Preprint, [link](https://www.researchsquare.com/article/rs-4731424/v1).
+
+1. 🆕 Nakalembe, C. L., Frimpong, D. B., **Kerner, H.**, Sarr, M. A. (2024). A 40-Year Remote Sensing Analysis of Spatiotemporal Temperature and Rainfall Patterns in Senegal. EarthArxiv preprint, [link](https://eartharxiv.org/repository/view/7626/).
 
 1. 🆕 Cui, C., Yan, Z., Muhawenayo, G., and **Kerner, H.** (2024). An All-MLP Sequence Modeling Architecture That Excels at Copying. *International Conference on Machine Learning (ICML) Workshops*, Next Generation of Sequence Modeling Architectures Workshop, [link](https://arxiv.org/abs/2406.16168v1).
 
-1. 🆕 Gray, P. C., Boss, E., Prochaska, J. X., **Kerner, H.**, Demeaux, C. B., and Lehahn, Y. (2024). The Promise and Pitfalls of Machine Learning in Ocean Remote Sensing. *Authorea Preprints*, [link](https://essopenarchive.org/users/710666/articles/1090855-the-promise-and-pitfalls-of-machine-learning-in-ocean-remote-sensing).
+1. 🆕 Gray, P. C., Boss, E., Prochaska, J. X., **Kerner, H.**, Demeaux, C. B., and Lehahn, Y. (2024). The Promise and Pitfalls of Machine Learning in Ocean Remote Sensing. *Oceanography, 37(3)*, pp. 52-63, [link](https://tos.org/oceanography/article/the-promise-and-pitfalls-of-machine-learning-in-ocean-remote-sensing).
 
-1. 🆕 Dhakal, A., Ahmad, A., Khanal, S., Sastry, S., **Kerner, H.**, and Jacobs, N. (2024). Sat2Cap: Mapping Fine-Grained Textual Descriptions from Satellite Images. To appear in *Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition (CVPR) Workshops*, EarthVision 2024. [link](https://openaccess.thecvf.com/content/CVPR2024W/EarthVision/papers/Dhakal_Sat2Cap_Mapping_Fine-Grained_Textual_Descriptions_from_Satellite_Images_CVPRW_2024_paper.pdf) 🏅 Best Paper Award 
+1. Dhakal, A., Ahmad, A., Khanal, S., Sastry, S., **Kerner, H.**, and Jacobs, N. (2024). Sat2Cap: Mapping Fine-Grained Textual Descriptions from Satellite Images. To appear in *Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition (CVPR) Workshops*, EarthVision 2024. [link](https://openaccess.thecvf.com/content/CVPR2024W/EarthVision/papers/Dhakal_Sat2Cap_Mapping_Fine-Grained_Textual_Descriptions_from_Satellite_Images_CVPRW_2024_paper.pdf) 🏅 Best Paper Award 
 
 1. Rolnick, D., Aspuru-Guzik, A., Beery, S., Dilkina, B., Donti, P. L., Ghassemi, M., **Kerner, H.**, Monteleoni, C., Rolf, E., Tambe, M., White, A. (2024). Application-Driven Innovation in Machine Learning. In *Proceedings of the International Conference on Machine Learning (ICML)*, [link](https://arxiv.org/abs/2403.17381).
 

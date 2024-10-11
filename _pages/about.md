@@ -37,6 +37,8 @@ If you are interested in any position with the group (Postdoc, PhD, MS, Visitor,
 - Google Women Techmakers award (2018)
 
 ## News
+- October 2024: Our research was featured in [ASU's AI Journey report](https://tech.asu.edu/features/AI-Journey-24) (page 51), showcasing ASU's vision for harnessing AI’s power to elevate student success, drive groundbreaking research, and redefine the future of education and work.
+- October 2024: I gave an invited talk for the first [Computer Vision for Ecology workshop](https://cv4e.netlify.app/) at ECCV in Milan!
 - September 2024: We published a preprint of our new paper, ["Fields of The World: A Machine Learning Benchmark Dataset For Global Agricultural Field Boundary Segmentation"](https://fieldsofthe.world/paper.html), on Arxiv! This paper introduces our new near-global field boundary segmentation benchmark dataset and demonstrates impressive zero-shot results for FTW-trained models. See more details about the dataset and use it yourself at [https://fieldsofthe.world/](https://fieldsofthe.world/).
 - September 2024: Our team visited Maui, Molokai, and Lanai for our [NASA project supporting local farmers and food security in Maui County](https://news.asu.edu/20230303-solutions-asu-researcher-combats-food-insecurity-ai)! We talked story with community leaders and presented a project update at UH Maui County.
 - September 2024: I gave a colloquium for the Department of Astronomy and Planetary Science at Northern Arizona University in Flagstaff! [NAU is hiring faculty in AI/ML](https://hr.peoplesoft.nau.edu/psp/ph92prta/EMPLOYEE/HRMS/c/HRS_HRAM.HRS_APP_SCHJOB.GBL?Page=HRS_APP_JBPST&Action=U&FOCUS=Applicant&SiteId=2&JobOpeningId=607781&PostingSeq=1), so please apply if you are on the job market! 
