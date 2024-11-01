@@ -20,7 +20,8 @@ For students to thrive and be successful, it is important for them to understand
 - Spring 2015: CS for People Who Don't Know CS (Yet!) (UNC Chapel Hill)
 
 ### Guest lectures
-- November 2023: GEOG272 Introduction to Earth Observation Science (University of Maryland, Instructor: Catherine Nakalembe)
+- November 2023, 2024: GEOG272 Introduction to Earth Observation Science (University of Maryland, Instructor: Catherine Nakalembe)
+- Octber 2024: COMP 685 AI for Climate Change (McGill University, Instructor: David Rolnick)
 - Summer 2023, 2024: Introduction to AI for Agriculture (Climate Change AI Summer School), [[2023 link]](https://www.youtube.com/live/_eaYVkkbjzg?feature=share)
 - Spring 2023, 2024: Machine Learning Challenges in the Real World (Oregon State Univ., Instructor: Kiri Wagstaff, Rebecca Hutchinson)
 - Aug 2022, 2023: Computer Vision for Ecology (CV4E) Summer School (Caltech) [[2022 link](https://www.youtube.com/watch?v=QS0YThiTSsM&list=PLGuY5I6wycRiDGYnimr98jYfITWBjmqhv&index=10)]
