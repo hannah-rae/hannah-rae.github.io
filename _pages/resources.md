@@ -19,7 +19,16 @@ Tired of hearing the excuse that the women did not exist to invite as speakers i
 --
 
 **(Mostly Non-Technical) Book Recommendations**
-I read a lot of books from a wide variety of genres and find huge value in reading books that are not related to my research/expertise. Here are my favorite books from each year, in hopes that they bring you value and joy as well:
+I read a lot of books from a wide variety of genres and find huge value in reading books that are not related to my research/expertise. Here are my favorite books from each year (in no order), in hopes that they bring you value and joy as well:
+
+2024
+- *Kindred* by Octavia Butler
+- *Pachinko* by Min Jin Lee
+- *Burn Book: A Tech Love Story* by Kara Swisher
+- *Never Split the Difference* by Chris Voss
+- *Tomorrow, and Tomorrow, and Tomorrow* by Gabrielle Zevin
+- *Wherever You Go, There You Are* by Jon Kabat-Zinn
+- *Long Walk to Freedom* by Nelson Mandela
 
 2023
 - *Demon Copperhead* by Barbara Kingsolver

@@ -8,9 +8,9 @@ author_profile: true
 ## Selected Invited Talks
 
 ### Upcoming
-- December 2024: American Geophysical Union Fall Meeting, Washington DC
 - January 2025: 13th ELSI International Symposium on Life and Humans in Space, Tokyo
-- January 2025: Computer Vision for Earth Observation workshop at WACV 2025 in Tucson, Arizona
+- February 2025: Computer Vision for Earth Observation workshop at WACV 2025 in Tucson, Arizona
+- February 2025: Keynote at WACV 2025 in Tucson, Arizona
 - February 2025: Third U.S.-Africa Frontiers Symposium (National Academies of Sciences, Engineering, and Medicine), Kigali
 
 ### Past
