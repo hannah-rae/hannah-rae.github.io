@@ -37,6 +37,12 @@ If you are interested in any position with the group (Postdoc, PhD, MS, Visitor,
 - Google Women Techmakers award (2018)
 
 ## News
+- January 2025: I presented about our Fields of The World (FTW!) benchmark dataset at the ESIP Winter Meeting online!
+- January 2025: I gave an invited talk about foundation models for Earth and space at the Earth and Life Sciences Institute (ELSI) 13th Symposium in Tokyo!
+- December 2024: ASU News published an article about our work with AI and food security in Maui county, Hawaii titled ["Harvesting satellite insights for Maui County farmers"](https://news.asu.edu/20241230-science-and-technology-harvesting-satellite-insights-maui-county-farmers), featuring Kerner Lab Assistant Research Professor Ana Tarano!
+- December 2024: Our lab gave [12 presentations](https://x.com/hannah_kerner/status/1865856553502576958) at the American Geophysical Union (AGU) Fall Meeting in Washington DC! 
+- December 2024: Our paper, [How Does the Spatial Distribution of Pre-training Data Affect Geospatial Foundation Models?](https://arxiv.org/pdf/2501.12535), was accepted to the *AAAI Workshop on Preparing Good Data for Generative AI*!
+- December 2024: I gave an invited talk about foundation models for Earth and space at NASA JPL!
 - December 2024: Our paper, ["Fields of The World: A Machine Learning Benchmark Dataset For Global Agricultural Field Boundary Segmentation"](https://fieldsofthe.world/paper.html), was accepted for AAAI 2025!
 - November 2024: Our paper, "Hotspotter: A Generalizable Pipeline for Automated Detection of Subtle Volcanic Thermal Features in Satellite Images," was accepted for publication at AAAI 2025 Innovative Applications of AI! (public link coming soon)
 - October 2024: Kerner Lab's Dr. Ana Tarano [delivered a testimony](https://mauicounty.legistar.com/View.ashx?M=A&ID=1233447&GUID=87C5BE78-2797-45A4-B067-80F28E66D0F5) to the Maui County Council's Agriculture, Diversification, Environment, and Public Transportation (ADEPT) committee about our work to support food security and agriculture in Maui county in relation to their strategic plan! 

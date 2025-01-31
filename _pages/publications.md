@@ -8,15 +8,25 @@ author_profile: true
   You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
 {% endif %}
 
+1. 🆕 Mohan, A., Gomez-Patron, A., Pritchard, M., **Kerner, H.** (2025). Hotspotter: A Generalizable Pipeline for Automated Detection of Subtle Volcanic Thermal Features in Satellite Images. To appear in *Proceedings of the AAAI Conference on Artificial Intelligence*, Innovative Applications of AI.
+
+1. 🆕 Hopkins, L., Wong, W-K., **Kerner, H.**, Li, F., Hutchinson, R. (2025). Data Augmentation Approaches for Satellite Imagery. To appear in *Proceedings of the AAAI Conference on Artificial Intelligence*.
+
+1. Purohit, M., Muhawenayo, G., Rolf, E., and **Kerner, H.** (2025). How Does the Spatial Distribution of Pre-training Data Affect Geospatial Foundation Models? *AAAI Workshop on Preparing Good Data for Generative AI: Challenges and Approaches*, [link](https://arxiv.org/pdf/2501.12535).
+
+1. Rufin, P., et al. (**Kerner, H.** one of 16 authors) (2025). Accelerating research on SDG2 'Zero Hunger' by opening commercial very-high resolution satellite image archives. *Proceedings of the National Academy of Sciences* (in press).
+
+1. 🆕 Peng, J., Li, J., Ingalls, T. C., Schill, S. R., **Kerner, H. R.**, and Asner, G. P. (2025). A novel deep learning algorithm for broad scale seagrass extent mapping in shallow coastal environments. *ISPRS Journal of Photogrammetry and Remote Sensing, 220*, 277-294, [link](https://doi.org/10.1016/j.isprsjprs.2024.12.008).
+
 1. 🆕 Nair, R., Tseng, G., Rolf, E., Tokas, B., **Kerner, H.** (2024). Classification Drives Geographic Bias in Street Scene Segmentation. Arxiv preprint, [link](https://arxiv.org/abs/2412.11061).
 
 1. 🆕 Tokas, B., Nair, R., **Kerner, H.** (2024). Making Bias Amplification in Balanced Datasets Directional and Interpretable. Arxiv preprint, [link](https://arxiv.org/abs/2412.11060).
 
-1. 🆕 **Kerner, H.**, Chaudhari, S., Ghosh, A., Robinson, C., Ahmad, A., Choi, E., Jacobs, N., Holmes, C., Mohr, M., Dodhia, R., Lavista Ferres, J. M., Marcus, J. (2025). Fields of The World: A Machine Learning Benchmark Dataset For Global Agricultural Field Boundary Segmentation, to appear in Proceedings of the AAAI Conference on Artificial Intelligence, [link](https://fieldsofthe.world/paper.html).
+1. 🆕 **Kerner, H.**, Chaudhari, S., Ghosh, A., Robinson, C., Ahmad, A., Choi, E., Jacobs, N., Holmes, C., Mohr, M., Dodhia, R., Lavista Ferres, J. M., Marcus, J. (2025). Fields of The World: A Machine Learning Benchmark Dataset For Global Agricultural Field Boundary Segmentation, to appear in *Proceedings of the AAAI Conference on Artificial Intelligence*, [link](https://fieldsofthe.world/paper.html).
 
 1. Nakalembe, C., **Kerner, H.**, Zvonkov, I., Humber, M., Galvez, A., Makabe, E., Venturini, S., Becker-Reshef, I. (2024). A Framework for EO-Based National Agricultural Monitoring (EO-NAM)- For the African Context. Preprint, [link](https://www.researchsquare.com/article/rs-4731424/v1).
 
-1. Nakalembe, C. L., Frimpong, D. B., **Kerner, H.**, Sarr, M. A. (2024). A 40-Year Remote Sensing Analysis of Spatiotemporal Temperature and Rainfall Patterns in Senegal. EarthArxiv preprint, [link](https://eartharxiv.org/repository/view/7626/).
+1. Nakalembe, C. L., Frimpong, D. B., **Kerner, H.**, Sarr, M. A. (2024). A 40-Year Remote Sensing Analysis of Spatiotemporal Temperature and Rainfall Patterns in Senegal. *Frontiers in Climate*, [link](https://www.frontiersin.org/journals/climate/articles/10.3389/fclim.2025.1462626).
 
 1. Cui, C., Yan, Z., Muhawenayo, G., and **Kerner, H.** (2024). An All-MLP Sequence Modeling Architecture That Excels at Copying. *International Conference on Machine Learning (ICML) Workshops*, Next Generation of Sequence Modeling Architectures Workshop, [link](https://arxiv.org/abs/2406.16168v1).
 

@@ -8,12 +8,14 @@ author_profile: true
 ## Selected Invited Talks
 
 ### Upcoming
-- January 2025: 13th ELSI International Symposium on Life and Humans in Space, Tokyo
 - February 2025: Computer Vision for Earth Observation workshop at WACV 2025 in Tucson, Arizona
 - February 2025: Keynote at WACV 2025 in Tucson, Arizona
-- February 2025: Third U.S.-Africa Frontiers Symposium (National Academies of Sciences, Engineering, and Medicine), Kigali
+<!-- - February 2025: Third U.S.-Africa Frontiers Symposium (National Academies of Sciences, Engineering, and Medicine), Kigali -->
 
 ### Past
+- January 2025: 13th ELSI International Symposium on Life and Humans in Space, Tokyo
+- January 2025: 2025 January ESIP Meeting, Virtual
+- December 2024: Science Understanding through Data Science (SUDS) Seminar, NASA Jet Propulsion Laboratory, Pasadena
 - September 2024: Computer Vision for Ecology Workshop, European Conference on Computer Vision (ECCV), Milan
 - September 2024: Department of Astronomy and Planetary Science Colloquium, Northern Arizona University, Flagstaff
 - September 2024: United Nations and ITU AI for Good, [[recording]](https://aiforgood.itu.int/event/harnessing-machine-learning-and-satellite-data-for-planetary-scale-impact/)

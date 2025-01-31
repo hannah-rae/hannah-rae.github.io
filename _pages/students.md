@@ -27,6 +27,7 @@ author_profile: true
 
 | Name | Year\* | Topic | Current Affiliation |
 | --- | --- |
+| Bradley Peterson | 2025 | Mapping light pollution with machine learning | ASU CS (MS) |
 | Snehal Chaudhari | 2024 | Computer vision for field boundary segmentation | ASU CS (MS) |
 | Aninda Ghosh | 2024 | Computer vision for field boundary segmentation | ASU Robotics (MS) |
 | Kunal Kasodekar | 2024 | Diffusion models | ASU CS (MS) |
@@ -94,11 +95,13 @@ author_profile: true
 
 | Name | Year\* | University/Program |
 | --- | --- |
-| Laurel Hopkins | 2024 | Oregon State University, Computer Science, PhD  |
+| Sarah Peterson | 2028 | Arizona State University, Exploration Systems Design, PhD |
+| Hyunho Lee | 2028 | Arizona State University, Geographical Information Sciences, PhD |
 | Jianghai Peng | 2027 | Arizona State University, Geological Sciences, PhD  |
-| Zifan Yu | 2024 | Arizona State University, Computer Science, PhD  |
-| Madeline Schwarz | 2026 | Arizona State University, Geological Sciences, PhD  |
-| Paul Horton | 2024 | Arizona State University, Exploration Systems Design, PhD  |
+| Madeline Schwarz | 2026 | Arizona State University, Geological Sciences, PhD |
+| Paul Horton | 2025 | Arizona State University, Exploration Systems Design, PhD |
+| Zifan Yu | 2025 | Arizona State University, Computer Science, PhD  |
+| Laurel Hopkins | 2024 | Oregon State University, Computer Science, PhD  |
 | Yiming Zhang | 2023 | University of Maryland, Geographical Sciences, PhD |
 | Saisumana Konatam | 2024 | Arizona State University, Computer Science, Undergraduate Honors Thesis  |
 | Matthew Watson | 2023 |Arizona State University, Computer Science, Masters  |
