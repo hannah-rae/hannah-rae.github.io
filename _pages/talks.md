@@ -9,7 +9,7 @@ author_profile: true
 
 ### Upcoming
 - February 2025: Computer Vision for Earth Observation workshop at WACV 2025 in Tucson, Arizona
-- February 2025: Keynote at WACV 2025 in Tucson, Arizona
+- March 2025: Keynote at WACV 2025 in Tucson, Arizona
 <!-- - February 2025: Third U.S.-Africa Frontiers Symposium (National Academies of Sciences, Engineering, and Medicine), Kigali -->
 
 ### Past
