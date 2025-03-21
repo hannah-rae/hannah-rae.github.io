@@ -8,11 +8,13 @@ author_profile: true
   You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
 {% endif %}
 
+1. 🆕 Nair, R., Tokas, B., & Kerner, H. (2025). Measuring directional bias amplification in image captions using predictability. arXiv preprint, [link](https://arxiv.org/abs/2503.07878).
+
 1. 🆕 Tseng, G., Fuller, A., Reil, M., Herzog, H., Beukema, P, Bastani, F., Green, J. R., Shelhamer, E., **Kerner, H.**, and Rolnick, D. (2025). arXiv preprint, [link](https://arxiv.org/abs/2502.09356).
 
-1. 🆕 Mohan, A., Gomez-Patron, A., Pritchard, M., **Kerner, H.** (2025). Hotspotter: A Generalizable Pipeline for Automated Detection of Subtle Volcanic Thermal Features in Satellite Images. To appear in *Proceedings of the AAAI Conference on Artificial Intelligence*, Innovative Applications of AI.
+1. Mohan, A., Gomez-Patron, A., Pritchard, M., **Kerner, H.** (2025). Hotspotter: A Generalizable Pipeline for Automated Detection of Subtle Volcanic Thermal Features in Satellite Images. To appear in *Proceedings of the AAAI Conference on Artificial Intelligence*, Innovative Applications of AI.
 
-1. 🆕 Hopkins, L., Wong, W-K., **Kerner, H.**, Li, F., Hutchinson, R. (2025). Data Augmentation Approaches for Satellite Imagery. To appear in *Proceedings of the AAAI Conference on Artificial Intelligence*.
+1. Hopkins, L., Wong, W-K., **Kerner, H.**, Li, F., Hutchinson, R. (2025). Data Augmentation Approaches for Satellite Imagery. To appear in *Proceedings of the AAAI Conference on Artificial Intelligence*.
 
 1. Purohit, M., Muhawenayo, G., Rolf, E., and **Kerner, H.** (2025). How Does the Spatial Distribution of Pre-training Data Affect Geospatial Foundation Models? *AAAI Workshop on Preparing Good Data for Generative AI: Challenges and Approaches*, [link](https://arxiv.org/pdf/2501.12535).
 

@@ -37,6 +37,8 @@ If you are interested in any position with the group (Postdoc, PhD, MS, Visitor,
 - Google Women Techmakers award (2018)
 
 ## News
+- March 2025: We officially kicked off Fields of The World: Phase 2 of the Taylor Geospatial Engine's Field Boundary Initiative!
+- February/March 2025: Our lab gave many presentations at WACV and AAAI!
 - February 2025: A preprint about our new remote sensing foundation model, Galileo, is [now available on arxiv](https://arxiv.org/abs/2502.09356)!
 - January 2025: I presented about our Fields of The World (FTW!) benchmark dataset at the ESIP Winter Meeting online!
 - January 2025: I gave an invited talk about foundation models for Earth and space at the Earth and Life Sciences Institute (ELSI) 13th Symposium in Tokyo!

@@ -8,11 +8,12 @@ author_profile: true
 ## Selected Invited Talks
 
 ### Upcoming
-- February 2025: Computer Vision for Earth Observation workshop at WACV 2025 in Tucson, Arizona
-- March 2025: Keynote at WACV 2025 in Tucson, Arizona
+- March 2025: Virtual AI Seminar Series, USDA US Meat Animal Research Center
 <!-- - February 2025: Third U.S.-Africa Frontiers Symposium (National Academies of Sciences, Engineering, and Medicine), Kigali -->
 
 ### Past
+- March 2025: Keynote at WACV 2025 in Tucson, Arizona
+- February 2025: Computer Vision for Earth Observation workshop at WACV 2025 in Tucson, Arizona
 - January 2025: 13th ELSI International Symposium on Life and Humans in Space, Tokyo
 - January 2025: 2025 January ESIP Meeting, Virtual
 - December 2024: Science Understanding through Data Science (SUDS) Seminar, NASA Jet Propulsion Laboratory, Pasadena
