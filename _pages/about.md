@@ -37,6 +37,8 @@ If you are interested in any position with the group (Postdoc, PhD, MS, Visitor,
 - Google Women Techmakers award (2018)
 
 ## News
+- March 2025: Our paper, "Classification Drives Geographic Bias in Street Scene Segmentation," was accepted to the Workshop on Fair, Data-Efficient, and Trusted Computer Vision at CVPR 2025!
+- March 2025: Our paper, "Task-Informed Meta-Learning for Remote Sensing," was accepted to the EarthVision workshop at CVPR 2025!
 - March 2025: We officially kicked off Fields of The World: Phase 2 of the Taylor Geospatial Engine's Field Boundary Initiative!
 - February/March 2025: Our lab gave many presentations at WACV and AAAI!
 - February 2025: A preprint about our new remote sensing foundation model, Galileo, is [now available on arxiv](https://arxiv.org/abs/2502.09356)!

@@ -8,9 +8,13 @@ author_profile: true
   You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
 {% endif %}
 
+1. 🆕 Tseng, G., **Kerner, H.**, and Rolnick, D. (2022). Task-Informed Meta-Learning for Remote Sensing. Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) Workshops*, EarthVision Workshop.
+
+1. 🆕 Nair, R., Tseng, G., Rolf, E., Tokas, B., **Kerner, H.** (2025). Classification Drives Geographic Bias in Street Scene Segmentation. *Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) Workshops*, Workshop on Fair, Data-Efficient, and Trusted Computer Vision, [link](https://arxiv.org/abs/2412.11061).
+
 1. 🆕 Nair, R., Tokas, B., & Kerner, H. (2025). Measuring directional bias amplification in image captions using predictability. arXiv preprint, [link](https://arxiv.org/abs/2503.07878).
 
-1. 🆕 Tseng, G., Fuller, A., Reil, M., Herzog, H., Beukema, P, Bastani, F., Green, J. R., Shelhamer, E., **Kerner, H.**, and Rolnick, D. (2025). arXiv preprint, [link](https://arxiv.org/abs/2502.09356).
+1. 🆕 Tseng, G., Fuller, A., Reil, M., Herzog, H., Beukema, P, Bastani, F., Green, J. R., Shelhamer, E., **Kerner, H.**, and Rolnick, D. (2025). Galileo: Learning Global and Local Features in Pretrained Remote Sensing Models. arXiv preprint, [link](https://arxiv.org/abs/2502.09356).
 
 1. Mohan, A., Gomez-Patron, A., Pritchard, M., **Kerner, H.** (2025). Hotspotter: A Generalizable Pipeline for Automated Detection of Subtle Volcanic Thermal Features in Satellite Images. To appear in *Proceedings of the AAAI Conference on Artificial Intelligence*, Innovative Applications of AI.
 
@@ -21,8 +25,6 @@ author_profile: true
 1. Rufin, P., et al. (**Kerner, H.** one of 16 authors) (2025). Accelerating research on SDG2 'Zero Hunger' by opening commercial very-high resolution satellite image archives. *Proceedings of the National Academy of Sciences, 122 (7)*, e2410246122, [link](https://www.pnas.org/doi/10.1073/pnas.2410246122).
 
 1. Peng, J., Li, J., Ingalls, T. C., Schill, S. R., **Kerner, H. R.**, and Asner, G. P. (2025). A novel deep learning algorithm for broad scale seagrass extent mapping in shallow coastal environments. *ISPRS Journal of Photogrammetry and Remote Sensing, 220*, 277-294, [link](https://doi.org/10.1016/j.isprsjprs.2024.12.008).
-
-1. Nair, R., Tseng, G., Rolf, E., Tokas, B., **Kerner, H.** (2024). Classification Drives Geographic Bias in Street Scene Segmentation. Arxiv preprint, [link](https://arxiv.org/abs/2412.11061).
 
 1. Tokas, B., Nair, R., **Kerner, H.** (2024). Making Bias Amplification in Balanced Datasets Directional and Interpretable. Arxiv preprint, [link](https://arxiv.org/abs/2412.11060).
 
