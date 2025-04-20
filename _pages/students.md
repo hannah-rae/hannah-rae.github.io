@@ -90,34 +90,3 @@ author_profile: true
 | Robert Huppertz | 2021 | Burned area mapping near refugee settlements | Orbio |
 
 <sub><sup>\* Latest year working with me</sup></sub>
-
-### Other thesis committee membership
-
-| Name | Year\* | University/Program |
-| --- | --- |
-| Sarah Peterson | 2028 | Arizona State University, Exploration Systems Design, PhD |
-| Hyunho Lee | 2028 | Arizona State University, Geographical Information Sciences, PhD |
-| Jianghai Peng | 2027 | Arizona State University, Geological Sciences, PhD  |
-| Madeline Schwarz | 2026 | Arizona State University, Geological Sciences, PhD |
-| Paul Horton | 2025 | Arizona State University, Exploration Systems Design, PhD |
-| Zifan Yu | 2025 | Arizona State University, Computer Science, PhD  |
-| Laurel Hopkins | 2024 | Oregon State University, Computer Science, PhD  |
-| Yiming Zhang | 2023 | University of Maryland, Geographical Sciences, PhD |
-| Saisumana Konatam | 2024 | Arizona State University, Computer Science, Undergraduate Honors Thesis  |
-| Matthew Watson | 2023 |Arizona State University, Computer Science, Masters  |
-| Ujjwala Anantheswaran | 2022 | Arizona State University, Computer Science, Masters  |
-
-
-<sub><sup>\* Expected graduation year</sup></sub>
-
-### Masters Capstone Students
-
-| Name | Year\* | Topic | Current Affiliation |
-| --- | --- |
-| David Adamkiewicz | Spring 2021 | Shedding Light on Opaque Statistics of the World’s Largest Agricultural Consumer (China) | NGA |
-| Ryan McWeeney | Spring 2021 | Inter-comparison of cropland detection accuracy in public land cover products | Maxar |
-| Amanda Lopez | Spring 2021 | Assessing impact of conflict on planted area change in Tigray Region, Ethiopia | USDA |
-| Adam Martin | Fall 2021 | Leveraging Machine Learning to Map Salient Classes in Jezero Crater, Mars | Leidos |
-| Afolarin Lawal | Spring 2020 | Mapping prevent plant acres due to US Midwest 2019 flooding | Cloud to Street |
-
-<sub><sup>\* Capstone semester and year</sup></sub>

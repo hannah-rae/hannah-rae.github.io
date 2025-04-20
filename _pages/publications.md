@@ -16,9 +16,9 @@ author_profile: true
 
 1. 🆕 Tseng, G., Fuller, A., Reil, M., Herzog, H., Beukema, P, Bastani, F., Green, J. R., Shelhamer, E., **Kerner, H.**, and Rolnick, D. (2025). Galileo: Learning Global and Local Features in Pretrained Remote Sensing Models. arXiv preprint, [link](https://arxiv.org/abs/2502.09356).
 
-1. Mohan, A., Gomez-Patron, A., Pritchard, M., **Kerner, H.** (2025). Hotspotter: A Generalizable Pipeline for Automated Detection of Subtle Volcanic Thermal Features in Satellite Images. To appear in *Proceedings of the AAAI Conference on Artificial Intelligence*, Innovative Applications of AI.
+1. Mohan, A., Gomez-Patron, A., Pritchard, M., **Kerner, H.** (2025). Hotspotter: A Generalizable Pipeline for Automated Detection of Subtle Volcanic Thermal Features in Satellite Images. *Proceedings of the AAAI Conference on Artificial Intelligence, 39(28)*, pp. 28857-28863, [link](https://doi.org/10.1609/aaai.v39i28.35151).
 
-1. Hopkins, L., Wong, W-K., **Kerner, H.**, Li, F., Hutchinson, R. (2025). Data Augmentation Approaches for Satellite Imagery. To appear in *Proceedings of the AAAI Conference on Artificial Intelligence*.
+1. Hopkins, L., Wong, W-K., **Kerner, H.**, Li, F., Hutchinson, R. (2025). Data Augmentation Approaches for Satellite Imagery. *Proceedings of the AAAI Conference on Artificial Intelligence, 39(27)*, pp. 28097-28105, [link](https://doi.org/10.1609/aaai.v39i27.35028).
 
 1. Purohit, M., Muhawenayo, G., Rolf, E., and **Kerner, H.** (2025). How Does the Spatial Distribution of Pre-training Data Affect Geospatial Foundation Models? *AAAI Workshop on Preparing Good Data for Generative AI: Challenges and Approaches*, [link](https://arxiv.org/pdf/2501.12535).
 
@@ -28,7 +28,7 @@ author_profile: true
 
 1. Tokas, B., Nair, R., **Kerner, H.** (2024). Making Bias Amplification in Balanced Datasets Directional and Interpretable. Arxiv preprint, [link](https://arxiv.org/abs/2412.11060).
 
-1. **Kerner, H.**, Chaudhari, S., Ghosh, A., Robinson, C., Ahmad, A., Choi, E., Jacobs, N., Holmes, C., Mohr, M., Dodhia, R., Lavista Ferres, J. M., Marcus, J. (2025). Fields of The World: A Machine Learning Benchmark Dataset For Global Agricultural Field Boundary Segmentation, to appear in *Proceedings of the AAAI Conference on Artificial Intelligence*, [link](https://fieldsofthe.world/paper.html).
+1. **Kerner, H.**, Chaudhari, S., Ghosh, A., Robinson, C., Ahmad, A., Choi, E., Jacobs, N., Holmes, C., Mohr, M., Dodhia, R., Lavista Ferres, J. M., Marcus, J. (2025). Fields of The World: A Machine Learning Benchmark Dataset For Global Agricultural Field Boundary Segmentation. *Proceedings of the AAAI Conference on Artificial Intelligence, 39(27)*, pp. 28151-28159, [link](https://fieldsofthe.world/paper.html).
 
 1. Nakalembe, C., **Kerner, H.**, Zvonkov, I., Humber, M., Galvez, A., Makabe, E., Venturini, S., Becker-Reshef, I. (2024). A Framework for EO-Based National Agricultural Monitoring (EO-NAM)- For the African Context. Preprint, [link](https://www.researchsquare.com/article/rs-4731424/v1).
 
