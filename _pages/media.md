@@ -6,6 +6,11 @@ author_profile: true
 
 
 ### Featured Articles, Podcasts, and Other Media
+- **Monitoring Crops from Space: How NASA Harvest Tracks Agriculture in Conflict Zones Like Tigray, Ethiopia.** [NASA Harvest Blog, 2025](https://www.nasaharvest.org/news/monitoring-crops-from-space-how-nasa-harvest-tracks-agriculture-in-conflict-zones-like-tigray-ethiopia).
+- **A career in orbit.** [ASU News, 2025](https://news.asu.edu/20250814-sun-devil-community-career-orbit).
+- **Finding the Fields of The World.** [ASU News, 2025](https://news.asu.edu/20250508-science-and-technology-finding-fields-world).
+- **Presto: A Smarter Way to Use Satellite Data to Help Farmers.** [NASA Harvest Blog, 2025](https://www.nasaharvest.org/news/presto-a-smarter-way-to-use-satellite-data-to-help-farmers).
+- **Harvesting satellite insights for Maui County farmers.** [ASU News, 2024](https://news.asu.edu/20241230-science-and-technology-harvesting-satellite-insights-maui-county-farmers).
 - **Innovation Bridge Community Spotlight: Dr. Hannah Kerner.** [Taylor Geospatial Engine Blog, 2024](https://tgengine.org/innovation-bridge-community-spotlight-dr-hannah-kerner/).
 - **Emerging machine learning expert leads Kenya AI workshop.** [ASU Full Circle, 2024](https://fullcircle.asu.edu/research/emerging-machine-learning-expert-leads-kenya-ai-workshop/).
 - **With help from AI, ASU researcher develops models to address climate change, other global issues.** [ASU News, 2024](https://news.asu.edu/20240201-environment-and-sustainability-help-ai-asu-researcher-develops-models-address-climate).

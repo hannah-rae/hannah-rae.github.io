@@ -8,13 +8,19 @@ author_profile: true
   You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
 {% endif %}
 
-1. 🆕 Tseng, G., **Kerner, H.**, and Rolnick, D. (2022). Task-Informed Meta-Learning for Remote Sensing. Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) Workshops*, EarthVision Workshop.
+1. 🆕 Hulkund, N., Maalouf, A., Cai, L., Yang, D., O'Neill, A., Haucke, T., Mukherjee, S., Ramaswamy, V. V., Shen, J. H., Tseng, G., Walmsley, M., Wang, T., H., **Kerner, H.**, Chen, I. Y., Girdhar, Y., Rus, D., Goldberg, K., Beery, S. (2025). DataS3: Dataset Subset Selection for Specialization. In *42nd International Conference on Machine Learning (ICML) Workshops*, DataWorld Workshop, [link](https://openreview.net/forum?id=8F82jNt2uA).
+
+1. 🆕 Tseng, G., Fuller, A., Reil, M., Herzog, H., Beukema, P, Bastani, F., Green, J. R., Shelhamer, E., **Kerner, H.**, and Rolnick, D. (2025). Galileo: Learning Global & Local Features of Many Remote Sensing Modalities. In *42nd International Conference on Machine Learning (ICML) Workshops*, Terrabytes Workshop, [link](https://openreview.net/forum?id=a2Qn7lTYWL).
+
+1. 🆕 Butsko, C., Tseng, G., Van Tricht, K., Milli, G., Rolnick, D., Cartuyvels, R., Becker Reshef, I., Szantoi, Z., **Kerner, H.** (2025). Deploying geospatial foundation models in the real world. To appear in *Proceedings of Machine Learning Research*, [link](https://arxiv.org/abs/2508.00858).
+
+1. 🆕 Tseng, G., **Kerner, H.**, and Rolnick, D. (2025). Task-Informed Meta-Learning for Remote Sensing. *Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) Workshops*, EarthVision Workshop, [link](https://openaccess.thecvf.com/content/CVPR2025W/EarthVision/html/Tseng_Task-Informed_Meta-Learning_for_Remote_Sensing_CVPRW_2025_paper.html).
 
 1. 🆕 Nair, R., Tseng, G., Rolf, E., Tokas, B., **Kerner, H.** (2025). Classification Drives Geographic Bias in Street Scene Segmentation. *Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) Workshops*, Workshop on Fair, Data-Efficient, and Trusted Computer Vision, [link](https://arxiv.org/abs/2412.11061).
 
 1. 🆕 Nair, R., Tokas, B., & Kerner, H. (2025). Measuring directional bias amplification in image captions using predictability. arXiv preprint, [link](https://arxiv.org/abs/2503.07878).
 
-1. 🆕 Tseng, G., Fuller, A., Reil, M., Herzog, H., Beukema, P, Bastani, F., Green, J. R., Shelhamer, E., **Kerner, H.**, and Rolnick, D. (2025). Galileo: Learning Global and Local Features in Pretrained Remote Sensing Models. arXiv preprint, [link](https://arxiv.org/abs/2502.09356).
+1. 🆕 Tseng, G., Fuller, A., Reil, M., Herzog, H., Beukema, P, Bastani, F., Green, J. R., Shelhamer, E., **Kerner, H.**, and Rolnick, D. (2025). Galileo: Learning Global and Local Features in Pretrained Remote Sensing Models. *Proceedings of the 42nd International Conference on Machine Learning*, [link](https://arxiv.org/abs/2502.09356).
 
 1. Mohan, A., Gomez-Patron, A., Pritchard, M., **Kerner, H.** (2025). Hotspotter: A Generalizable Pipeline for Automated Detection of Subtle Volcanic Thermal Features in Satellite Images. *Proceedings of the AAAI Conference on Artificial Intelligence, 39(28)*, pp. 28857-28863, [link](https://doi.org/10.1609/aaai.v39i28.35151).
 
@@ -30,7 +36,7 @@ author_profile: true
 
 1. **Kerner, H.**, Chaudhari, S., Ghosh, A., Robinson, C., Ahmad, A., Choi, E., Jacobs, N., Holmes, C., Mohr, M., Dodhia, R., Lavista Ferres, J. M., Marcus, J. (2025). Fields of The World: A Machine Learning Benchmark Dataset For Global Agricultural Field Boundary Segmentation. *Proceedings of the AAAI Conference on Artificial Intelligence, 39(27)*, pp. 28151-28159, [link](https://fieldsofthe.world/paper.html).
 
-1. Nakalembe, C., **Kerner, H.**, Zvonkov, I., Humber, M., Galvez, A., Makabe, E., Venturini, S., Becker-Reshef, I. (2024). A Framework for EO-Based National Agricultural Monitoring (EO-NAM)- For the African Context. Preprint, [link](https://www.researchsquare.com/article/rs-4731424/v1).
+1. Nakalembe, C., **Kerner, H.**, Zvonkov, I., Humber, M., Galvez, A., Makabe, E., Venturini, S., Becker-Reshef, I. (2025). A Framework for EO-Based National Agricultural Monitoring (EO-NAM)- For the African Context. *npj Sustainable Agriculture*, [link](https://www.nature.com/articles/s44264-025-00083-z).
 
 1. Nakalembe, C. L., Frimpong, D. B., **Kerner, H.**, Sarr, M. A. (2024). A 40-Year Remote Sensing Analysis of Spatiotemporal Temperature and Rainfall Patterns in Senegal. *Frontiers in Climate, 7*, [link](https://www.frontiersin.org/journals/climate/articles/10.3389/fclim.2025.1462626).
 
@@ -44,7 +50,7 @@ author_profile: true
 
 1. Rolf, E., Klemmer, K., Robinson, C., and **Kerner, H.** (2024). Mission Critical--Satellite Data is a Distinct Modality in Machine Learning. In *Proceedings of the International Conference on Machine Learning (ICML)*, [link](https://arxiv.org/abs/2402.01444). 🌟 Spotlight Poster (3.5% acceptance rate)
 
-1. Kebede, E. A., Abou Ali, H., Clavelle, T., Froehlich, H. E., Gephart, J. A., Hartman, S., Herrero, M., **Kerner, H.**, Mehta, P., Nakalembe, C., Ray, D. K., Siebert, S., Thornton, P., Davis, K. F. (2024). *Nature Reviews Earth & Environment*, p. 1-17, [link](https://www.nature.com/articles/s43017-024-00516-2).
+1. Kebede, E. A., Abou Ali, H., Clavelle, T., Froehlich, H. E., Gephart, J. A., Hartman, S., Herrero, M., **Kerner, H.**, Mehta, P., Nakalembe, C., Ray, D. K., Siebert, S., Thornton, P., Davis, K. F. (2024). Assessing and addressing the global state of food production data scarcity. *Nature Reviews Earth & Environment*, p. 1-17, [link](https://www.nature.com/articles/s43017-024-00516-2).
 
 1. **Kerner, H.**, Nakalembe, C., Yeh, B., Zvonkov, I., Skakun, S., Becker-Reshef, I., and McNally, A. (2024). Satellite Data Shows Resilience of Tigrayan Farmers in Crop Cultivation During Civil War. *Science of Remote Sensing*, 10, 100140, [link](https://www.sciencedirect.com/science/article/pii/S2666017224000245?via%3Dihub).
 

@@ -37,6 +37,9 @@ If you are interested in any position with the group (Postdoc, PhD, MS, Visitor,
 - Google Women Techmakers award (2018)
 
 ## News
+- July 2025: I received an [NSF CAREER award](https://news.asu.edu/20250814-sun-devil-community-career-orbit) (CISE/III)!
+- July 2025: Our paper, ["Deploying geospatial foundation models in the real world,"](https://arxiv.org/abs/2508.00858) was accepted for the Terrabytes workshop at ICML and will appear in the PMLR proceedings!
+- May 2025: ASU News published [an article](https://news.asu.edu/20250508-science-and-technology-finding-fields-world) about our work on Fields of The World!
 - April 2025: PhD student Gedeon Muhawenayo gave a talk in NASA Harvest's [LEAD Maryland](https://extension.umd.edu/programs/agriculture-food-systems/program-areas/integrated-programs/lead-maryland/) workshop on cutting-edge applications of remote sensing, satellite data, and artificial intelligence in agriculture!
 - April 2025: Our 2023 paper, "Automatic Characterization of Boulders on Planetary Surfaces From High‐Resolution Satellite Images", published in the *Journal of Geophysical Research: Planets* was ranked within the top 10% of most-viewed papers published by the journal in 2023!
 - March 2025: Our paper, "Classification Drives Geographic Bias in Street Scene Segmentation," was accepted to the Workshop on Fair, Data-Efficient, and Trusted Computer Vision at CVPR 2025!

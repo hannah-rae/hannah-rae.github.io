@@ -8,7 +8,7 @@ author_profile: true
 ## Selected Invited Talks
 
 ### Upcoming
-<!-- - February 2025: Third U.S.-Africa Frontiers Symposium (National Academies of Sciences, Engineering, and Medicine), Kigali -->
+- September 2025: NOAA AI Workshop, Boulder, Colorado
 
 ### Past
 - March 2025: Virtual AI Seminar Series, USDA US Meat Animal Research Center
