@@ -30,7 +30,8 @@ If you are interested in any position with the group (Postdoc, PhD, MS, Visitor,
 - Use [this form](https://forms.gle/utmewBr6eiDddo1cA) if you are **not at ASU**
 
 ## Recognition
--  Top 10 of 100 projects solving problems related to the UN SDGs with AI, International Research Centre on Artificial Intelligence (IRCAI), for NASA Harvest (2021)
+- NSF CAREER award (2025)
+- Top 10 of 100 projects solving problems related to the UN SDGs with AI, International Research Centre on Artificial Intelligence (IRCAI), for NASA Harvest (2021)
 - Forbes 30 Under 30 in Science (2021)
 - Outstanding Research Faculty department award (2021)
 - Radiant Earth Foundation's 15 Leading Women in ML4EO (2021)
