@@ -1,0 +1,336 @@
+---
+permalink: /publications-v2/
+title: "Publications"
+author_profile: true
+---
+
+See my <a href="https://scholar.google.com/citations?user=g5CD7dQAAAAJ&hl=en">Google Scholar profile</a> for a complete listing.
+
+<div style="margin-top:2em;">
+
+<div style="margin-top:1ex;">
+  📊 Hulkund N, Maalouf A, Cai L, Yang D, O'Neill A, Haucke T, Mukherjee S, Ramaswamy VV, Shen JH, Tseng G, Walmsley M, Wang TH, Kerner H, Chen IY, Girdhar Y, Rus D, Goldberg K, Beery S. 2025. DataS3: Dataset Subset Selection for Specialization. In: 42nd International Conference on Machine Learning (ICML) Workshops, DataWorld Workshop.<br/>
+  <a href="https://openreview.net/forum?id=8F82jNt2uA">paper</a> | <a href="/files/bibtex/hulkund2025datas3.bib">bibtex</a>
+</div>
+
+<div style="margin-top:1ex;">
+  🔭 Tseng G, Fuller A, Reil M, Herzog H, Beukema P, Bastani F, Green JR, Shelhamer E, Kerner H, Rolnick D. 2025. Galileo: Learning Global & Local Features of Many Remote Sensing Modalities. In: 42nd International Conference on Machine Learning (ICML) Workshops, Terrabytes Workshop.<br/>
+  <a href="https://openreview.net/forum?id=a2Qn7lTYWL">paper</a> | <a href="/files/bibtex/tseng2025galileo_terrabytes.bib">bibtex</a>
+</div>
+
+<div style="margin-top:1ex;">
+  🌍 Butsko C, Tseng G, Van Tricht K, Milli G, Rolnick D, Cartuyvels R, Becker Reshef I, Szantoi Z, Kerner H. 2025. Deploying geospatial foundation models in the real world. To appear in Proceedings of Machine Learning Research.<br/>
+  <a href="https://arxiv.org/abs/2508.00858">paper</a> | <a href="/files/bibtex/butsko2025deploying.bib">bibtex</a>
+</div>
+
+<div style="margin-top:1ex;">
+  🎯 Tseng G, Kerner H, Rolnick D. 2025. Task-Informed Meta-Learning for Remote Sensing. Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) Workshops, EarthVision Workshop.<br/>
+  <a href="https://openaccess.thecvf.com/content/CVPR2025W/EarthVision/html/Tseng_Task-Informed_Meta-Learning_for_Remote_Sensing_CVPRW_2025_paper.html">paper</a> | <a href="/files/bibtex/tseng2025timl.bib">bibtex</a>
+</div>
+
+<div style="margin-top:1ex;">
+  🚗 Nair R, Tseng G, Rolf E, Tokas B, Kerner H. 2025. Classification Drives Geographic Bias in Street Scene Segmentation. Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) Workshops, Workshop on Fair, Data-Efficient, and Trusted Computer Vision.<br/>
+  <a href="https://arxiv.org/abs/2412.11061">paper</a> | <a href="/files/bibtex/nair2025classification.bib">bibtex</a>
+</div>
+
+<div style="margin-top:1ex;">
+  📝 Nair R, Tokas B, Kerner H. 2025. Measuring directional bias amplification in image captions using predictability. arXiv preprint.<br/>
+  <a href="https://arxiv.org/abs/2503.07878">paper</a> | <a href="/files/bibtex/nair2025measuring.bib">bibtex</a>
+</div>
+
+<div style="margin-top:1ex;">
+  🔭 Tseng G, Fuller A, Reil M, Herzog H, Beukema P, Bastani F, Green JR, Shelhamer E, Kerner H, Rolnick D. 2025. Galileo: Learning Global and Local Features in Pretrained Remote Sensing Models. Proceedings of the 42nd International Conference on Machine Learning.<br/>
+  <a href="https://arxiv.org/abs/2502.09356">paper</a> | <a href="/files/bibtex/tseng2025galileo.bib">bibtex</a>
+</div>
+
+<div style="margin-top:1ex;">
+  🌋 Mohan A, Gomez-Patron A, Pritchard M, Kerner H. 2025. Hotspotter: A Generalizable Pipeline for Automated Detection of Subtle Volcanic Thermal Features in Satellite Images. Proceedings of the AAAI Conference on Artificial Intelligence, 39(28), pp. 28857-28863.<br/>
+  <a href="https://doi.org/10.1609/aaai.v39i28.35151">paper</a> | <a href="/files/bibtex/mohan2025hotspotter.bib">bibtex</a>
+</div>
+
+<div style="margin-top:1ex;">
+  📈 Hopkins L, Wong W-K, Kerner H, Li F, Hutchinson R. 2025. Data Augmentation Approaches for Satellite Imagery. Proceedings of the AAAI Conference on Artificial Intelligence, 39(27), pp. 28097-28105.<br/>
+  <a href="https://doi.org/10.1609/aaai.v39i27.35028">paper</a> | <a href="/files/bibtex/hopkins2025data.bib">bibtex</a>
+</div>
+
+<div style="margin-top:1ex;">
+  🗺️ Purohit M, Muhawenayo G, Rolf E, Kerner H. 2025. How Does the Spatial Distribution of Pre-training Data Affect Geospatial Foundation Models? AAAI Workshop on Preparing Good Data for Generative AI: Challenges and Approaches.<br/>
+  <a href="https://arxiv.org/pdf/2501.12535">paper</a> | <a href="/files/bibtex/purohit2025spatial.bib">bibtex</a>
+</div>
+
+<div style="margin-top:1ex;">
+  🌾 Rufin P, et al. (Kerner H one of 16 authors). 2025. Accelerating research on SDG2 'Zero Hunger' by opening commercial very-high resolution satellite image archives. Proceedings of the National Academy of Sciences, 122 (7), e2410246122.<br/>
+  <a href="https://www.pnas.org/doi/10.1073/pnas.2410246122">paper</a> | <a href="/files/bibtex/rufin2025accelerating.bib">bibtex</a>
+</div>
+
+<div style="margin-top:1ex;">
+  🌿 Peng J, Li J, Ingalls TC, Schill SR, Kerner HR, Asner GP. 2025. A novel deep learning algorithm for broad scale seagrass extent mapping in shallow coastal environments. ISPRS Journal of Photogrammetry and Remote Sensing, 220, 277-294.<br/>
+  <a href="https://doi.org/10.1016/j.isprsjprs.2024.12.008">paper</a> | <a href="/files/bibtex/peng2025novel.bib">bibtex</a>
+</div>
+
+<div style="margin-top:1ex;">
+  ⚖️ Tokas B, Nair R, Kerner H. 2024. Making Bias Amplification in Balanced Datasets Directional and Interpretable. arXiv preprint.<br/>
+  <a href="https://arxiv.org/abs/2412.11060">paper</a> | <a href="/files/bibtex/tokas2024making.bib">bibtex</a>
+</div>
+
+<div style="margin-top:1ex;">
+  🌾 Kerner H, Chaudhari S, Ghosh A, Robinson C, Ahmad A, Choi E, Jacobs N, Holmes C, Mohr M, Dodhia R, Lavista Ferres JM, Marcus J. 2025. Fields of The World: A Machine Learning Benchmark Dataset For Global Agricultural Field Boundary Segmentation. Proceedings of the AAAI Conference on Artificial Intelligence, 39(27), pp. 28151-28159.<br/>
+  <a href="https://fieldsofthe.world/paper.html">paper</a> | <a href="/files/bibtex/kerner2025fields.bib">bibtex</a> | <a href="https://fieldsofthe.world/">website</a>
+</div>
+
+<div style="margin-top:1ex;">
+  🛰️ Nakalembe C, Kerner H, Zvonkov I, Humber M, Galvez A, Makabe E, Venturini S, Becker-Reshef I. 2025. A Framework for EO-Based National Agricultural Monitoring (EO-NAM)- For the African Context. npj Sustainable Agriculture.<br/>
+  <a href="https://www.nature.com/articles/s44264-025-00083-z">paper</a> | <a href="/files/bibtex/nakalembe2025framework.bib">bibtex</a>
+</div>
+
+<div style="margin-top:1ex;">
+  ☔ Nakalembe CL, Frimpong DB, Kerner H, Sarr MA. 2024. A 40-Year Remote Sensing Analysis of Spatiotemporal Temperature and Rainfall Patterns in Senegal. Frontiers in Climate, 7.<br/>
+  <a href="https://www.frontiersin.org/journals/climate/articles/10.3389/fclim.2025.1462626">paper</a> | <a href="/files/bibtex/nakalembe2024senegal.bib">bibtex</a>
+</div>
+
+<div style="margin-top:1ex;">
+  🔄 Cui C, Yan Z, Muhawenayo G, Kerner H. 2024. An All-MLP Sequence Modeling Architecture That Excels at Copying. International Conference on Machine Learning (ICML) Workshops, Next Generation of Sequence Modeling Architectures Workshop.<br/>
+  <a href="https://arxiv.org/abs/2406.16168v1">paper</a> | <a href="/files/bibtex/cui2024allmlp.bib">bibtex</a>
+</div>
+
+<div style="margin-top:1ex;">
+  🌊 Gray PC, Boss E, Prochaska JX, Kerner H, Demeaux CB, Lehahn Y. 2024. The Promise and Pitfalls of Machine Learning in Ocean Remote Sensing. Oceanography, 37(3), pp. 52-63.<br/>
+  <a href="https://tos.org/oceanography/article/the-promise-and-pitfalls-of-machine-learning-in-ocean-remote-sensing">paper</a> | <a href="/files/bibtex/gray2024promise.bib">bibtex</a>
+</div>
+
+<div style="margin-top:1ex;">
+  💬 Dhakal A, Ahmad A, Khanal S, Sastry S, Kerner H, Jacobs N. 2024. Sat2Cap: Mapping Fine-Grained Textual Descriptions from Satellite Images. Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition (CVPR) Workshops, EarthVision 2024.<br/>
+  <a href="https://openaccess.thecvf.com/content/CVPR2024W/EarthVision/papers/Dhakal_Sat2Cap_Mapping_Fine-Grained_Textual_Descriptions_from_Satellite_Images_CVPRW_2024_paper.pdf">paper</a> | <a href="/files/bibtex/dhakal2024sat2cap.bib">bibtex</a> 🏅 <em>Best Paper Award</em>
+</div>
+
+<div style="margin-top:1ex;">
+  💡 Rolnick D, Aspuru-Guzik A, Beery S, Dilkina B, Donti PL, Ghassemi M, Kerner H, Monteleoni C, Rolf E, Tambe M, White A. 2024. Application-Driven Innovation in Machine Learning. In: Proceedings of the International Conference on Machine Learning (ICML).<br/>
+  <a href="https://arxiv.org/abs/2403.17381">paper</a> | <a href="/files/bibtex/rolnick2024application.bib">bibtex</a>
+</div>
+
+<div style="margin-top:1ex;">
+  🛰️ Rolf E, Klemmer K, Robinson C, Kerner H. 2024. Mission Critical--Satellite Data is a Distinct Modality in Machine Learning. In: Proceedings of the International Conference on Machine Learning (ICML).<br/>
+  <a href="https://arxiv.org/abs/2402.01444">paper</a> | <a href="/files/bibtex/rolf2024mission.bib">bibtex</a> 🌟 <em>Spotlight Poster (3.5% acceptance rate)</em>
+</div>
+
+<div style="margin-top:1ex;">
+  🍽️ Kebede EA, Abou Ali H, Clavelle T, Froehlich HE, Gephart JA, Hartman S, Herrero M, Kerner H, Mehta P, Nakalembe C, Ray DK, Siebert S, Thornton P, Davis KF. 2024. Assessing and addressing the global state of food production data scarcity. Nature Reviews Earth & Environment, p. 1-17.<br/>
+  <a href="https://www.nature.com/articles/s43017-024-00516-2">paper</a> | <a href="/files/bibtex/kebede2024assessing.bib">bibtex</a>
+</div>
+
+<div style="margin-top:1ex;">
+  💪 Kerner H, Nakalembe C, Yeh B, Zvonkov I, Skakun S, Becker-Reshef I, McNally A. 2024. Satellite Data Shows Resilience of Tigrayan Farmers in Crop Cultivation During Civil War. Science of Remote Sensing, 10, 100140.<br/>
+  <a href="https://www.sciencedirect.com/science/article/pii/S2666017224000245?via%3Dihub">paper</a> | <a href="/files/bibtex/kerner2024satellite.bib">bibtex</a>
+</div>
+
+<div style="margin-top:1ex;">
+  🗺️ Kerner H, Nakalembe C, Yang A, Zvonkov I, McWeeny R, Tseng G, Becker-Reshef I. 2024. How accurate are existing land cover maps for agriculture in Sub-Saharan Africa? Nature Scientific Data, 11(486).<br/>
+  <a href="https://www.nature.com/articles/s41597-024-03306-z">paper</a> | <a href="/files/bibtex/kerner2024accurate.bib">bibtex</a>
+</div>
+
+<div style="margin-top:1ex;">
+  🪨 Prieur NC, Amaro B, Gonzalez E, Kerner H, Medvedev S, Rubanenko L, Werner S, Xiao Z, Zastrozhnov D, Lapôtre MG. 2023. Automatic Characterization of Boulders on Planetary Surfaces From High‐Resolution Satellite Images. Journal of Geophysical Research: Planets, 128(11), e2023JE008013.<br/>
+  <a href="https://doi.org/10.1029/2023JE008013">paper</a> | <a href="/files/bibtex/prieur2023automatic.bib">bibtex</a>
+</div>
+
+<div style="margin-top:1ex;">
+  ⚡ Tseng G, Zvonkov I, Purohit M, Rolnick D, Kerner H. 2023. Lightweight, Pre-trained Transformers for Remote Sensing Timeseries. Neural Information Processing Systems (NeurIPS), Climate Change AI Workshop.<br/>
+  <a href="https://www.climatechange.ai/papers/neurips2023/58">paper</a> | <a href="/files/bibtex/tseng2023lightweight_neurips.bib">bibtex</a>
+</div>
+
+<div style="margin-top:1ex;">
+  🔴 Purohit M, Adler J, Kerner H. 2023. ConeQuest: A Benchmark for Cone Detection on Mars. Proceedings of the IEEE/CVF Winter Conference on Applications of Computer Vision (WACV), pp. 6026-6035.<br/>
+  <a href="https://openaccess.thecvf.com/content/WACV2024/html/Purohit_ConeQuest_A_Benchmark_for_Cone_Segmentation_on_Mars_WACV_2024_paper.html">paper</a> | <a href="/files/bibtex/purohit2023conequest.bib">bibtex</a> 🎤 <em>Oral Presentation (2.5% acceptance rate)</em>
+</div>
+
+<div style="margin-top:1ex;">
+  🌑 Malvi S, Shah H, Chandarana N, Purohit M, Adler J, Kerner H. 2023. Automated Multi-class Crater Segmentation in Mars Orbital Images. Proceedings of the 31st ACM SIGSPATIAL International Conference on Advances in Geographic Information Systems (ACM SIGSPATIAL 2023), GeoAI Workshop, pp. 110-120.<br/>
+  <a href="https://dl.acm.org/doi/abs/10.1145/3615886.3627748">paper</a> | <a href="/files/bibtex/malvi2023automated.bib">bibtex</a>
+</div>
+
+<div style="margin-top:1ex;">
+  ⚡ Tseng G, Zvonkov I, Purohit M, Rolnick D, Kerner H. 2023. Lightweight, Pre-trained Transformers for Remote Sensing Timeseries. arXiv preprint.<br/>
+  <a href="https://arxiv.org/abs/2304.14065">paper</a> | <a href="/files/bibtex/tseng2023lightweight_arxiv.bib">bibtex</a>
+</div>
+
+<div style="margin-top:1ex;">
+  🌍 Lacoste A, Lehmann N, Rodriguez P, Sherwin ED, Kerner H, Lütjens B, Irvin JA, Dao D, Alemohammad H, Drouin A, Gunturkun M, Huang G, Vazquez D, Newman D, Bengio Y, Ermon S, Zhu X. 2023. GEO-Bench: Toward Foundation Models for Earth Monitoring. In: Proceedings of the Neural Information Processing Systems (NeurIPS) Datasets and Benchmarks Track.<br/>
+  <a href="https://arxiv.org/abs/2306.03831">paper</a> | <a href="/files/bibtex/lacoste2023geobench.bib">bibtex</a>
+</div>
+
+<div style="margin-top:1ex;">
+  🌍 Nakalembe C, Kerner H. 2023. Considerations for AI-EO for agriculture in Sub-Saharan Africa. Environmental Research Letters, 18(4).<br/>
+  <a href="https://iopscience.iop.org/article/10.1088/1748-9326/acc476">paper</a> | <a href="/files/bibtex/nakalembe2023considerations.bib">bibtex</a>
+</div>
+
+<div style="margin-top:1ex;">
+  🗺️ Zvonkov I, Tseng G, Nakalembe C, Kerner H. 2023. OpenMapFlow: A Library for Rapid Map Creation with Machine Learning and Remote Sensing Data. In: Proceedings of the AAAI Conference on Artificial Intelligence, 37(12), 14655-14663.<br/>
+  <a href="https://doi.org/10.1609/aaai.v37i12.26713">paper</a> | <a href="/files/bibtex/zvonkov2023openmapflow.bib">bibtex</a>
+</div>
+
+<div style="margin-top:1ex;">
+  🌾 Kerner H, Sundar S, Satish M. 2023. Multi-Region Transfer Learning for Segmentation of Crop Field Boundaries in Satellite Images with Limited Labels. In: Proceedings of the AAAI Conference on Artificial Intelligence Workshops.<br/>
+  <a href="https://arxiv.org/abs/2404.00179">paper</a> | <a href="/files/bibtex/kerner2023multiregion.bib">bibtex</a>
+</div>
+
+<div style="margin-top:1ex;">
+  ⛰️ Handwerger AL, Huang MH, Jones SY, Amatya P, Kerner HR, Kirschbaum DB. 2022. Generating landslide density heatmaps for rapid detection using open-access satellite radar data in Google Earth Engine. Natural Hazards and Earth System Sciences, 22(3), 753-773.<br/>
+  <a href="https://nhess.copernicus.org/articles/22/753/2022/nhess-22-753-2022.html">paper</a> | <a href="/files/bibtex/handwerger2022generating.bib">bibtex</a>
+</div>
+
+<div style="margin-top:1ex;">
+  📍 Manimurugan S, Singaram R, Nakalembe C, Kerner H. 2022. Geo-referencing crop labels from street-level images using Structure from Motion. In: Proceedings of the 73rd International Astronautical Congress (IAC).<br/>
+  <a href="https://www.researchgate.net/publication/365360146_Geo-referencing_crop_labels_from_street-level_images_using_Structure_from_Motion">paper</a> | <a href="/files/bibtex/manimurugan2022georeferencing.bib">bibtex</a>
+</div>
+
+<div style="margin-top:1ex;">
+  🔬 Rice MS, Seeger C, Bell J, Calef F, St Clair M, Eng A, Fraeman AA, Hughes C, Horgan B, Jacob S, Johnson J, Kerner H, Kinch K, Lemmon M, Million C, Starr M, Wellington D. 2022. Spectral diversity of rocks and soils in Mastcam observations along the Curiosity rover's traverse in Gale crater, Mars. Journal of Geophysical Research: Planets, e2021JE007134.<br/>
+  <a href="https://doi.org/10.1029/2021JE007134">paper</a> | <a href="/files/bibtex/rice2022spectral.bib">bibtex</a>
+</div>
+
+<div style="margin-top:1ex;">
+  🔍 Kerner HR, Adler JB. 2022. Guiding Field Exploration on Earth and Mars with Outlier Detection. Proceedings of the International Geoscience and Remote Sensing Symposium (IGARSS 2022), pp. 5333-5336.<br/>
+  <a href="https://ieeexplore.ieee.org/document/9884366">paper</a> | <a href="/files/bibtex/kerner2022guiding.bib">bibtex</a>
+</div>
+
+<div style="margin-top:1ex;">
+  🌖 Manheim MR, Henriksen MR, Robinson MS, Kerner HR, Karas BA, Becker KJ, Chojnacki M, Sutton SS, Blewett DT. 2022. High-Resolution Regional Digital Elevation Models and Derived Products from MESSENGER MDIS Images. Remote Sensing, 14, 3564.<br/>
+  <a href="https://doi.org/10.3390/rs14153564">paper</a> | <a href="/files/bibtex/manheim2022highresolution.bib">bibtex</a>
+</div>
+
+<div style="margin-top:1ex;">
+  🌽 Kerner HR, Sahajpal R, Pai DB, Skakun S, Puricelli E, Hosseini M, Meyer S, Becker-Reshef I. 2022. Phenological normalization can improve in-season classification of maize and soybean: A case study in the central US Corn Belt. Science of Remote Sensing, 6, 100059.<br/>
+  <a href="https://doi.org/10.1016/j.srs.2022.100059">paper</a> | <a href="/files/bibtex/kerner2022phenological.bib">bibtex</a>
+</div>
+
+<div style="margin-top:1ex;">
+  📊 Kerner HR, Rebbapragada U, Wagstaff KL, Lu S, Dubayah B, Huff E, Raman V, Kulshrestha S. 2022. Domain-Agnostic Outlier Ranking Algorithms---A Configurable Pipeline for Facilitating Outlier Detection in Scientific Datasets. Frontiers in Astronomy and Space Sciences, 9, 867947.<br/>
+  <a href="https://doi.org/10.3389/fspas.2022.867947">paper</a> | <a href="/files/bibtex/kerner2022domain.bib">bibtex</a>
+</div>
+
+<div style="margin-top:1ex;">
+  🌍 Nakalembe CL, Kerner HR. 2022. Applications and Considerations for AI-EO for Agriculture in Sub-Saharan Africa. Association for the Advancement of Artificial Intelligence (AAAI) Workshops, International Workshop on Social Impact of AI for Africa.<br/>
+  <a href="/files/bibtex/nakalembe2022applications.bib">bibtex</a>
+</div>
+
+<div style="margin-top:1ex;">
+  🗺️ Tseng G, Kerner H, Rolnick D. 2022. TIML: Task-Informed Meta-Learning for crop type mapping. Association for the Advancement of Artificial Intelligence (AAAI) Workshops, AI for Agriculture and Food Systems (AIAFS).<br/>
+  <a href="/files/bibtex/tseng2022timl.bib">bibtex</a>
+</div>
+
+<div style="margin-top:1ex;">
+  ⛰️ Handwerger AL, Jones SY, Amatya P, Kerner HR, Kirschbaum DB, Huang MH. 2021. Strategies for landslide detection using open-access synthetic aperture radar backscatter change in Google Earth Engine. Natural Hazards and Earth System Sciences Discussions, 22, pp. 753-773.<br/>
+  <a href="https://doi.org/10.5194/nhess-22-753-2022">paper</a> | <a href="/files/bibtex/handwerger2021strategies.bib">bibtex</a>
+</div>
+
+<div style="margin-top:1ex;">
+  🌾 Tseng G, Zvonkov I, Nakalembe C, Kerner H. 2021. CropHarvest: a global satellite dataset for crop type classification. Neural Information Processing Systems (NeurIPS) Datasets and Benchmarks.<br/>
+  <a href="https://datasets-benchmarks-proceedings.neurips.cc/paper/2021/file/54229abfcfa5649e7003b83dd4755294-Paper-round2.pdf">paper</a> | <a href="/files/bibtex/tseng2021cropharvest.bib">bibtex</a>
+</div>
+
+<div style="margin-top:1ex;">
+  🌍 Lacoste A, Sherwin E, Kerner H, Alemohammad H, Lutjens B, Irvin J, Dao D, Chang A, Gunturkun M, Drouin A, Rodriguez P, Vazquez D. 2021. Toward Foundation Models for Earth Monitoring: Proposal for a Climate Change Benchmark. Proceedings of the Neural Information Processing Systems (NeurIPS) Workshops, Tackling Climate Change with AI.<br/>
+  <a href="https://www.climatechange.ai/papers/neurips2021/73/paper.pdf">paper</a> | <a href="/files/bibtex/lacoste2021toward.bib">bibtex</a>
+</div>
+
+<div style="margin-top:1ex;">
+  🌊 Shirzaei M, Khoshmanesh M, Ojha C, Werth S, Kerner H, Carlson G, Sherpa SF, Zhai G, Lee J. 2021. Persistent impact of spring floods on crop loss in U.S. Midwest. Weather and Climate Extremes, 34, 100392.<br/>
+  <a href="https://doi.org/10.1016/j.wace.2021.100392">paper</a> | <a href="/files/bibtex/shirzaei2021persistent.bib">bibtex</a>
+</div>
+
+<div style="margin-top:1ex;">
+  �� Huppertz R, Nakalembe C, Kerner H. 2021. Using transfer learning to study burned area dynamics: A case study of Refugee settlements in West Nile, Northern Uganda. Proceedings of the ACM/SIGKIDD Conference on Knowledge Discover and Data Mining (KDD) Workshops, Humanitarian Mapping.<br/>
+  <a href="https://arxiv.org/abs/2107.14372">paper</a> | <a href="/files/bibtex/huppertz2021using.bib">bibtex</a> 🎤 <em>Oral Presentation</em>
+</div>
+
+<div style="margin-top:1ex;">
+  🚶 Paliyam M, Nakalembe C, Kerner H. 2021. Street2Sat: A Machine Learning Pipeline for Generating Ground-truth Geo-referenced Labeled Datasets from Street-Level Images. Proceedings of the International Conference on Machine Learning (ICML) Workshops, Tackling Climate Change with AI.<br/>
+  <a href="https://www.climatechange.ai/papers/icml2021/74.html">paper</a> | <a href="/files/bibtex/paliyam2021street2sat.bib">bibtex</a>
+</div>
+
+<div style="margin-top:1ex;">
+  ⏰ Gray PC, Chamorro DF, Ridge JT, Kerner HR, Ury EA, Johnston DW. 2021. Temporally Generalizable Land Cover Classification: A Recurrent Convolutional Neural Network Unveils Major Coastal Change through Time. Remote Sensing, 13(19), 3953.<br/>
+  <a href="https://doi.org/10.3390/rs13193953">paper</a> | <a href="/files/bibtex/gray2021temporally.bib">bibtex</a>
+</div>
+
+<div style="margin-top:1ex;">
+  🌾 Tseng G, Kerner H, Nakalembe C, Becker-Reshef I. 2021. Learning to predict crop type from heterogeneous sparse labels using meta-learning. Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition (CVPR) Workshops, EarthVision 2021.<br/>
+  <a href="https://openaccess.thecvf.com/content/CVPR2021W/EarthVision/papers/Tseng_Learning_To_Predict_Crop_Type_From_Heterogeneous_Sparse_Labels_Using_CVPRW_2021_paper.pdf">paper</a> | <a href="/files/bibtex/tseng2021learning.bib">bibtex</a>
+</div>
+
+<div style="margin-top:1ex;">
+  📷 Horton P, Kerner H, Jacobs S, Cisneros E, Wagstaff KL, Bell III JF. 2021. Integrating Novelty Detection Capabilities with MSL Mastcam Operations to Enhance Data Analysis. IEEE Aerospace Conference, Big Sky, Montana, March 6-13.<br/>
+  <a href="https://arxiv.org/abs/2103.12815">paper</a> | <a href="/files/bibtex/horton2021integrating.bib">bibtex</a>
+</div>
+
+<div style="margin-top:1ex;">
+  🗺️ Lawal A, Kerner H, Becker-Reshef I, Meyer S. 2021. Mapping the Location and Extent of 2019 Prevent Planting Acres in South Dakota Using Remote Sensing Techniques. Remote Sensing, 13(13), 2430.<br/>
+  <a href="https://www.mdpi.com/2072-4292/13/13/2430">paper</a> | <a href="/files/bibtex/lawal2021mapping.bib">bibtex</a>
+</div>
+
+<div style="margin-top:1ex;">
+  🌾 Tseng G, Kerner H, Nakalembe C, Becker-Reshef I. 2020. Annual and in-season mapping of cropland at field scale with sparse labels. Proceedings of the Neural Information Processing Systems (NeurIPS) Workshops, Tackling Climate Change with AI.<br/>
+  <a href="https://www.climatechange.ai/papers/neurips2020/29/paper.pdf">paper</a> | <a href="/files/bibtex/tseng2020annual.bib">bibtex</a>
+</div>
+
+<div style="margin-top:1ex;">
+  🪐 Azari AR, Biersteker JB, Dewey RM, Doran G, Forsberg E, Harris CDK, Kerner HR, Skinner KA, Smith AW. 2020. Integrating Machine Learning for Planetary Science: Perspectives for the Next Decade. White Paper to the NRC Planetary Science and Astrobiology Decadal Survey 2023-2032.<br/>
+  <a href="https://arxiv.org/pdf/2007.15129.pdf">paper</a> | <a href="/files/bibtex/azari2020integrating.bib">bibtex</a>
+</div>
+
+<div style="margin-top:1ex;">
+  🤖 Wagstaff KL, Francis R, Kerner H, Lu S, Nerrise F. 2020. Novelty-Driven Onboard Targeting for Mars Rovers. International Symposium on Artificial Intelligence, Robotics and Automation in Space (i-SAIRAS).<br/>
+  <a href="https://www.hou.usra.edu/meetings/isairas2020fullpapers/pdf/5056.pdf">paper</a> | <a href="/files/bibtex/wagstaff2020novelty.bib">bibtex</a>
+</div>
+
+<div style="margin-top:1ex;">
+  🌪️ Hosseini M, Kerner H, Sahajpal R, Puricelli E, Lu Y-H, Lawal A, Humber ML, Mitkish M, Meyer S, Becker-Reshef I. 2020. Evaluating the Impact of the 2020 Iowa Derecho on Corn and Soybean Fields Using Synthetic Aperture Radar. Remote Sensing, 12(23), 3878.<br/>
+  <a href="https://www.mdpi.com/2072-4292/12/23/3878">paper</a> | <a href="/files/bibtex/hosseini2020evaluating.bib">bibtex</a>
+</div>
+
+<div style="margin-top:1ex;">
+  🌾 Kerner HR, Sahajpal R, Skakun S, Becker-Reshef I, Barker B, Hosseini M. 2020. Resilient In-Season Crop Type Classification in Multispectral Satellite Observations using Growth Stage Normalization. Proceedings of the ACM SIGKDD Conference on Knowledge Discovery and Data Mining Workshops.<br/>
+  <a href="https://arxiv.org/abs/2009.10189">paper</a> | <a href="/files/bibtex/kerner2020resilient.bib">bibtex</a>
+</div>
+
+<div style="margin-top:1ex;">
+  ⚡ Kerner HR, Tseng G, Becker-Reshef I, Barker B, Munshell B, Paliyam M, Hosseini M. 2020. Rapid Response Crop Maps in Data Sparse Regions. Proceedings of the ACM SIGKDD Conference on Knowledge Discovery and Data Mining Workshops.<br/>
+  <a href="https://arxiv.org/abs/2006.16866">paper</a> | <a href="/files/bibtex/kerner2020rapid.bib">bibtex</a>
+</div>
+
+<div style="margin-top:1ex;">
+  🔍 Kerner HR, Wagstaff KL, Bue BD, Wellington DF, Jacob S, Horton P, Bell JF, Kwan C, Ben Amor H. 2020. Comparison of Novelty Detection Methods for Multispectral Images in Rover-Based Planetary Exploration Missions. Data Mining and Knowledge Discovery, 34, pp. 1642–1675.<br/>
+  <a href="https://doi.org/10.1007/s10618-020-00697-6">paper</a> | <a href="/files/bibtex/kerner2020comparison.bib">bibtex</a>
+</div>
+
+<div style="margin-top:1ex;">
+  🌾 Kerner HR, Nakalembe C, Becker-Reshef I. 2020. Field-Level Crop Type Classification with k-Nearest Neighbors: A Baseline for a New Kenya Smallholder Dataset. Proceedings of the International Conference on Learning Representations (ICLR) Workshops.<br/>
+  <a href="https://arxiv.org/abs/2004.03023">paper</a> | <a href="/files/bibtex/kerner2020field.bib">bibtex</a>
+</div>
+
+<div style="margin-top:1ex;">
+  ☢️ Kerner HR, Hardgrove C, Czarnecki S, Gabriel TSJ, Mitrofanov I, Litvak M, Sanin A, Lisov D. 2020. Analysis of Active Neutron Measurements from the Mars Science Laboratory Dynamic Albedo of Neutrons Instrument: Intrinsic Variability, Outliers, and Implications for Future Investigations. Journal of Geophysical Research: Planets, 125(5), e2019JE006264.<br/>
+  <a href="https://doi.org/10.1029/2019JE006264">paper</a> | <a href="/files/bibtex/kerner2020analysis.bib">bibtex</a>
+</div>
+
+<div style="margin-top:1ex;">
+  🔄 Kerner HR, Wagstaff KL, Bue BD, Gray P, Bell III JF, Ben Amor H. 2019. Deep Learning Methods Toward Generalized Change Detection on Planetary Surfaces. Journal of Selected Topics in Applied Earth Observations and Remote Sensing, 12(10), pp. 3900-3918.<br/>
+  <a href="https://doi.org/10.1109/JSTARS.2019.2936771">paper</a> | <a href="/files/bibtex/kerner2019deep.bib">bibtex</a>
+</div>
+
+<div style="margin-top:1ex;">
+  🔍 Kerner HR, Wellington DF, Wagstaff KL, Bell III JF, Kwan C, Ben Amor H. 2019. Novelty Detection for Multispectral Images with Application to Planetary Exploration. Proceedings of the AAAI Conference on Artificial Intelligence, pp. 9484-9491.<br/>
+  <a href="https://doi.org/10.1609/aaai.v33i01.33019484">paper</a> | <a href="/files/bibtex/kerner2019novelty.bib">bibtex</a> 🎤 <em>Oral Presentation</em>
+</div>
+
+<div style="margin-top:1ex;">
+  📸 Kerner HR, Ben Amor H, Bell III JF. 2018. Context-Dependent Image Quality Assessment of JPEG-Compressed Mars Science Laboratory Mastcam Images using Convolutional Neural Networks. Computers and Geosciences, 118, pp. 109-121.<br/>
+  <a href="https://doi.org/10.1016/j.cageo.2018.06.001">paper</a> | <a href="/files/bibtex/kerner2018context.bib">bibtex</a>
+</div>
+
+<div style="margin-top:1ex;">
+  🖼️ Kwan C, Chou B, Kwan L, Larkin J, Ayhan B, Bell III JF, Kerner HR. 2017. Demosaicing Enhancement using Pixel-Level Fusion. Signal, Image and Video Processing, 12(4), pp. 749-756.<br/>
+  <a href="https://doi.org/10.1007/s11760-017-1216-2">paper</a> | <a href="/files/bibtex/kwan2017demosaicing.bib">bibtex</a>
+</div>
+
+</div>

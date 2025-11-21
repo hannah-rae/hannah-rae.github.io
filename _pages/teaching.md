@@ -42,8 +42,6 @@ For students to thrive and be successful, it is important for them to understand
 - Sep 2021: Crop Yield Modeling Workshop, Regional Center for Mapping of Resources for Development (RCMRD) (NASA Harvest and NASA SERVIR, PI: Nakalembe) [[article]](https://nasaharvest.org/news/nasa-harvest-leads-crop-yield-modeling-workshop)
 - Aug-Dec 2021, 2022: Course on remote sensing and ML technologies for agriculture, part of Educational program to strengthen agricultural and agroindustrial educational establishments of the Province of Buenos Aires, on agricultural estimates and new applied technologies (NASA Harvest and Bolsa de Cereales) [[article]](https://nasaharvest.org/project/agricultural-estimates-and-agroindustrial-educational-establishments)
 
-<img style="float: right; padding: 10px 10px 10px 10px;" src="http://hannah-rae.github.io/images/girls_who_code.jpeg" width=300>
-
 ### Outreach
 - 2020-: From Prison Cells to Ph.D. (mentor)
 - 2019-2022: Brooke Owens Fellowship (reviewer/mentor)
