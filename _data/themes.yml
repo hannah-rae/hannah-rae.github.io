@@ -1,0 +1,29 @@
+# Research themes shown on the home page.
+# Each project link can be an anchor (#galileo) on the same page, an
+# external project URL, or a path under the site (e.g. /publications/).
+- title: "Machine learning for remote sensing"
+  description: "Satellite data is a distinct modality with unique spatial, temporal, and spectral structure. We design algorithms, models, datasets, and tools tailored to the unique nature of satellite data."
+  projects:
+    - { name: "Fields of The World", url: "https://fieldsofthe.world/" }
+    - { name: "Pretrain Where?", url: "https://arxiv.org/abs/2604.21104" }
+    - { name: "Galileo",             url: "https://arxiv.org/abs/2502.09356" }
+    - { name: "OlmoEarth",           url: "https://arxiv.org/abs/2511.13655" }
+    - { name: "MOMO",                url: "https://github.com/kerner-lab/MOMO" }
+    - { name: "Mars-Bench",          url: "https://mars-bench.github.io/" }
+    - { name: "Presto",              url: "https://arxiv.org/abs/2304.14065" }
+    - { name: "Geo-Bench",           url: "https://github.com/ServiceNow/geo-bench" }
+    - { name: "Geo-Bench-2",         url: "https://arxiv.org/abs/2511.15658" }
+
+- title: "Bias and robustness"
+  description: "Aggregate metrics often hide where and why ML models fail. We develop methods, metrics, and benchmarks that surface biases and failure modes in interpretable, actionable ways."
+  projects:
+    - { name: "DBA", url: "https://bhanutokas.github.io/DPA_web/" }
+    - { name: "DBAC", url: "https://arxiv.org/abs/2503.07878" }
+    - { name: "Geo-bias", url: "https://arxiv.org/abs/2412.11061" }
+
+- title: "Sustainable computing"
+  description: "We develop ML systems that learn and predict efficiently without sacrificing generality, and scalable model families that fit a wide range of compute budgets."
+  projects:
+    - { name: "Multi-Head LatentMoE", url: "https://arxiv.org/abs/2602.04870" }
+    - { name: "Presto",              url: "https://arxiv.org/abs/2304.14065" }
+    - { name: "OlmoEarth",           url: "https://arxiv.org/abs/2511.13655" }

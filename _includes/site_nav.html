@@ -1,0 +1,10 @@
+<nav class="top">
+  <div class="inner">
+    <a class="brand" href="{{ '/' | relative_url }}">Hannah Kerner</a>
+    <ul>
+      {% for item in site.data.navigation.main %}
+        <li><a href="{{ item.url | relative_url }}">{{ item.title }}</a></li>
+      {% endfor %}
+    </ul>
+  </div>
+</nav>

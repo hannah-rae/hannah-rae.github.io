@@ -1,0 +1,74 @@
+# Selected papers shown on the home page (the "Recent work" section).
+# Add a new paper by copying a block, replacing the values, and
+# putting it at the top. Keep this list short (~6 papers); the full
+# list lives at /publications/.
+#
+# Fields:
+#   id            : anchor id (used by theme project links)
+#   title         : paper title
+#   authors       : full author list, comma-separated
+#   venue         : conference/journal + year (e.g. "ICML 2025")
+#   award         : optional award/spotlight tag
+#   thumb_class   : CSS class name for placeholder gradient
+#                   (ph-galileo, ph-momo, ph-olmo, ph-marsbench,
+#                    ph-prue, ph-mission, ph-presto, ph-default)
+#   thumb_image   : optional path under /images/ for a real thumbnail;
+#                   overrides thumb_class when present
+#   paper, code, site, data, bibtex : optional links
+
+- id: "olmoearth"
+  title: "OlmoEarth: Stable Latent Image Modeling for Multimodal Earth Observation"
+  authors: "Henry Herzog, Favyen Bastani, Yawen Zhang, Gabriel Tseng, Joseph Redmon, Hadrien Sablon, Ryan Park, Jacob Morrison, et al."
+  venue: "CVPR 2026"
+  thumb_class: "ph-olmo"
+  paper: "https://arxiv.org/abs/2511.13655"
+  bibtex: "/files/bibtex/herzog2026olmoearth.bib"
+  thumb_image: "/images/papers/olmoearth.png"
+
+- id: "momo"
+  title: "MOMO: Mars Orbital Model Foundation Model for Mars Orbital Applications"
+  authors: "Mirali Purohit, Bimal Gajera, Irish Mehta, Bhanu Tokas, Jacob Adler, Steven Lu, Scott Dickenshied, Serina Diniega, Brian Bue, Umaa Rebbapragada, et al."
+  venue: "CVPR 2026"
+  thumb_class: "ph-momo"
+  paper: "https://arxiv.org/abs/2604.02719"
+  bibtex: "/files/bibtex/purohit2026momo.bib"
+  thumb_image: "/images/papers/momo.png"
+
+- id: "galileo"
+  title: "Galileo: Learning Global & Local Features of Many Remote Sensing Modalities"
+  authors: "Gabriel Tseng, Anthony Fuller, Marlena Reil, Henry Herzog, Patrick Beukema, Favyen Bastani, James R. Green, Evan Shelhamer, Hannah Kerner, David Rolnick"
+  venue: "ICML 2025"
+  thumb_class: "ph-galileo"
+  paper: "https://arxiv.org/abs/2502.09356"
+  code: "https://github.com/nasaharvest/galileo"
+  bibtex: "/files/bibtex/tseng2025galileo.bib"
+  thumb_image: "/images/papers/galileo.png"
+
+- id: "mars-bench"
+  title: "Mars-Bench: A Benchmark for Evaluating Foundation Models for Mars Science Tasks"
+  authors: "Mirali Purohit, Bimal Gajera, Vatsal Malaviya, Irish Mehta, Kunal Sunil Kasodekar, Jacob Adler, Steven Lu, Umaa Rebbapragada, Hannah Kerner"
+  venue: "NeurIPS Datasets & Benchmarks 2025"
+  thumb_class: "ph-marsbench"
+  paper: "https://arxiv.org/abs/2510.24010"
+  code: "https://github.com/kerner-lab/Mars-Bench"
+  bibtex: "/files/bibtex/purohit2025marsbench.bib"
+  thumb_image: "/images/papers/marsbench.png"
+
+- id: "prue"
+  title: "PRUE: A Practical Recipe for Field Boundary Segmentation at Scale"
+  authors: "Gedeon Muhawenayo, Caleb Robinson, Subash Khanal, Zhanpei Fang, Isaac Corley, Alexander Wollam, Tianyi Gao, Leonard Strnad, Ryan Avery, Lyndon Estes, et al."
+  venue: "CVPR 2026"
+  thumb_class: "ph-prue"
+  paper: "https://arxiv.org/abs/2603.27101"
+  bibtex: "/files/bibtex/muhawenayo2026prue.bib"
+  thumb_image: "/images/papers/prue.png"
+
+- id: "mission"
+  title: "Position: Mission Critical — Satellite Data is a Distinct Modality in Machine Learning"
+  authors: "Esther Rolf, Konstantin Klemmer, Caleb Robinson, Hannah Kerner"
+  venue: "ICML 2024"
+  award: "Spotlight"
+  thumb_class: "ph-mission"
+  paper: "https://arxiv.org/abs/2402.01444"
+  bibtex: "/files/bibtex/rolf2024mission.bib"
+  thumb_image: "/images/papers/missioncritical.png"

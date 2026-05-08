@@ -1,0 +1,35 @@
+# Lab members. Each name can have an optional URL pointing to a personal
+# page, lab page, Scholar, or LinkedIn. Names without a URL render as
+# plain text.
+#
+# When someone graduates / leaves, move their entry from `phd` (etc.)
+# into the `alumni` section below and add a "now" field.
+
+staff:
+  - name: "Ana M. Tárano"
+    role: "Assistant Research Professor"
+    url: "https://anatarano.github.io/"
+  - name: "Kelsey Doerksen"
+    role: "Postdoctoral Researcher"
+    url: "https://kelsdoerksen.github.io/"
+
+phd:
+  - { name: "Mirali Purohit",     url: "https://www.linkedin.com/in/mirali-purohit/" }
+  - { name: "Rahul Nair",         url: "https://linkedin.com/in/rahul-nair-219632147" }
+  - { name: "Gedeon Muhawenayo",  url: "https://gedeonmuhawenayo.github.io/" }
+  - { name: "Bhanu Tokas",        url: "https://bhanutokas.github.io/" }
+  - { name: "Chenwei Cui",        url: "https://scholar.google.com/citations?user=55pwgEYAAAAJ&hl=en" }
+  - { name: "Amandeep Kaur",      url: "https://amandeepkaurre.github.io/" }
+  - { name: "Sarah Peterson",     url: "https://www.linkedin.com/in/sarah-peterson-2022/" }
+
+masters:
+  - { name: "Benjamin Herrera", url: "https://benherrera.dev/" }
+
+undergrad:
+  - { name: "Rockwell Jackson", url: "https://www.linkedin.com/in/rockwell-jackson/" }
+
+# Alumni: when someone leaves, move them here and add a "now" field.
+# This list is empty for now — fill in when you have the right info.
+alumni: [
+  { name: "Gabriel Tseng", role: "PhD student", now: "Research Scientist at Ai2", url: "https://gabrieltseng.github.io/" }
+]
