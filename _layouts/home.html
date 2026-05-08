@@ -1,0 +1,266 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>{{ site.title }}</title>
+<meta name="description" content="{{ site.description }}">
+<link rel="canonical" href="{{ site.url }}{{ page.url | replace:'index.html','' }}">
+
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=JetBrains+Mono:wght@400;500&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="{{ '/assets/css/site.css' | relative_url }}">
+</head>
+<body>
+
+{% include site_nav.html %}
+
+<section class="hero">
+  <div class="inner">
+    <div class="row">
+      <div>
+        <h1>{{ site.author.name }}</h1>
+        <p class="role">Assistant Professor &middot; School of Computing and Augmented Intelligence &middot; Arizona State University</p>
+        <p class="bio">
+          Hannah Kerner is an Assistant Professor in the School of Computing and Augmented Intelligence
+          at Arizona State University. Her research focuses on advancing the foundations and applications
+          of machine learning to foster a better future for all.
+          Her lab's research topics include machine learning for remote sensing, algorithmic bias,
+          and machine learning theory. 
+          <br><br>
+          She translates research advances to real-world impact through her
+          roles as the AI/Machine Learning Lead for <a href="https://nasaharvest.org/">NASA Harvest</a>
+          and <a href="https://www.nasaacres.org/">NASA Acres</a>,
+          Center Faculty for the ASU Center for Global Discovery and Conservation Science
+          (<a href="https://gdcs.asu.edu/">GDCS</a>),
+          and Research Advisor for <a href="https://taylorgeospatial.org/">Taylor Geospatial</a>.
+          She has been recognized by multiple research awards including the NSF CAREER Award (2025),
+          Schmidt Sciences AI2050 Early Career Fellowship (2025), and Forbes 30 Under 30 in Science (2021).
+        </p>
+        <p class="contact">
+          <a class="protected-email" data-u="hkerner" data-d="asu.edu" href="#">email</a>
+          &middot; Tempe, AZ
+        </p>
+        <div class="links">
+          <a href="{{ '/files/Kerner_Hannah_CV.pdf' | relative_url }}">CV</a>
+          <a href="{{ site.author.googlescholar }}">Google Scholar</a>
+          <a href="https://github.com/{{ site.author.github }}">GitHub</a>
+          <a href="https://www.linkedin.com/in/{{ site.author.linkedin }}">LinkedIn</a>
+          <a href="https://twitter.com/{{ site.author.twitter }}">Twitter</a>
+          <a href="{{ site.author.orcid }}">ORCID</a>
+        </div>
+      </div>
+      <div class="photo-col">
+        <img class="portrait" alt="{{ site.author.name }}" src="{{ '/images/kerner-headshot-small.jpg' | relative_url }}">
+        <div class="affiliations">
+          {% for aff in site.data.affiliations %}
+            <div><strong>{{ aff.role }}</strong>, {{ aff.org }}</div>
+          {% endfor %}
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+{%- assign featured = site.data.press | where: "featured", true | first -%}
+{% if featured %}
+<section id="press" class="press" style="background: var(--surface); border-top: 1px solid var(--line); border-bottom: 1px solid var(--line);">
+  <div class="inner">
+    <div class="eyebrow">In the press</div>
+    <div class="featured">
+      {% if featured.image %}
+        {% if featured.image contains '://' %}
+          <img alt="{{ featured.title }}" src="{{ featured.image }}">
+        {% else %}
+          <img alt="{{ featured.title }}" src="{{ featured.image | relative_url }}">
+        {% endif %}
+      {% else %}
+        <img alt="" src="{{ '/images/field-boundaries.png' | relative_url }}">
+      {% endif %}
+      <div>
+        <div class="label">Featured</div>
+        <h3><a href="{{ featured.url }}">{{ featured.title }}</a></h3>
+        <p>{{ featured.blurb }}</p>
+        <div class="source">{{ featured.source }} &middot; {{ featured.date | date: "%B %-d, %Y" }}</div>
+      </div>
+    </div>
+    <p class="more"><a href="{{ '/press/' | relative_url }}">All press features &rarr;</a></p>
+  </div>
+</section>
+{% endif %}
+
+<section id="research" class="themes">
+  <div class="inner">
+    <div class="eyebrow">Research</div>
+    <h2>Research themes.</h2>
+    <div class="grid">
+      {% for theme in site.data.themes %}
+        <div class="theme">
+          <h3>{{ theme.title }}</h3>
+          <p>{{ theme.description }}</p>
+          <div class="projects">
+            {% for p in theme.projects %}
+              <a href="{{ p.url }}">{{ p.name }}</a>
+            {% endfor %}
+          </div>
+        </div>
+      {% endfor %}
+    </div>
+  </div>
+</section>
+
+<section id="papers" class="papers" style="background: var(--surface); border-top:1px solid var(--line); border-bottom:1px solid var(--line);">
+  <div class="inner">
+    <div class="eyebrow">Selected papers</div>
+    <h2>Recent work. <span style="font-weight: 400; color: var(--muted); font-size: 14px;">See <a href="{{ '/publications/' | relative_url }}">all publications</a> or <a href="{{ site.author.googlescholar }}">Google Scholar</a> for the full list.</span></h2>
+    <ol>
+      {% for paper in site.data.selected_papers %}
+        <li>
+          <div class="thumb {{ paper.thumb_class | default: 'ph-default' }}"
+               {% if paper.thumb_image %} style="background-image:url('{{ paper.thumb_image | relative_url }}');"{% endif %}
+               id="{{ paper.id }}"></div>
+          <div>
+            <div class="title">{{ paper.title }}</div>
+            <div class="authors">{{ paper.authors }}</div>
+            <div class="venue">{{ paper.venue }}{% if paper.award %} &middot; <span class="award">{{ paper.award }}</span>{% endif %}</div>
+            <div class="links">
+              {% if paper.paper %}<a href="{{ paper.paper }}">paper</a>{% endif %}
+              {% if paper.code %}<a href="{{ paper.code }}">code</a>{% endif %}
+              {% if paper.site %}<a href="{{ paper.site }}">site</a>{% endif %}
+              {% if paper.data %}<a href="{{ paper.data }}">data</a>{% endif %}
+              {% if paper.bibtex %}<a href="{{ paper.bibtex | relative_url }}">bibtex</a>{% endif %}
+            </div>
+          </div>
+        </li>
+      {% endfor %}
+    </ol>
+  </div>
+</section>
+
+<section id="code" class="oss">
+  <div class="inner">
+    <div class="eyebrow">Code &amp; data</div>
+    <h2>Open-source models, datasets, and tutorials.</h2>
+
+    <div class="subhead">Models</div>
+    <div class="grid">
+      {% for item in site.data.code_data.models %}
+        <div class="card" data-repo="{{ item.repo }}">
+          <h3>{{ item.name }}</h3>
+          <div class="desc">{{ item.description }}</div>
+          <div class="stats">
+            <span><b class="stars">…</b> &#9733;</span>
+            <span><b class="forks">…</b> forks</span>
+            <a href="https://github.com/{{ item.repo }}" target="_blank" rel="noopener">github &uarr;</a>
+          </div>
+        </div>
+      {% endfor %}
+    </div>
+
+    <div class="subhead">Datasets &amp; benchmarks</div>
+    <div class="grid">
+      {% for item in site.data.code_data.datasets %}
+        <div class="card" data-repo="{{ item.repo }}">
+          <h3>{{ item.name }}</h3>
+          <div class="desc">{{ item.description }}</div>
+          <div class="stats">
+            <span><b class="stars">…</b> &#9733;</span>
+            <span><b class="forks">…</b> forks</span>
+            <a href="https://github.com/{{ item.repo }}" target="_blank" rel="noopener">github &uarr;</a>
+          </div>
+        </div>
+      {% endfor %}
+    </div>
+
+    <div class="subhead">Tutorials</div>
+    <div class="grid">
+      {% for item in site.data.code_data.tutorials %}
+        <div class="tutcard">
+          <div class="tutthumb {{ item.thumb_class | default: 'ph-default' }}"
+               {% if item.thumb_image %} style="background-image:url('{{ item.thumb_image | relative_url }}');"{% endif %}></div>
+          <div class="body">
+            <h3>{{ item.title }}</h3>
+            <div class="meta">{{ item.meta }}</div>
+            <div class="desc">{{ item.description }}</div>
+            <div class="links">
+              {% for link in item.links %}
+                <a href="{{ link.url }}" target="_blank" rel="noopener">{{ link.label }} &uarr;</a>
+              {% endfor %}
+            </div>
+          </div>
+        </div>
+      {% endfor %}
+    </div>
+  </div>
+</section>
+
+<section id="group" class="group">
+  <div class="inner">
+    <div class="eyebrow">Group</div>
+    <h2>Kerner Lab.</h2>
+    <div class="row">
+      <div>
+        <div class="subhead">Postdocs &amp; research staff</div>
+        <ul class="people">
+          {% for p in site.data.people.staff %}
+            <li>
+              {% if p.url %}<a href="{{ p.url }}">{{ p.name }}</a>{% else %}{{ p.name }}{% endif %}
+              <span class="role">— {{ p.role }}</span>
+            </li>
+          {% endfor %}
+        </ul>
+
+        <div class="subhead">PhD students</div>
+        <ul class="students">
+          {% for s in site.data.people.phd %}
+            <li>{% if s.url %}<a href="{{ s.url }}">{{ s.name }}</a>{% else %}{{ s.name }}{% endif %}</li>
+          {% endfor %}
+        </ul>
+        <p class="group-link"><a href="{{ '/group/' | relative_url }}">Full group page (M.S., undergrads, alumni) &rarr;</a></p>
+      </div>
+      <div>
+        <div class="joinbox">
+          <h3>Joining the lab</h3>
+          <p>If you're interested in any role with the group (postdoc, PhD, MS, visitor, intern, etc.), please use the form below instead of emailing me — I can't reliably respond to individual emails.</p>
+          <div class="forms">
+            <a href="https://forms.gle/QJGKa8p4jPJ11nAg8">Form for ASU students &nbsp;&rarr;</a>
+            <a href="https://forms.gle/utmewBr6eiDddo1cA">Form for non-ASU applicants &nbsp;&rarr;</a>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<section id="teaching" class="teaching">
+  <div class="inner">
+    <div class="eyebrow">Teaching</div>
+    <h2>Courses at ASU.</h2>
+    <ul>
+      {% for c in site.data.teaching %}
+        <li><span class="term">{{ c.term }}</span><span><span class="courseno">{{ c.number }}</span>{{ c.title }}</span></li>
+      {% endfor %}
+    </ul>
+  </div>
+</section>
+
+<section id="contact" style="background: var(--surface); border-top:1px solid var(--line);">
+  <div class="inner">
+    <div class="eyebrow">Contact</div>
+    <p class="lead">
+      Email:
+      <a class="protected-email" data-u="hkerner" data-d="asu.edu" href="#">email</a>.
+      For lab opportunities, please use the <a href="#group">interest forms</a>.
+      Also on <a href="{{ site.author.googlescholar }}">Google Scholar</a>,
+      <a href="https://github.com/{{ site.author.github }}">GitHub</a>,
+      <a href="https://www.linkedin.com/in/{{ site.author.linkedin }}">LinkedIn</a>,
+      and <a href="https://twitter.com/{{ site.author.twitter }}">Twitter</a>.
+    </p>
+  </div>
+</section>
+
+{% include site_footer.html %}
+<script src="{{ '/assets/js/main.js' | relative_url }}"></script>
+</body>
+</html>

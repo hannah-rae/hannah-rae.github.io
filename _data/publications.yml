@@ -1,0 +1,537 @@
+# All publications, ordered most recent first.
+# Source of truth: /files/bibtex/*.bib
+#
+# To add a new paper:
+#   1. Drop a .bib file in /files/bibtex/ (filename = bibkey, e.g. lastname2026key.bib)
+#   2. Add an entry here with the same id, plus the paper URL
+#
+# Fields:
+#   id        : bibkey (matches the .bib filename)
+#   title     : paper title
+#   authors   : full author list, comma-separated, "et al." for long lists ending in "and others"
+#   venue     : compact venue + year (e.g. "ICML 2025")
+#   year      : integer (used for sorting)
+#   paper     : URL to PDF / arxiv / publisher page (optional)
+#   code      : link to code repo (optional)
+#   site      : link to project website (optional)
+#   data      : link to dataset (optional)
+#   award     : short award/spotlight tag (optional)
+#   thumb_image : path to a thumbnail under /images/ (optional)
+
+# ============================== 2026 ==============================
+
+- id: herzog2026olmoearth
+  title: "OlmoEarth: Stable Latent Image Modeling for Multimodal Earth Observation"
+  authors: "Henry Herzog, Favyen Bastani, Yawen Zhang, Gabriel Tseng, Joseph Redmon, Hadrien Sablon, Ryan Park, Jacob Morrison, et al."
+  venue: "CVPR 2026"
+  year: 2026
+  paper: "https://arxiv.org/abs/2511.13655"
+
+- id: muhawenayo2026prue
+  title: "PRUE: A Practical Recipe for Field Boundary Segmentation at Scale"
+  authors: "Gedeon Muhawenayo, Caleb Robinson, Subash Khanal, Zhanpei Fang, Isaac Corley, Alexander Wollam, Tianyi Gao, Leonard Strnad, Ryan Avery, Lyndon Estes, et al."
+  venue: "CVPR 2026"
+  year: 2026
+  paper: "https://arxiv.org/abs/2603.27101"
+
+- id: purohit2026momo
+  title: "MOMO: Mars Orbital Model Foundation Model for Mars Orbital Applications"
+  authors: "Mirali Purohit, Bimal Gajera, Irish Mehta, Bhanu Tokas, Jacob Adler, Steven Lu, Scott Dickenshied, Serina Diniega, Brian Bue, Umaa Rebbapragada, et al."
+  venue: "CVPR 2026"
+  year: 2026
+  paper: "https://arxiv.org/abs/2604.02719"
+
+- id: cui2026multi
+  title: "Multi-Head LatentMoE and Head Parallel: Communication-Efficient and Deterministic MoE Parallelism"
+  authors: "Chenwei Cui, Rockwell Jackson, Benjamin Joseph Herrera, Ana María Tárano, Hannah Kerner"
+  venue: "ICML 2026"
+  year: 2026
+  paper: "https://arxiv.org/abs/2602.04870"
+
+- id: nair2026dbac
+  title: "A Woman with a Knife or a Knife with a Woman? Measuring Directional Bias Amplification in Image Captions"
+  authors: "Rahul Nair, Bhanu Tokas, Hannah Kerner"
+  venue: "WACV 2026"
+  year: 2026
+  paper: "https://arxiv.org/abs/2503.07878"
+
+- id: tokas2026dpa
+  title: "DPA: A One-Stop Metric to Measure Bias Amplification in Classification Datasets"
+  authors: "Bhanu Tokas, Rahul Nair, Hannah Kerner"
+  venue: "NeurIPS 2026"
+  year: 2026
+  paper: "https://openreview.net/forum?id=efuY2yYC1U"
+  site: "https://bhanutokas.github.io/DPA_web/"
+
+# ============================== 2025 ==============================
+
+- id: tseng2025galileo
+  title: "Galileo: Learning Global and Local Features in Pretrained Remote Sensing Models"
+  authors: "Gabriel Tseng, Archie Fuller, Michael Reil, Hannah Herzog, Patrick Beukema, Favyen Bastani, Joseph Redmon Green, Evan Shelhamer, Hannah Kerner, David Rolnick"
+  venue: "ICML 2025"
+  year: 2025
+  paper: "https://arxiv.org/abs/2502.09356"
+  code: "https://github.com/nasaharvest/galileo"
+
+- id: purohit2025marsbench
+  title: "Mars-Bench: A Benchmark for Evaluating Foundation Models for Mars Science Tasks"
+  authors: "Mirali Purohit, Bimal Gajera, Vatsal Malaviya, Irish Mehta, Kunal Sunil Kasodekar, Jacob Adler, Steven Lu, Umaa Rebbapragada, Hannah Kerner"
+  venue: "NeurIPS Datasets & Benchmarks 2025"
+  year: 2025
+  paper: "https://arxiv.org/abs/2510.24010"
+  code: "https://github.com/kerner-lab/Mars-Bench"
+
+- id: butsko2025deploying
+  title: "Deploying Geospatial Foundation Models in the Real World"
+  authors: "Cristhian Butsko, Gabriel Tseng, Kristof Van Tricht, Gabriele Milli, David Rolnick, Ruben Cartuyvels, Inbal Becker-Reshef, Zoltan Szantoi, Hannah Kerner"
+  venue: "PMLR 2025 (to appear)"
+  year: 2025
+  paper: "https://arxiv.org/abs/2508.00858"
+
+- id: tseng2025galileo_terrabytes
+  title: "Galileo: Learning Global & Local Features of Many Remote Sensing Modalities"
+  authors: "Gabriel Tseng, Archie Fuller, Michael Reil, Hannah Herzog, Patrick Beukema, Favyen Bastani, Joseph Redmon Green, Evan Shelhamer, Hannah Kerner, David Rolnick"
+  venue: "ICML Terrabytes Workshop 2025"
+  year: 2025
+  paper: "https://openreview.net/forum?id=a2Qn7lTYWL"
+
+- id: hulkund2025datas3
+  title: "DataS3: Dataset Subset Selection for Specialization"
+  authors: "Nikhil Hulkund, Amro Maalouf, Linda Cai, Dennis Yang, Addison O'Neill, Timo Haucke, Soham Mukherjee, Vivek V. Ramaswamy, Junhong Shen, Gabriel Tseng, Mike Walmsley, Tai-Hua Wang, Hannah Kerner, Irene Y. Chen, Yogesh Girdhar, Daniela Rus, Ken Goldberg, Sara Beery"
+  venue: "ICML DataWorld Workshop 2025"
+  year: 2025
+  paper: "https://openreview.net/forum?id=8F82jNt2uA"
+
+- id: tseng2025timl
+  title: "Task-Informed Meta-Learning for Remote Sensing"
+  authors: "Gabriel Tseng, Hannah Kerner, David Rolnick"
+  venue: "CVPR EarthVision Workshop 2025"
+  year: 2025
+  paper: "https://openaccess.thecvf.com/content/CVPR2025W/EarthVision/html/Tseng_Task-Informed_Meta-Learning_for_Remote_Sensing_CVPRW_2025_paper.html"
+
+- id: nair2025classification
+  title: "Classification Drives Geographic Bias in Street Scene Segmentation"
+  authors: "Rahul Nair, Gabriel Tseng, Esther Rolf, Bhanu Tokas, Hannah Kerner"
+  venue: "CVPR Fair, Data-Efficient, and Trusted CV Workshop 2025"
+  year: 2025
+  paper: "https://arxiv.org/abs/2412.11061"
+
+- id: kerner2025fields
+  title: "Fields of The World: A Machine Learning Benchmark Dataset for Global Agricultural Field Boundary Segmentation"
+  authors: "Hannah Kerner, Snehal Chaudhari, Aninda Ghosh, Caleb Robinson, Akram Ahmad, Eddie Choi, Nathan Jacobs, Connor Holmes, Michael Mohr, Rahul Dodhia, Juan M. Lavista Ferres, Jason Marcus"
+  venue: "AAAI 2025"
+  year: 2025
+  paper: "https://fieldsofthe.world/paper.html"
+  site: "https://fieldsofthe.world/"
+  code: "https://github.com/fieldsoftheworld/ftw-baselines"
+
+- id: mohan2025hotspotter
+  title: "Hotspotter: A Generalizable Pipeline for Automated Detection of Subtle Volcanic Thermal Features in Satellite Images"
+  authors: "Ashna Mohan, Andrea Gomez-Patron, Matthew Pritchard, Hannah Kerner"
+  venue: "AAAI 2025"
+  year: 2025
+  paper: "https://doi.org/10.1609/aaai.v39i28.35151"
+
+- id: hopkins2025data
+  title: "Data Augmentation Approaches for Satellite Imagery"
+  authors: "Lauren Hopkins, Wai-Ki Wong, Hannah Kerner, Fei Li, Rebecca Hutchinson"
+  venue: "AAAI 2025"
+  year: 2025
+  paper: "https://doi.org/10.1609/aaai.v39i27.35028"
+
+- id: purohit2025spatial
+  title: "How Does the Spatial Distribution of Pre-training Data Affect Geospatial Foundation Models?"
+  authors: "Muskaan Purohit, Gedeon Muhawenayo, Esther Rolf, Hannah Kerner"
+  venue: "AAAI Preparing Good Data for Generative AI Workshop 2025"
+  year: 2025
+  paper: "https://arxiv.org/pdf/2501.12535"
+
+- id: rufin2025accelerating
+  title: "Accelerating Research on SDG2 'Zero Hunger' by Opening Commercial Very-High Resolution Satellite Image Archives"
+  authors: "Philippe Rufin, et al. (Hannah Kerner one of 16 authors)"
+  venue: "PNAS 2025"
+  year: 2025
+  paper: "https://www.pnas.org/doi/10.1073/pnas.2410246122"
+
+- id: peng2025novel
+  title: "A Novel Deep Learning Algorithm for Broad Scale Seagrass Extent Mapping in Shallow Coastal Environments"
+  authors: "Jiwei Peng, Jiwei Li, Thomas C. Ingalls, Steven R. Schill, Hannah R. Kerner, Gregory P. Asner"
+  venue: "ISPRS Journal of Photogrammetry and Remote Sensing 2025"
+  year: 2025
+  paper: "https://doi.org/10.1016/j.isprsjprs.2024.12.008"
+
+- id: nakalembe2025framework
+  title: "A Framework for EO-Based National Agricultural Monitoring (EO-NAM) for the African Context"
+  authors: "Catherine Nakalembe, Hannah Kerner, Ivan Zvonkov, Michael Humber, Andres Galvez, Edna Makabe, Stefano Venturini, Inbal Becker-Reshef"
+  venue: "npj Sustainable Agriculture 2025"
+  year: 2025
+  paper: "https://www.nature.com/articles/s44264-025-00083-z"
+
+# ============================== 2024 ==============================
+
+- id: rolf2024mission
+  title: "Mission Critical — Satellite Data is a Distinct Modality in Machine Learning"
+  authors: "Esther Rolf, Konstantin Klemmer, Caleb Robinson, Hannah Kerner"
+  venue: "ICML 2024"
+  year: 2024
+  award: "Spotlight (3.5%)"
+  paper: "https://arxiv.org/abs/2402.01444"
+
+- id: rolnick2024application
+  title: "Application-Driven Innovation in Machine Learning"
+  authors: "David Rolnick, Alan Aspuru-Guzik, Sara Beery, Bistra Dilkina, Priya L. Donti, Marzyeh Ghassemi, Hannah Kerner, Claire Monteleoni, Esther Rolf, Milind Tambe, Adam White"
+  venue: "ICML 2024"
+  year: 2024
+  paper: "https://arxiv.org/abs/2403.17381"
+
+- id: kebede2024assessing
+  title: "Assessing and Addressing the Global State of Food Production Data Scarcity"
+  authors: "Emebet A. Kebede, Hala Abou Ali, Tyler Clavelle, Halley E. Froehlich, Jessica A. Gephart, Steffanie Hartman, Mario Herrero, Hannah Kerner, Priya Mehta, Catherine Nakalembe, Deepak K. Ray, Stefan Siebert, Philip Thornton, Kyle F. Davis"
+  venue: "Nature Reviews Earth & Environment 2024"
+  year: 2024
+  paper: "https://www.nature.com/articles/s43017-024-00516-2"
+
+- id: kerner2024satellite
+  title: "Satellite Data Shows Resilience of Tigrayan Farmers in Crop Cultivation During Civil War"
+  authors: "Hannah Kerner, Catherine Nakalembe, Benjamin Yeh, Ivan Zvonkov, Sergii Skakun, Inbal Becker-Reshef, Amy McNally"
+  venue: "Science of Remote Sensing 2024"
+  year: 2024
+  paper: "https://www.sciencedirect.com/science/article/pii/S2666017224000245"
+
+- id: kerner2024accurate
+  title: "How Accurate Are Existing Land Cover Maps for Agriculture in Sub-Saharan Africa?"
+  authors: "Hannah Kerner, Catherine Nakalembe, Anna Yang, Ivan Zvonkov, Ryland McWeeny, Gabriel Tseng, Inbal Becker-Reshef"
+  venue: "Nature Scientific Data 2024"
+  year: 2024
+  paper: "https://www.nature.com/articles/s41597-024-03306-z"
+
+- id: dhakal2024sat2cap
+  title: "Sat2Cap: Mapping Fine-Grained Textual Descriptions from Satellite Images"
+  authors: "Aayush Dhakal, Akram Ahmad, Subash Khanal, Sravan Sastry, Hannah Kerner, Nathan Jacobs"
+  venue: "CVPR EarthVision Workshop 2024"
+  year: 2024
+  award: "Best Paper Award"
+  paper: "https://openaccess.thecvf.com/content/CVPR2024W/EarthVision/papers/Dhakal_Sat2Cap_Mapping_Fine-Grained_Textual_Descriptions_from_Satellite_Images_CVPRW_2024_paper.pdf"
+
+- id: gray2024promise
+  title: "The Promise and Pitfalls of Machine Learning in Ocean Remote Sensing"
+  authors: "Peter C. Gray, Emmanuel Boss, J. Xavier Prochaska, Hannah Kerner, Charley B. Demeaux, Yoav Lehahn"
+  venue: "Oceanography 2024"
+  year: 2024
+  paper: "https://tos.org/oceanography/article/the-promise-and-pitfalls-of-machine-learning-in-ocean-remote-sensing"
+
+- id: cui2024allmlp
+  title: "An All-MLP Sequence Modeling Architecture That Excels at Copying"
+  authors: "Chuangchuang Cui, Zihan Yan, Gedeon Muhawenayo, Hannah Kerner"
+  venue: "ICML Next Generation Sequence Modeling Workshop 2024"
+  year: 2024
+  paper: "https://arxiv.org/abs/2406.16168"
+
+- id: nakalembe2024senegal
+  title: "A 40-Year Remote Sensing Analysis of Spatiotemporal Temperature and Rainfall Patterns in Senegal"
+  authors: "Catherine L. Nakalembe, Doris B. Frimpong, Hannah Kerner, Mouhamadou A. Sarr"
+  venue: "Frontiers in Climate 2024"
+  year: 2024
+  paper: "https://www.frontiersin.org/journals/climate/articles/10.3389/fclim.2025.1462626"
+
+# ============================== 2023 ==============================
+
+- id: lacoste2023geobench
+  title: "GEO-Bench: Toward Foundation Models for Earth Monitoring"
+  authors: "Alexandre Lacoste, Nils Lehmann, Pau Rodriguez, Evan D. Sherwin, Hannah Kerner, Bjorn Lütjens, Jeremy A. Irvin, David Dao, Hamed Alemohammad, Alexandre Drouin, Mehmet Hamdi Gunturkun, Gabriel Huang, David Vazquez, Dava Newman, Yoshua Bengio, Stefano Ermon, Xiaoxiang Zhu"
+  venue: "NeurIPS Datasets & Benchmarks 2023"
+  year: 2023
+  paper: "https://arxiv.org/abs/2306.03831"
+
+- id: zvonkov2023openmapflow
+  title: "OpenMapFlow: A Library for Rapid Map Creation with Machine Learning and Remote Sensing Data"
+  authors: "Ivan Zvonkov, Gabriel Tseng, Catherine Nakalembe, Hannah Kerner"
+  venue: "AAAI 2023"
+  year: 2023
+  paper: "https://doi.org/10.1609/aaai.v37i12.26713"
+
+- id: purohit2023conequest
+  title: "ConeQuest: A Benchmark for Cone Detection on Mars"
+  authors: "Muskaan Purohit, Jacob Adler, Hannah Kerner"
+  venue: "WACV 2023"
+  year: 2023
+  award: "Oral (2.5%)"
+  paper: "https://openaccess.thecvf.com/content/WACV2024/html/Purohit_ConeQuest_A_Benchmark_for_Cone_Segmentation_on_Mars_WACV_2024_paper.html"
+
+- id: prieur2023automatic
+  title: "Automatic Characterization of Boulders on Planetary Surfaces from High-Resolution Satellite Images"
+  authors: "Naomi C. Prieur, Beatriz Amaro, Esteban Gonzalez, Hannah Kerner, Sergei Medvedev, Lior Rubanenko, Stephanie Werner, Zhiyong Xiao, Dmitry Zastrozhnov, Mathieu G. Lapôtre"
+  venue: "JGR: Planets 2023"
+  year: 2023
+  paper: "https://doi.org/10.1029/2023JE008013"
+
+- id: nakalembe2023considerations
+  title: "Considerations for AI-EO for Agriculture in Sub-Saharan Africa"
+  authors: "Catherine Nakalembe, Hannah Kerner"
+  venue: "Environmental Research Letters 2023"
+  year: 2023
+  paper: "https://iopscience.iop.org/article/10.1088/1748-9326/acc476"
+
+- id: tseng2023lightweight_neurips
+  title: "Lightweight, Pre-trained Transformers for Remote Sensing Timeseries"
+  authors: "Gabriel Tseng, Ivan Zvonkov, Muskaan Purohit, David Rolnick, Hannah Kerner"
+  venue: "NeurIPS Climate Change AI Workshop 2023"
+  year: 2023
+  paper: "https://www.climatechange.ai/papers/neurips2023/58"
+
+- id: tseng2023lightweight_arxiv
+  title: "Lightweight, Pre-trained Transformers for Remote Sensing Timeseries"
+  authors: "Gabriel Tseng, Ivan Zvonkov, Muskaan Purohit, David Rolnick, Hannah Kerner"
+  venue: "arXiv 2023"
+  year: 2023
+  paper: "https://arxiv.org/abs/2304.14065"
+
+- id: malvi2023automated
+  title: "Automated Multi-class Crater Segmentation in Mars Orbital Images"
+  authors: "Shreyansh Malvi, Heshani Shah, Niyati Chandarana, Muskaan Purohit, Jacob Adler, Hannah Kerner"
+  venue: "ACM SIGSPATIAL GeoAI Workshop 2023"
+  year: 2023
+  paper: "https://dl.acm.org/doi/abs/10.1145/3615886.3627748"
+
+- id: kerner2023multiregion
+  title: "Multi-Region Transfer Learning for Segmentation of Crop Field Boundaries in Satellite Images with Limited Labels"
+  authors: "Hannah Kerner, Shreyas Sundar, Muskaan Satish"
+  venue: "AAAI Workshop 2023"
+  year: 2023
+  paper: "https://arxiv.org/abs/2404.00179"
+
+# ============================== 2022 ==============================
+
+- id: kerner2022phenological
+  title: "Phenological Normalization Can Improve In-Season Classification of Maize and Soybean: A Case Study in the Central US Corn Belt"
+  authors: "Hannah R. Kerner, Ritvik Sahajpal, Divyani B. Pai, Sergii Skakun, Eduardo Puricelli, Mehdi Hosseini, Seth Meyer, Inbal Becker-Reshef"
+  venue: "Science of Remote Sensing 2022"
+  year: 2022
+  paper: "https://doi.org/10.1016/j.srs.2022.100059"
+
+- id: kerner2022domain
+  title: "Domain-Agnostic Outlier Ranking Algorithms — A Configurable Pipeline for Facilitating Outlier Detection in Scientific Datasets"
+  authors: "Hannah R. Kerner, Umaa Rebbapragada, Kiri L. Wagstaff, Steven Lu, Bogdan Dubayah, Emily Huff, Vineeth Raman, Shravya Kulshrestha"
+  venue: "Frontiers in Astronomy and Space Sciences 2022"
+  year: 2022
+  paper: "https://doi.org/10.3389/fspas.2022.867947"
+
+- id: kerner2022guiding
+  title: "Guiding Field Exploration on Earth and Mars with Outlier Detection"
+  authors: "Hannah R. Kerner, Jacob B. Adler"
+  venue: "IGARSS 2022"
+  year: 2022
+  paper: "https://ieeexplore.ieee.org/document/9884366"
+
+- id: rice2022spectral
+  title: "Spectral Diversity of Rocks and Soils in Mastcam Observations Along the Curiosity Rover's Traverse in Gale Crater, Mars"
+  authors: "Melissa S. Rice, Christiana Seeger, James Bell, Fred Calef, Marie St Clair, Amanda Eng, Abigail A. Fraeman, Candice Hughes, Briony Horgan, Samantha Jacob, Jeffrey Johnson, Hannah Kerner, Kjartan Kinch, Mark Lemmon, Chase Million, Michelle Starr, Danika Wellington"
+  venue: "JGR: Planets 2022"
+  year: 2022
+  paper: "https://doi.org/10.1029/2021JE007134"
+
+- id: manheim2022highresolution
+  title: "High-Resolution Regional Digital Elevation Models and Derived Products from MESSENGER MDIS Images"
+  authors: "Matthew R. Manheim, Mark R. Henriksen, Mark S. Robinson, Hannah R. Kerner, Brett A. Karas, Kris J. Becker, Matthew Chojnacki, Sarah S. Sutton, David T. Blewett"
+  venue: "Remote Sensing 2022"
+  year: 2022
+  paper: "https://doi.org/10.3390/rs14153564"
+
+- id: handwerger2022generating
+  title: "Generating Landslide Density Heatmaps for Rapid Detection Using Open-Access Satellite Radar Data in Google Earth Engine"
+  authors: "Alexander L. Handwerger, Mong-Han Huang, Stephanie Y. Jones, Pukar Amatya, Hannah R. Kerner, Dalia B. Kirschbaum"
+  venue: "Natural Hazards and Earth System Sciences 2022"
+  year: 2022
+  paper: "https://nhess.copernicus.org/articles/22/753/2022/nhess-22-753-2022.html"
+
+- id: manimurugan2022georeferencing
+  title: "Geo-Referencing Crop Labels from Street-Level Images Using Structure from Motion"
+  authors: "Srinivasan Manimurugan, Rajesh Singaram, Catherine Nakalembe, Hannah Kerner"
+  venue: "International Astronautical Congress (IAC) 2022"
+  year: 2022
+  paper: "https://www.researchgate.net/publication/365360146_Geo-referencing_crop_labels_from_street-level_images_using_Structure_from_Motion"
+
+- id: nakalembe2022applications
+  title: "Applications and Considerations for AI-EO for Agriculture in Sub-Saharan Africa"
+  authors: "Catherine L. Nakalembe, Hannah R. Kerner"
+  venue: "AAAI Social Impact of AI for Africa Workshop 2022"
+  year: 2022
+
+- id: tseng2022timl
+  title: "TIML: Task-Informed Meta-Learning for Crop Type Mapping"
+  authors: "Gabriel Tseng, Hannah Kerner, David Rolnick"
+  venue: "AAAI AI for Agriculture and Food Systems Workshop 2022"
+  year: 2022
+
+# ============================== 2021 ==============================
+
+- id: tseng2021cropharvest
+  title: "CropHarvest: A Global Satellite Dataset for Crop Type Classification"
+  authors: "Gabriel Tseng, Ivan Zvonkov, Catherine Nakalembe, Hannah Kerner"
+  venue: "NeurIPS Datasets & Benchmarks 2021"
+  year: 2021
+  paper: "https://datasets-benchmarks-proceedings.neurips.cc/paper/2021/file/54229abfcfa5649e7003b83dd4755294-Paper-round2.pdf"
+
+- id: lacoste2021toward
+  title: "Toward Foundation Models for Earth Monitoring: Proposal for a Climate Change Benchmark"
+  authors: "Alexandre Lacoste, Evan Sherwin, Hannah Kerner, Hamed Alemohammad, Bjorn Lutjens, Jeremy Irvin, David Dao, Andrew Chang, Mehmet Hamdi Gunturkun, Alexandre Drouin, Pau Rodriguez, David Vazquez"
+  venue: "NeurIPS Tackling Climate Change with AI Workshop 2021"
+  year: 2021
+  paper: "https://www.climatechange.ai/papers/neurips2021/73/paper.pdf"
+
+- id: shirzaei2021persistent
+  title: "Persistent Impact of Spring Floods on Crop Loss in U.S. Midwest"
+  authors: "Manoochehr Shirzaei, Mostafa Khoshmanesh, Chandrakanta Ojha, Susanna Werth, Hannah Kerner, Grace Carlson, Suyog Fwa Sherpa, Guang Zhai, Jiyoung Lee"
+  venue: "Weather and Climate Extremes 2021"
+  year: 2021
+  paper: "https://doi.org/10.1016/j.wace.2021.100392"
+
+- id: gray2021temporally
+  title: "Temporally Generalizable Land Cover Classification: A Recurrent Convolutional Neural Network Unveils Major Coastal Change Through Time"
+  authors: "Peter C. Gray, Diego F. Chamorro, Jason T. Ridge, Hannah R. Kerner, Emily A. Ury, David W. Johnston"
+  venue: "Remote Sensing 2021"
+  year: 2021
+  paper: "https://doi.org/10.3390/rs13193953"
+
+- id: lawal2021mapping
+  title: "Mapping the Location and Extent of 2019 Prevent Planting Acres in South Dakota Using Remote Sensing Techniques"
+  authors: "Abdul Lawal, Hannah Kerner, Inbal Becker-Reshef, Seth Meyer"
+  venue: "Remote Sensing 2021"
+  year: 2021
+  paper: "https://www.mdpi.com/2072-4292/13/13/2430"
+
+- id: handwerger2021strategies
+  title: "Strategies for Landslide Detection Using Open-Access Synthetic Aperture Radar Backscatter Change in Google Earth Engine"
+  authors: "Alexander L. Handwerger, Stephanie Y. Jones, Pukar Amatya, Hannah R. Kerner, Dalia B. Kirschbaum, Mong-Han Huang"
+  venue: "NHESS Discussions 2021"
+  year: 2021
+  paper: "https://doi.org/10.5194/nhess-22-753-2022"
+
+- id: huppertz2021using
+  title: "Using Transfer Learning to Study Burned Area Dynamics: A Case Study of Refugee Settlements in West Nile, Northern Uganda"
+  authors: "Remy Huppertz, Catherine Nakalembe, Hannah Kerner"
+  venue: "KDD Humanitarian Mapping Workshop 2021"
+  year: 2021
+  award: "Oral"
+  paper: "https://arxiv.org/abs/2107.14372"
+
+- id: paliyam2021street2sat
+  title: "Street2Sat: A Machine Learning Pipeline for Generating Ground-truth Geo-referenced Labeled Datasets from Street-Level Images"
+  authors: "Mahesh Paliyam, Catherine Nakalembe, Hannah Kerner"
+  venue: "ICML Tackling Climate Change with AI Workshop 2021"
+  year: 2021
+  paper: "https://www.climatechange.ai/papers/icml2021/74.html"
+
+- id: tseng2021learning
+  title: "Learning to Predict Crop Type from Heterogeneous Sparse Labels Using Meta-Learning"
+  authors: "Gabriel Tseng, Hannah Kerner, Catherine Nakalembe, Inbal Becker-Reshef"
+  venue: "CVPR EarthVision Workshop 2021"
+  year: 2021
+  paper: "https://openaccess.thecvf.com/content/CVPR2021W/EarthVision/papers/Tseng_Learning_To_Predict_Crop_Type_From_Heterogeneous_Sparse_Labels_Using_CVPRW_2021_paper.pdf"
+
+- id: horton2021integrating
+  title: "Integrating Novelty Detection Capabilities with MSL Mastcam Operations to Enhance Data Analysis"
+  authors: "Paige Horton, Hannah Kerner, Samantha Jacobs, Emily Cisneros, Kiri L. Wagstaff, James F. Bell III"
+  venue: "IEEE Aerospace Conference 2021"
+  year: 2021
+  paper: "https://arxiv.org/abs/2103.12815"
+
+# ============================== 2020 ==============================
+
+- id: kerner2020comparison
+  title: "Comparison of Novelty Detection Methods for Multispectral Images in Rover-Based Planetary Exploration Missions"
+  authors: "Hannah R. Kerner, Kiri L. Wagstaff, Brian D. Bue, Danika F. Wellington, Samantha Jacob, Paige Horton, James F. Bell, Chiman Kwan, Heni Ben Amor"
+  venue: "Data Mining and Knowledge Discovery 2020"
+  year: 2020
+  paper: "https://doi.org/10.1007/s10618-020-00697-6"
+
+- id: kerner2020analysis
+  title: "Analysis of Active Neutron Measurements from the Mars Science Laboratory Dynamic Albedo of Neutrons Instrument"
+  authors: "Hannah R. Kerner, Craig Hardgrove, Sean Czarnecki, Travis S.J. Gabriel, Igor Mitrofanov, Maxim Litvak, Anton Sanin, Dmitry Lisov"
+  venue: "JGR: Planets 2020"
+  year: 2020
+  paper: "https://doi.org/10.1029/2019JE006264"
+
+- id: hosseini2020evaluating
+  title: "Evaluating the Impact of the 2020 Iowa Derecho on Corn and Soybean Fields Using Synthetic Aperture Radar"
+  authors: "Mehdi Hosseini, Hannah Kerner, Ritvik Sahajpal, Eduardo Puricelli, Yuan-Hsin Lu, Abdul Lawal, Michael L. Humber, Matthew Mitkish, Seth Meyer, Inbal Becker-Reshef"
+  venue: "Remote Sensing 2020"
+  year: 2020
+  paper: "https://www.mdpi.com/2072-4292/12/23/3878"
+
+- id: kerner2020resilient
+  title: "Resilient In-Season Crop Type Classification in Multispectral Satellite Observations Using Growth Stage Normalization"
+  authors: "Hannah R. Kerner, Ritvik Sahajpal, Sergii Skakun, Inbal Becker-Reshef, Brian Barker, Mehdi Hosseini"
+  venue: "KDD Workshop 2020"
+  year: 2020
+  paper: "https://arxiv.org/abs/2009.10189"
+
+- id: kerner2020rapid
+  title: "Rapid Response Crop Maps in Data Sparse Regions"
+  authors: "Hannah R. Kerner, Gabriel Tseng, Inbal Becker-Reshef, Brian Barker, Blake Munshell, Mahesh Paliyam, Mehdi Hosseini"
+  venue: "KDD Workshop 2020"
+  year: 2020
+  paper: "https://arxiv.org/abs/2006.16866"
+
+- id: kerner2020field
+  title: "Field-Level Crop Type Classification with k-Nearest Neighbors: A Baseline for a New Kenya Smallholder Dataset"
+  authors: "Hannah R. Kerner, Catherine Nakalembe, Inbal Becker-Reshef"
+  venue: "ICLR Workshop 2020"
+  year: 2020
+  paper: "https://arxiv.org/abs/2004.03023"
+
+- id: tseng2020annual
+  title: "Annual and In-Season Mapping of Cropland at Field Scale with Sparse Labels"
+  authors: "Gabriel Tseng, Hannah Kerner, Catherine Nakalembe, Inbal Becker-Reshef"
+  venue: "NeurIPS Tackling Climate Change with AI Workshop 2020"
+  year: 2020
+  paper: "https://www.climatechange.ai/papers/neurips2020/29/paper.pdf"
+
+- id: wagstaff2020novelty
+  title: "Novelty-Driven Onboard Targeting for Mars Rovers"
+  authors: "Kiri L. Wagstaff, Raymond Francis, Hannah Kerner, Steven Lu, Francis Nerrise"
+  venue: "i-SAIRAS 2020"
+  year: 2020
+  paper: "https://www.hou.usra.edu/meetings/isairas2020fullpapers/pdf/5056.pdf"
+
+- id: azari2020integrating
+  title: "Integrating Machine Learning for Planetary Science: Perspectives for the Next Decade"
+  authors: "Abigail R. Azari, John B. Biersteker, Ryan M. Dewey, Gary Doran, Eric Forsberg, Christian D.K. Harris, Hannah R. Kerner, Katherine A. Skinner, Ariel W. Smith"
+  venue: "NRC Decadal Survey White Paper 2020"
+  year: 2020
+  paper: "https://arxiv.org/pdf/2007.15129.pdf"
+
+# ============================== 2019 ==============================
+
+- id: kerner2019novelty
+  title: "Novelty Detection for Multispectral Images with Application to Planetary Exploration"
+  authors: "Hannah R. Kerner, Danika F. Wellington, Kiri L. Wagstaff, James F. Bell III, Chiman Kwan, Heni Ben Amor"
+  venue: "AAAI 2019"
+  year: 2019
+  award: "Oral"
+  paper: "https://doi.org/10.1609/aaai.v33i01.33019484"
+
+- id: kerner2019deep
+  title: "Deep Learning Methods Toward Generalized Change Detection on Planetary Surfaces"
+  authors: "Hannah R. Kerner, Kiri L. Wagstaff, Brian D. Bue, Peter Gray, James F. Bell III, Heni Ben Amor"
+  venue: "JSTARS 2019"
+  year: 2019
+  paper: "https://doi.org/10.1109/JSTARS.2019.2936771"
+
+# ============================== 2018 ==============================
+
+- id: kerner2018context
+  title: "Context-Dependent Image Quality Assessment of JPEG-Compressed Mars Science Laboratory Mastcam Images Using Convolutional Neural Networks"
+  authors: "Hannah R. Kerner, Heni Ben Amor, James F. Bell III"
+  venue: "Computers and Geosciences 2018"
+  year: 2018
+  paper: "https://doi.org/10.1016/j.cageo.2018.06.001"
+
+# ============================== 2017 ==============================
+
+- id: kwan2017demosaicing
+  title: "Demosaicing Enhancement Using Pixel-Level Fusion"
+  authors: "Chiman Kwan, Bence Chou, Liyun Kwan, Jude Larkin, Bulent Ayhan, James F. Bell III, Hannah R. Kerner"
+  venue: "Signal, Image and Video Processing 2017"
+  year: 2017
+  paper: "https://doi.org/10.1007/s11760-017-1216-2"

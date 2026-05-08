@@ -1,20 +1,16 @@
-# main links links
+# Top navigation. Update here once; appears on every page.
+# Anchor links (/#foo) work on the home page; on sub-pages they
+# navigate back to the home page and scroll to the section.
 main:
-
-  - title: "Publications"
-    url: /publications-v2/
-
+  - title: "Research"
+    url: "/#research"
+  - title: "Papers"
+    url: "/publications/"
+  - title: "Code & data"
+    url: "/#code"
+  - title: "Group"
+    url: "/group/"
   - title: "Teaching"
-    url: /teaching/
-
-  - title: "Talks"
-    url: /talks/
-
-  - title: "Research Group"
-    url: /research-group/
-
-  - title: "Resources"
-    url: /resources/
-        
-  - title: "Media"
-    url: /media/
+    url: "/#teaching"
+  - title: "Contact"
+    url: "/#contact"

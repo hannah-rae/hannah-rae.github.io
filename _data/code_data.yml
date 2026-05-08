@@ -1,0 +1,67 @@
+# Code, data, and tutorials shown in the "Code & data" section.
+#
+# For each model/dataset card the `repo` field is "owner/name".
+# JS hits https://api.github.com/repos/<repo> at page load and fills in
+# stars + forks counts. If the repo path is wrong you'll see "—".
+
+models:
+  - name: "galileo"
+    repo: "nasaharvest/galileo"
+    description: "Geospatial foundation model. Multi-modal, multi-scale, pretrained on 9 sensors."
+  - name: "presto"
+    repo: "nasaharvest/presto"
+    description: "Lightweight pretrained transformer for remote sensing time series."
+  - name: "olmoearth"
+    repo: "allenai/olmoearth_pretrain"
+    description: "Geospatial foundation model pretrained on multiple sensors and datasets. Led by Ai2."
+  - name: "prue"
+    repo: "fieldsoftheworld/ftw-prue"
+    description: "Pretrained model for agricultural field boundary extraction."
+  - name: "momo"
+    repo: "kerner-lab/MOMO"
+    description: "The first multi-sensor foundation model for Mars remote sensing."
+
+datasets:
+  - name: "fields-of-the-world"
+    repo: "fieldsoftheworld/ftw-baselines"
+    description: "Global field-boundary benchmark, pretrained models, web explorer, and CLI."
+  - name: "mars-bench"
+    repo: "kerner-lab/Mars-Bench"
+    description: "First benchmark for evaluating foundation models on Mars science tasks."
+  - name: "geo-bench"
+    repo: "ServiceNow/geo-bench"
+    description: "Benchmark for Earth remote sensing foundation models."
+  - name: "geo-bench-2"
+    repo: "The-AI-Alliance/GEO-Bench-2"
+    description: "Successor to Geo-Bench with broader task and domain coverage for Earth observation foundation models."
+  - name: "cropharvest"
+    repo: "nasaharvest/cropharvest"
+    description: "Global satellite dataset for crop type classification."
+
+tutorials:
+  - title: "Agriculture monitoring with Fields of The World"
+    meta: "NeurIPS 2025 · Climate Change AI workshop"
+    description: "Hands-on tutorial showing how to use FTW pretrained models and the FTW CLI to map agricultural field boundaries from Sentinel-2 imagery."
+    thumb_class: "ph-tut1"
+    thumb_image: "/images/tutorials/ftw-ccai-neurips2025.png"
+    links:
+      - { label: "colab",  url: "https://colab.research.google.com/github/fieldsoftheworld/neurips2025-ccai-tutorial/blob/main/1.0-agriculture-monitoring-with-ftw.ipynb" }
+      - { label: "repo",   url: "https://github.com/fieldsoftheworld/neurips2025-ccai-tutorial" }
+
+  - title: "Cropland Mapping using Geospatial Embeddings"
+    meta: "ICLR 2026 · ML for Remote Sensing workshop"
+    description: "Practical guide to using geospatial embeddings (Presto, AlphaEarth) for cropland classification, demonstrated in Togo. Shows how embeddings simplify ML workflows for land-cover mapping."
+    thumb_class: "ph-tut2"
+    thumb_image: "/images/tutorials/presto-togo.png"
+    links:
+      - { label: "paper", url: "https://arxiv.org/abs/2511.02923" }
+      - { label: "website", url: "https://nasaharvest.github.io/presto-embeddings" }
+
+  - title: "Fields of The World: A Field Guide for Extracting Agricultural Field Boundaries"
+    meta: "ICLR 2026 · ML for Remote Sensing workshop"
+    description: "A field guide for using the FTW ecosystem to extract agricultural field boundaries from satellite imagery — covering models, the CLI, and the web explorer."
+    thumb_class: "ph-tut3"
+    thumb_image: "/images/tutorials/ftw-ml4rs-iclr2026.png"
+    links:
+      - { label: "paper", url: "https://arxiv.org/abs/2602.08131" }
+      - { label: "repo", url: "https://github.com/fieldsoftheworld/iclr2026-ml4rs-tutorial" }

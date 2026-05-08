@@ -1,0 +1,9 @@
+# Roles displayed under the photo on the home page.
+- role: "Assistant Professor"
+  org: "ASU"
+- role: "AI Lead"
+  org: "NASA Harvest & NASA Acres"
+- role: "Research Advisor"
+  org: "Taylor Geospatial"
+- role: "Center Faculty"
+  org: "ASU GDCS"

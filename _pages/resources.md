@@ -1,7 +1,8 @@
 ---
+layout: page
 permalink: /resources/
 title: "Resources"
-author_profile: true
+lede: "Things I've compiled for students or others learning remote sensing, machine learning, etc., plus a few non-technical book recommendations."
 ---
 
 Here are some resources I've compiled for students or others looking to learn more about remote sensing, machine learning, etc.
