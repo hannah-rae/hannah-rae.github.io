@@ -13,12 +13,22 @@
 #   blurb     : 1–3 sentence summary (only used when featured: true)
 
 - featured: true
-  title: "Finding the fields of the world"
+  title: "12 million images later, Mars starts to make sense"
+  url: "https://news.engineering.asu.edu/2026/05/12-million-images-later-mars-starts-to-make-sense/"
+  source: "ASU News"
+  date: 2026-05-20
+  image: "https://news.engineering.asu.edu/wp-content/uploads/2026/05/SCAI_Mirali-Purohit-Mars-Option4-1920x1080-1.jpg"
+  blurb: "A new AI model from the Kerner Lab helps scientists analyze the Red Planet at a planetary scale."
+
+- title: "AI is watching for wildfires across the drought-stricken West"
+  url: "https://www.nprillinois.org/2026-05-21/ai-is-watching-for-wildfires-across-the-drought-stricken-west"
+  source: "NPR / WBUR"
+  date: 2026-05-21
+
+- title: "Finding the fields of the world"
   url: "https://news.asu.edu/20250508-science-and-technology-finding-fields-world"
   source: "ASU News"
   date: 2025-05-08
-  image: "https://news.asu.edu/sites/default/files/styles/block_image_16_9_lge/public/2025-05/SCAI_fields_of_world_map2_1920x1080.jpg?itok=gTSmj8kf"
-  blurb: "ASU News covers the lab's open-source AI ecosystem for mapping global agricultural field boundaries, built with NASA, Microsoft AI for Good, and the Taylor Geospatial Engine. The first global benchmark dataset, pretrained models, and a no-code web explorer are now in the hands of partners across four continents."
 
 - title: "Monitoring crops from space: how NASA Harvest tracks agriculture in conflict zones like Tigray, Ethiopia"
   url: "https://www.nasaharvest.org/news/monitoring-crops-from-space-how-nasa-harvest-tracks-agriculture-in-conflict-zones-like-tigray-ethiopia"
