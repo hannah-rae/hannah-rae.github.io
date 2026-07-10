@@ -1,4 +1,12 @@
 # Courses taught at ASU. Newest first.
+- term: "Fall 2026"
+  number: "CSE 475"
+  title: "Foundations of Machine Learning"
+
+- term: "Spring 2026"
+  number: "CSE 475"
+  title: "Foundations of Machine Learning"
+
 - term: "Spring 2025"
   number: "CSE 572"
   title: "Data Mining"

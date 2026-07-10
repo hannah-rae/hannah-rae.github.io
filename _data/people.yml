@@ -12,6 +12,9 @@ staff:
   - name: "Kelsey Doerksen"
     role: "Postdoctoral Researcher"
     url: "https://kelsdoerksen.github.io/"
+  - name: "Hunter Blevins"
+    role: "Data Scientist"
+    url: "https://www.hunterblevins.com/"
 
 phd:
   - { name: "Mirali Purohit",     url: "https://www.linkedin.com/in/mirali-purohit/" }

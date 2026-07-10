@@ -22,6 +22,9 @@ models:
     description: "The first multi-sensor foundation model for Mars remote sensing."
 
 datasets:
+  - name: "earthshift"
+    repo: "kerner-lab/earthshift"
+    description: "testbed for benchmarking robustness across multiple realistic distribution shifts encountered in remote sensing."
   - name: "fields-of-the-world"
     repo: "fieldsoftheworld/ftw-baselines"
     description: "Global field-boundary benchmark, pretrained models, web explorer, and CLI."
