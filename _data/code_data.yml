@@ -3,6 +3,8 @@
 # For each model/dataset card the `repo` field is "owner/name".
 # JS hits https://api.github.com/repos/<repo> at page load and fills in
 # stars + forks counts. If the repo path is wrong you'll see "—".
+# Datasets may also define `zenodo` with a Zenodo record URL or community URL.
+# JS fetches the current Zenodo downloads count for those cards.
 
 models:
   - name: "galileo"
@@ -30,6 +32,7 @@ datasets:
     description: "Global field-boundary benchmark, pretrained models, web explorer, and CLI."
   - name: "mars-bench"
     repo: "kerner-lab/Mars-Bench"
+    zenodo: "https://zenodo.org/communities/mars-bench/records?q=&l=list&p=1&s=10"
     description: "First benchmark for evaluating foundation models on Mars science tasks."
   - name: "geo-bench"
     repo: "ServiceNow/geo-bench"
@@ -39,6 +42,7 @@ datasets:
     description: "Successor to Geo-Bench with broader task and domain coverage for Earth observation foundation models."
   - name: "cropharvest"
     repo: "nasaharvest/cropharvest"
+    zenodo: "https://zenodo.org/records/10251170"
     description: "Global satellite dataset for crop type classification."
 
 tutorials:

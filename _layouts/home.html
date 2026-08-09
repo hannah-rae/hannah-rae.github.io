@@ -150,9 +150,13 @@
           <h3>{{ item.name }}</h3>
           <div class="desc">{{ item.description }}</div>
           <div class="stats">
-            <span><b class="stars">…</b> &#9733;</span>
-            <span><b class="forks">…</b> forks</span>
-            <a href="https://github.com/{{ item.repo }}" target="_blank" rel="noopener">github &uarr;</a>
+            <div class="stats-metrics">
+              <span><b class="stars">…</b> &#9733;</span>
+              <span><b class="forks">…</b> forks</span>
+            </div>
+            <div class="stats-links">
+              <a href="https://github.com/{{ item.repo }}" target="_blank" rel="noopener">github &uarr;</a>
+            </div>
           </div>
         </div>
       {% endfor %}
@@ -161,13 +165,23 @@
     <div class="subhead">Datasets &amp; benchmarks</div>
     <div class="grid">
       {% for item in site.data.code_data.datasets %}
-        <div class="card" data-repo="{{ item.repo }}">
+        <div class="card" data-repo="{{ item.repo }}"{% if item.zenodo %} data-zenodo="{{ item.zenodo }}"{% endif %}>
           <h3>{{ item.name }}</h3>
           <div class="desc">{{ item.description }}</div>
           <div class="stats">
-            <span><b class="stars">…</b> &#9733;</span>
-            <span><b class="forks">…</b> forks</span>
-            <a href="https://github.com/{{ item.repo }}" target="_blank" rel="noopener">github &uarr;</a>
+            <div class="stats-metrics">
+              <span><b class="stars">…</b> &#9733;</span>
+              <span><b class="forks">…</b> forks</span>
+              {% if item.zenodo %}
+                <span title="Zenodo downloads" aria-label="Zenodo downloads"><b class="zenodo-downloads">…</b> &#8681;</span>
+              {% endif %}
+            </div>
+            <div class="stats-links">
+              <a href="https://github.com/{{ item.repo }}" target="_blank" rel="noopener">github &uarr;</a>
+              {% if item.zenodo %}
+                <a href="{{ item.zenodo }}" target="_blank" rel="noopener">zenodo &uarr;</a>
+              {% endif %}
+            </div>
           </div>
         </div>
       {% endfor %}

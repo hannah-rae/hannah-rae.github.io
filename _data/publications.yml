@@ -65,7 +65,7 @@
 
 - id: klemmer2026earth
   title: "Earth Embeddings: Toward artificial intelligence-centric representations of our planet"
-  authors: "Konstantin Klemmer, Esther Rolf, Marc Ru{\ss}wurm, Gustau Camps-Valls, Mikolaj Czerkawski, Stefano Ermon, Alistair Francis, Nathan Jacobs, Hannah Kerner, Lester Mackey, et al."
+  authors: 'Konstantin Klemmer, Esther Rolf, Marc Ru{\ss}wurm, Gustau Camps-Valls, Mikolaj Czerkawski, Stefano Ermon, Alistair Francis, Nathan Jacobs, Hannah Kerner, Lester Mackey, et al.'
   venue: "IEEE Geoscience and Remote Sensing Magazine"
   year: 2026
   paper: "https://doi.org/10.1109/MGRS.2026.3710416"

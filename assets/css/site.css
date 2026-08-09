@@ -198,13 +198,32 @@ p  { margin: 0 0 16px; }
 .oss .card h3 { font-family: var(--font-mono); font-size: 14px; }
 .oss .card .desc { font-size: 14px; color: #2A2A30; margin: 6px 0 12px; flex: 1; }
 .oss .card .stats {
-  display: flex; gap: 14px; font-size: 12.5px; color: var(--muted);
+  display: flex; justify-content: space-between; gap: 12px; font-size: 12.5px; color: var(--muted);
   margin-top: auto; padding-top: 8px; border-top: 1px solid var(--line);
   font-variant-numeric: tabular-nums; align-items: center;
 }
+.oss .card .stats-metrics,
+.oss .card .stats-links {
+  display: flex; align-items: center; gap: 14px;
+}
+.oss .card .stats-metrics { white-space: nowrap; }
+.oss .card .stats-links {
+  justify-content: flex-end;
+  flex-shrink: 0;
+}
 .oss .card .stats b { color: var(--text); font-weight: 600; }
-.oss .card .stats a { color: var(--muted); border-bottom: 1px dotted var(--muted); margin-left: auto; font-family: var(--font-mono); }
+.oss .card .stats a { color: var(--muted); border-bottom: 1px dotted var(--muted); font-family: var(--font-mono); }
 .oss .card .stats a:hover { color: var(--accent-text); border-bottom-color: var(--accent-text); }
+@media (max-width: 980px) {
+  .oss .card .stats {
+    flex-direction: column;
+    align-items: flex-start;
+  }
+  .oss .card .stats-metrics,
+  .oss .card .stats-links {
+    flex-wrap: wrap;
+  }
+}
 
 .oss .tutcard {
   border: 1px solid var(--line); border-radius: 3px;
