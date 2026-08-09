@@ -13,7 +13,14 @@
 #   blurb     : 1–3 sentence summary (only used when featured: true)
 
 - featured: true
-  title: "ASU researcher’s AI work earns US nomination for international science prize"
+  title: "Building 'large Earth models' with Hannah Kerner"
+  url: "https://open.spotify.com/episode/0jdmG9QCCgNfJMsiX9mcjL?si=iWunOTD3TWmUEsGvft8s9Q"
+  source: "Lab Coat Optional"
+  date: 2026-05-27
+  image: "https://media.rss.com/lab-coat-optional/ep_cover_20260526_040549_32d7e16c395ab8a974440039e42528b1.png"
+  blurb: "Hannah Kerner explains how machine learning is turning decades of Earth observation data into tools."
+
+- title: "ASU researcher's AI work earns US nomination for international science prize"
   url: "https://news.asu.edu/b/20260707-asu-researchers-ai-work-earns-us-nomination-international-science-prize"
   source: "ASU News"
   date: 2026-07-07

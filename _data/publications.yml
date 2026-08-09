@@ -20,6 +20,56 @@
 
 # ============================== 2026 ==============================
 
+- id: adebayo2026optimizing
+  title: "Optimizing satellite-based cropland area estimation through integrated map accuracy assessment and stratified sampling design across six African countries"
+  authors: "Adebowale Daniel Adebayo, Catherine Nakalembe, Sergii Skakun, Diana Botchway Frimpong, Alana Ginsburg, Yash Hitesh Gadhiya, Monica Adjei, Hannah Kerner, Inbal Becker-Reshef"
+  venue: "International Journal of Applied Earth Observation and Geoinformation"
+  year: 2026
+  paper: "https://doi.org/10.1016/j.jag.2026.105223"
+
+- id: kaur2026pretrain
+  title: "Pretrain Where? Investigating How Pretraining Data Diversity Impacts Geospatial Foundation Model Performance"
+  authors: "Amandeep Kaur, Mirali Purohit, Gedeon Muhawenayo, Esther Rolf, Hannah Kerner"
+  venue: "CVPR 2026 Workshops"
+  year: 2026
+  paper: "https://arxiv.org/abs/2604.21104"
+
+- id: corley2026fields
+  title: "Fields of the Planet: Field Boundary Mapping Beyond 10m"
+  authors: "Isaac Corley, Caleb Robinson, Jennifer Marcus, Hannah Kerner"
+  venue: "Arxiv"
+  year: 2026
+  paper: "https://arxiv.org/abs/2607.04449"
+
+- id: doerksen2026earthshift
+  title: "EarthShift: a benchmark for measuring robustness to real-world distribution shifts in Earth observation"
+  authors: "Kelsey Doerksen, Hannah Kerner"
+  venue: "Arxiv"
+  year: 2026
+  paper: "https://arxiv.org/abs/2605.29330"
+  site: "https://earthshift.github.io/"
+
+- id: corley2026no
+  title: "No One Knows the State of the Art in Geospatial Foundation Models"
+  authors: "Isaac Corley, Nils Lehmann, Caleb Robinson, Gabriel Tseng, Anthony Fuller, Hamed Alemohammad, Evan Shelhamer, Jennifer Marcus, Hannah Kerner"
+  venue: "Arxiv"
+  year: 2026
+  paper: "https://arxiv.org/abs/2605.12678"
+
+- id: simumba2026geobench
+  title: "{GEO}-Bench-2: From Performance to Capability,  Rethinking Evaluation in Geospatial {AI}"
+  authors: "Naomi Simumba, Nils Lehmann, Paolo Fraccaro, Hamed Alemohammad, Geeth De Mel, Salman Khan, Manil Maskey, Nicolas Longépé, Xiao Xiang Zhu, Hannah Kerner, Juan Bernabe Moreno, Alexandre Lacoste"
+  venue: "Transactions on Machine Learning Research"
+  year: 2026
+  paper: "https://arxiv.org/abs/2511.15658"
+
+- id: klemmer2026earth
+  title: "Earth Embeddings: Toward artificial intelligence-centric representations of our planet"
+  authors: "Konstantin Klemmer, Esther Rolf, Marc Ru{\ss}wurm, Gustau Camps-Valls, Mikolaj Czerkawski, Stefano Ermon, Alistair Francis, Nathan Jacobs, Hannah Kerner, Lester Mackey, et al."
+  venue: "IEEE Geoscience and Remote Sensing Magazine"
+  year: 2026
+  paper: "https://doi.org/10.1109/MGRS.2026.3710416"
+
 - id: herzog2026olmoearth
   title: "OlmoEarth: Stable Latent Image Modeling for Multimodal Earth Observation"
   authors: "Henry Herzog, Favyen Bastani, Yawen Zhang, Gabriel Tseng, Joseph Redmon, Hadrien Sablon, Ryan Park, Jacob Morrison, et al."
@@ -64,6 +114,20 @@
   site: "https://bhanutokas.github.io/DPA_web/"
 
 # ============================== 2025 ==============================
+
+- id: nakalembe2025helmets
+  title: "Helmets labeling crops: Kenya crop type dataset created via helmet-mounted cameras and deep learning"
+  authors: "Catherine Nakalembe, Ivan Zvonkov, Hannah Kerner, Diana Botchway Frimpong, Kenneth Mwangi, Jane Kioko, Bhanu Tokas, Kartik Jawanjal, Iman Akhtar Smith, Anjali Paliyam, and others"
+  venue: "Scientific Data"
+  year: 2025
+  paper: "https://www.nature.com/articles/s41597-025-05762-7"
+
+- id: zhang2025remote
+  title: "Remote sensing for crop mapping: A perspective on current and future crop-specific land cover data products"
+  authors: "Chen Zhang, Hannah Kerner, Sherrie Wang, Pengyu Hao, Zhe Li, Kevin A. Hunt, Jonathon Abernethy, Haoteng Zhao, Feng Gao, Liping Di, et al."
+  venue: "Remote Sensing of Environment"
+  year: 2025
+  paper: "https://doi.org/10.1016/j.rse.2025.114995"
 
 - id: tseng2025galileo
   title: "Galileo: Learning Global and Local Features in Pretrained Remote Sensing Models"

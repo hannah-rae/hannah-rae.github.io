@@ -16,6 +16,24 @@
 #                   overrides thumb_class when present
 #   paper, code, site, data, bibtex : optional links
 
+- id: corley2026no
+  title: "No One Knows the State of the Art in Geospatial Foundation Models"
+  authors: "Isaac Corley, Nils Lehmann, Caleb Robinson, Gabriel Tseng, Anthony Fuller, Hamed Alemohammad, Evan Shelhamer, Jennifer Marcus, Hannah Kerner"
+  venue: "Arxiv"
+  thumb_class: "ph-default"
+  paper: "https://arxiv.org/abs/2605.12678"
+  bibtex: "/files/bibtex/corley2026no.bib"
+  thumb_image: "/images/papers/nooneknows.png"
+
+- id: kaur2026pretrain
+  title: "Pretrain Where? Investigating How Pretraining Data Diversity Impacts Geospatial Foundation Model Performance"
+  authors: "Amandeep Kaur, Mirali Purohit, Gedeon Muhawenayo, Esther Rolf, Hannah Kerner"
+  venue: "CVPR 2026 Workshops"
+  thumb_class: "ph-default"
+  paper: "https://arxiv.org/abs/2604.21104"
+  bibtex: "/files/bibtex/kaur2026pretrain.bib"
+  thumb_image: "/images/papers/pretrainwhere.png"
+
 - id: "olmoearth"
   title: "OlmoEarth: Stable Latent Image Modeling for Multimodal Earth Observation"
   authors: "Henry Herzog, Favyen Bastani, Yawen Zhang, Gabriel Tseng, Joseph Redmon, Hadrien Sablon, Ryan Park, Jacob Morrison, et al."
