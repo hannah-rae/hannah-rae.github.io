@@ -2,10 +2,9 @@
  "state": "building",
  "running": [
   "hr_2024",
-  "ie_2022",
-  "si_2019"
+  "ie_2022"
  ],
  "batch_tail": "batch-04.log: ",
- "checked_at": "2026-11-04 10:48 UTC",
- "synced_at": "2026-11-04 10:48 UTC"
+ "checked_at": "2026-11-04 11:18 UTC",
+ "synced_at": "2026-11-04 11:18 UTC"
 }
