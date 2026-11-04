@@ -1,7 +1,7 @@
 {
  "state": "running checks",
  "running": [],
- "batch_tail": "batch-03.log: built: a\nfailed: b (see tracking.csv issues and logs/)\nmetadata pass: a, b\nbuilt: none\nfailed: a, b (see tracking.csv issues and logs/)\nthe batch's gates failed; fix before uploading",
- "checked_at": "2026-11-04 02:15 UTC",
- "synced_at": "2026-11-04 02:15 UTC"
+ "batch_tail": "batch-03.log: ",
+ "checked_at": "2026-11-04 02:16 UTC",
+ "synced_at": "2026-11-04 02:16 UTC"
 }
