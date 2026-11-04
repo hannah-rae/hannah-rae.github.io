@@ -1,11 +1,11 @@
 {
  "state": "building",
  "running": [
-  "be_wal_2022",
+  "ee_2024",
   "ie_2022",
   "si_2019"
  ],
  "batch_tail": "batch-04.log: metadata pass: si_2019, ch_zg_2025, ie_2022, be_wal_2022, ee_2024, hr_2024\nfailed: si_2019, ch_zg_2025, ie_2022, be_wal_2022, ee_2024, hr_2024 (see tracking.csv issues and logs/)\nMETADATA EXIT 1",
- "checked_at": "2026-11-04 18:50 UTC",
- "synced_at": "2026-11-04 18:50 UTC"
+ "checked_at": "2026-11-04 19:05 UTC",
+ "synced_at": "2026-11-04 19:05 UTC"
 }
