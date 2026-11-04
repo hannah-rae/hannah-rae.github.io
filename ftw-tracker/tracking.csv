@@ -97,7 +97,7 @@ lv_2023,lv,,2023,Latvia,blocked,scenes,latvia_filter.yaml,,,,Blocked: no complet
 lv_2024,lv,,2024,Latvia,include,scenes+mosaics,latvia_filter.yaml,Yes,Yes,,,,,,,
 lv_2025,lv,,2025,Latvia,include,scenes+mosaics,latvia_filter.yaml,,,,,,,,,
 lv_2026,lv,,2026,Latvia,blocked,scenes,latvia_filter.yaml,Yes,Yes,,Might need to be careful about valid years/dates; Blocked: no 2026 quarterly mosaics yet,,,,,no source
-ec_lt_2021,ec_lt,,2021,Lithuania,include,scenes+mosaics,lithuania_filter.yaml,Yes,Coarse,,,,,,,"build --from select_images failed, see logs/ec_lt_2021.log"
+ec_lt_2021,ec_lt,,2021,Lithuania,include,scenes+mosaics,lithuania_filter.yaml,Yes,Coarse,,,2026-11-04,,,50a2428b,
 lt_2024,lt,,2024,Lithuania,include,scenes+mosaics,lithuania_filter.yaml,Yes,Coarse,,,,,,,
 lt_2025,lt,,2025,Lithuania,include,scenes+mosaics,lithuania_filter.yaml,,,,,,,,,
 lu_2026,lu,,2026,Luxembourg,blocked,scenes,none,No,No,,Might need to be careful about valid years/dates; Blocked: no 2026 quarterly mosaics yet,,,,,
@@ -178,7 +178,7 @@ es_ga_2023,es_ga,,2023,Spain-GA,blocked,scenes,es_uso_filter.yaml,Yes,Yes,,Block
 es_ga_2024,es_ga,,2024,Spain-GA,include,scenes+mosaics,es_uso_filter.yaml,Yes,Yes,,,,,,,
 es_ga_2025,es_ga,,2025,Spain-GA,include,scenes+mosaics,es_uso_filter.yaml,Yes,Yes,,,,,,,
 es_ga_2026,es_ga,,2026,Spain-GA,blocked,scenes,es_uso_filter.yaml,Yes,Yes,,Blocked: no 2026 quarterly mosaics yet,,,,,
-es_ib_2024,es_ib,,2024,Spain-IB,include,scenes+mosaics,es_uso_filter.yaml,Yes,Yes,,,,,,,"build --from select_images failed, see logs/es_ib_2024.log"
+es_ib_2024,es_ib,,2024,Spain-IB,include,scenes+mosaics,es_uso_filter.yaml,Yes,Yes,,,2026-11-04,,,50a2428b,
 es_md_2026,es_md,,2026,Spain-MD,blocked,scenes,es_uso_filter.yaml,Yes,Yes,,Blocked: no 2026 quarterly mosaics yet,,,,,
 es_pv_2025,es_pv,,2025,Spain-PV,include,scenes+mosaics,es_uso_filter.yaml,Yes,Yes,,,,,,,
 es_vc_2024,es_vc,,2024,Spain-VC,include,scenes+mosaics,es_uso_filter.yaml,Yes,Yes,,,,,,,
