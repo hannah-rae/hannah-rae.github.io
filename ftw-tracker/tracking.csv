@@ -66,7 +66,7 @@ fi_2023,fi,,2023,Finland,blocked,scenes,finland_filter.yaml,Yes,Yes,,Blocked: no
 fi_2024,fi,,2024,Finland,include,scenes+mosaics,finland_filter.yaml,,,,,,,,,
 fi_2025,fi,,2025,Finland,include,scenes+mosaics,finland_filter.yaml,,,,,,,,,
 fr_2017,fr,,2017,France,blocked,scenes,france_filter.yaml,Yes,Yes,,Blocked: no 2017 quarterly mosaics (mirror covers 2018-2022 and 2024-2025),,,,,
-ec_fr_2018,ec_fr,,2018,France,include,scenes+mosaics,,Yes,Yes,,,,,,,no source
+fr_2018,fr,,2018,France,include,scenes+mosaics,france_filter.yaml,Yes,Yes,,,,,,,
 fr_2019,fr,,2019,France,include,scenes+mosaics,france_filter.yaml,Yes,Yes,,,,,,,
 fr_2020,fr,,2020,France,include,scenes+mosaics,france_filter.yaml,Yes,Yes,,,,,,,
 fr_2021,fr,,2021,France,include,scenes+mosaics,france_filter.yaml,Yes,Yes,,,,,,,
