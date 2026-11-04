@@ -119,7 +119,7 @@ nl_2023,nl,,2023,Netherlands,blocked,scenes,netherlands_filter.yaml,Yes,Yes,,Blo
 nl_2024,nl,,2024,Netherlands,include,scenes+mosaics,netherlands_filter.yaml,Yes,Yes,,,,,,,
 nl_2025,nl,,2025,Netherlands,include,scenes+mosaics,netherlands_filter.yaml,Yes,Yes,,,,,,,
 nl_2026,nl,,2026,Netherlands,blocked,scenes,netherlands_filter.yaml,Yes,Yes,,Blocked: no 2026 quarterly mosaics yet,,,,,
-pt_2017,pt,,2017,Portugal,blocked,scenes,portugal_filter.yaml,Yes,Yes,,https://github.com/fieldsoftheworld/harmonized-field-data-catalog/issues/8; Blocked: no 2017 quarterly mosaics (mirror covers 2018-2022 and 2024-2025),,,,,
+pt_2017,pt,,2017,Portugal,blocked,scenes,portugal_filter.yaml,Yes,Yes,,Blocked: no 2017 quarterly mosaics (mirror covers 2018-2022 and 2024-2025),,,,,
 pt_2018,pt,,2018,Portugal,include,scenes+mosaics,portugal_filter.yaml,Yes,Yes,,,,,,,
 pt_2019,pt,,2019,Portugal,include,scenes+mosaics,portugal_filter.yaml,Yes,Yes,,,,,,,
 pt_2020,pt,,2020,Portugal,include,scenes+mosaics,portugal_filter.yaml,Yes,Yes,,,,,,,
