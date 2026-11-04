@@ -1,0 +1,196 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="robots" content="noindex">
+<title>FTW Benchmark Tracker</title>
+<style>
+  :root {
+    --bg: #f7f7f5; --card: #ffffff; --text: #1d1d1b; --muted: #6b6b66; --line: #e3e3de;
+    --published: #1f7a4d; --ready: #2f6fb3; --imagery: #8a5bc4; --waiting: #9a9a93;
+    --failed: #c2412d; --blocked: #b7791f; --other: #c4c4bd;
+  }
+  @media (prefers-color-scheme: dark) {
+    :root {
+      --bg: #161615; --card: #1f1f1e; --text: #ececea; --muted: #a2a29c; --line: #33332f;
+      --published: #4cb782; --ready: #6aa5e6; --imagery: #b18be6; --waiting: #7d7d77;
+      --failed: #ec6e58; --blocked: #e0a849; --other: #55554f;
+    }
+  }
+  * { box-sizing: border-box; }
+  body { margin: 0; background: var(--bg); color: var(--text);
+    font: 15px/1.45 -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif; }
+  main { max-width: 1100px; margin: 0 auto; padding: 24px 16px 48px; }
+  h1 { font-size: 22px; margin: 0 0 4px; }
+  .sub { color: var(--muted); font-size: 13px; margin-bottom: 20px; }
+  .card { background: var(--card); border: 1px solid var(--line); border-radius: 10px; padding: 16px; margin-bottom: 16px; }
+  .tiles { display: grid; grid-template-columns: repeat(auto-fit, minmax(130px, 1fr)); gap: 10px; }
+  .tile { border-left: 4px solid var(--c); padding: 4px 10px; cursor: pointer; border-radius: 2px; }
+  .tile.active { background: color-mix(in srgb, var(--c) 14%, transparent); }
+  .tile .n { font-size: 24px; font-weight: 600; font-variant-numeric: tabular-nums; }
+  .tile .l { font-size: 12px; color: var(--muted); }
+  .bar { display: flex; height: 12px; border-radius: 6px; overflow: hidden; margin-top: 14px; background: var(--line); }
+  .bar span { display: block; height: 100%; background: var(--c); }
+  .builder { font-size: 14px; }
+  .builder b { font-weight: 600; }
+  .builder pre { margin: 8px 0 0; white-space: pre-wrap; font-size: 12px; color: var(--muted); }
+  .controls { display: flex; flex-wrap: wrap; gap: 8px; margin-bottom: 10px; }
+  input, select { font: inherit; padding: 6px 8px; border: 1px solid var(--line); border-radius: 6px;
+    background: var(--card); color: var(--text); }
+  input { flex: 1 1 200px; }
+  .tablewrap { overflow-x: auto; }
+  table { width: 100%; border-collapse: collapse; font-size: 13px; }
+  th, td { text-align: left; padding: 6px 8px; border-bottom: 1px solid var(--line); vertical-align: top; }
+  th { color: var(--muted); font-weight: 500; position: sticky; top: 0; background: var(--card); }
+  td.id { font-family: ui-monospace, SFMono-Regular, Menlo, monospace; white-space: nowrap; }
+  .pill { display: inline-block; padding: 1px 8px; border-radius: 999px; font-size: 12px; white-space: nowrap;
+    color: var(--c); background: color-mix(in srgb, var(--c) 15%, transparent); }
+  .note { color: var(--muted); max-width: 380px; }
+  .regions { display: grid; grid-template-columns: repeat(auto-fill, minmax(220px, 1fr)); gap: 8px 16px; font-size: 13px; }
+  .region .name { display: flex; justify-content: space-between; }
+  .region .bar { height: 8px; margin-top: 3px; }
+  a { color: var(--ready); }
+</style>
+</head>
+<body>
+<main>
+  <h1>FTW Benchmark Tracker</h1>
+  <div class="sub" id="sub">Loading…</div>
+
+  <div class="card">
+    <div class="tiles" id="tiles"></div>
+    <div class="bar" id="bar"></div>
+  </div>
+
+  <div class="card builder" id="builder" hidden></div>
+
+  <div class="card">
+    <div class="regions" id="regions"></div>
+  </div>
+
+  <div class="card">
+    <div class="controls">
+      <input id="q" type="search" placeholder="Search id, region, notes…">
+      <select id="stage"><option value="">All stages</option></select>
+    </div>
+    <div class="tablewrap"><table>
+      <thead><tr><th>Dataset</th><th>Region</th><th>Year</th><th>Stage</th><th>Filter</th><th>Built</th><th>Imagery</th><th>Published</th><th>Notes / issues</th></tr></thead>
+      <tbody id="rows"></tbody>
+    </table></div>
+  </div>
+</main>
+<script>
+const STAGES = [
+  ["published", "Published", "--published"],
+  ["ready", "Ready to upload", "--ready"],
+  ["imagery", "Imagery pending", "--imagery"],
+  ["waiting", "Waiting", "--waiting"],
+  ["failed", "Failed", "--failed"],
+  ["blocked", "Blocked", "--blocked"],
+  ["discuss", "Discuss", "--blocked"],
+  ["skip-no-imagery", "No imagery", "--other"],
+  ["exclude", "Excluded", "--other"],
+];
+const LABEL = Object.fromEntries(STAGES.map(s => [s[0], s[1]]));
+const COLOR = Object.fromEntries(STAGES.map(s => [s[0], `var(${s[2]})`]));
+
+function stage(r) {
+  if (r.status !== "include") return r.status;
+  if (r.published) return "published";
+  if (r.issues) return "failed";
+  if (r.imagery_done) return "ready";
+  if (r.built) return "imagery";
+  return "waiting";
+}
+
+function parseCSV(text) {
+  const rows = []; let row = [], field = "", q = false;
+  for (let i = 0; i < text.length; i++) {
+    const c = text[i];
+    if (q) {
+      if (c === '"' && text[i + 1] === '"') { field += '"'; i++; }
+      else if (c === '"') q = false;
+      else field += c;
+    } else if (c === '"') q = true;
+    else if (c === ",") { row.push(field); field = ""; }
+    else if (c === "\n") { row.push(field); rows.push(row); row = []; field = ""; }
+    else if (c !== "\r") field += c;
+  }
+  if (field || row.length) { row.push(field); rows.push(row); }
+  const [head, ...body] = rows;
+  return body.filter(r => r.length > 1).map(r => Object.fromEntries(head.map((h, i) => [h, r[i] || ""])));
+}
+
+const esc = s => String(s).replace(/[&<>"]/g, c => ({"&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;"}[c]));
+const pill = s => `<span class="pill" style="--c:${COLOR[s] || "var(--other)"}">${esc(LABEL[s] || s)}</span>`;
+let data = [], active = "";
+
+function render() {
+  const q = document.getElementById("q").value.toLowerCase();
+  const st = active || document.getElementById("stage").value;
+  const shown = data.filter(r => (!st || r._stage === st) &&
+    (!q || Object.values(r).join(" ").toLowerCase().includes(q)));
+  document.getElementById("rows").innerHTML = shown.map(r => `<tr>
+    <td class="id">${esc(r.dataset_id)}</td><td>${esc(r.region)}</td><td>${esc(r.year)}</td>
+    <td>${pill(r._stage)}</td><td>${esc(r.filter.replace(/\.yaml$/, ""))}</td>
+    <td>${esc(r.built)}</td><td>${esc(r.imagery_done)}</td><td>${esc(r.published)}</td>
+    <td class="note">${esc([r.issues, r.notes].filter(Boolean).join(" · "))}</td></tr>`).join("");
+}
+
+function summary() {
+  const counts = {};
+  data.forEach(r => counts[r._stage] = (counts[r._stage] || 0) + 1);
+  const present = STAGES.filter(s => counts[s[0]]);
+  document.getElementById("tiles").innerHTML = present.map(([k, l, c]) =>
+    `<div class="tile${active === k ? " active" : ""}" data-k="${k}" style="--c:var(${c})">
+      <div class="n">${counts[k]}</div><div class="l">${l}</div></div>`).join("");
+  document.getElementById("bar").innerHTML = present.map(([k, , c]) =>
+    `<span title="${LABEL[k]}: ${counts[k]}" style="--c:var(${c});width:${100 * counts[k] / data.length}%"></span>`).join("");
+  document.querySelectorAll(".tile").forEach(t => t.onclick = () => {
+    active = active === t.dataset.k ? "" : t.dataset.k; summary(); render();
+  });
+
+  const byRegion = {};
+  data.filter(r => r.status === "include").forEach(r => (byRegion[r.region] ||= []).push(r._stage));
+  const order = ["published", "ready", "imagery", "failed", "waiting"];
+  document.getElementById("regions").innerHTML = Object.entries(byRegion)
+    .sort((a, b) => a[0].localeCompare(b[0])).map(([region, ss]) => {
+      const done = ss.filter(s => s === "published").length;
+      const segs = order.map(k => [k, ss.filter(s => s === k).length]).filter(([, n]) => n);
+      return `<div class="region"><div class="name"><span>${esc(region)}</span><span>${done}/${ss.length}</span></div>
+        <div class="bar">${segs.map(([k, n]) => `<span style="--c:${COLOR[k]};width:${100 * n / ss.length}%" title="${LABEL[k]}: ${n}"></span>`).join("")}</div></div>`;
+    }).join("");
+}
+
+function builder(s) {
+  if (!s) return;
+  const el = document.getElementById("builder");
+  el.hidden = false;
+  const running = s.running && s.running.length ? s.running.join(", ") : "nothing";
+  el.innerHTML = `<b>Builder</b> (as of ${esc(s.checked_at)}): ${esc(s.state)} · running: ${esc(running)}` +
+    (s.batch_tail ? `<pre>${esc(s.batch_tail)}</pre>` : "");
+}
+
+async function load() {
+  const bust = `?t=${Date.now()}`;
+  const [csv, status] = await Promise.all([
+    fetch("tracking.csv" + bust).then(r => r.text()),
+    fetch("status.json" + bust).then(r => r.ok ? r.json() : null).catch(() => null),
+  ]);
+  data = parseCSV(csv).map(r => ({...r, _stage: stage(r)}));
+  const sel = document.getElementById("stage");
+  if (sel.options.length === 1) STAGES.forEach(([k, l]) => sel.add(new Option(l, k)));
+  document.getElementById("sub").textContent =
+    `${data.length} region-years · tracker synced ${status ? status.synced_at : "(unknown)"} · refreshes every 5 min`;
+  builder(status);
+  summary(); render();
+}
+
+document.getElementById("q").oninput = render;
+document.getElementById("stage").onchange = () => { active = ""; summary(); render(); };
+load();
+setInterval(load, 5 * 60 * 1000);
+</script>
+</body>
+</html>
