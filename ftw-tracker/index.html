@@ -75,7 +75,7 @@
       <select id="stage"><option value="">All stages</option></select>
     </div>
     <div class="tablewrap"><table>
-      <thead><tr><th>Dataset</th><th>Region</th><th>Year</th><th>Stage</th><th>Filter</th><th>Built</th><th>Imagery</th><th>Published</th><th>Notes / issues</th></tr></thead>
+      <thead><tr><th>Dataset</th><th>Region</th><th>Year</th><th>Crop type</th><th>Stage</th><th>Filter</th><th>Built</th><th>Imagery</th><th>Published</th><th>Notes / issues</th></tr></thead>
       <tbody id="rows"></tbody>
     </table></div>
   </div>
@@ -133,7 +133,7 @@ function render() {
     (!q || Object.values(r).join(" ").toLowerCase().includes(q)));
   document.getElementById("rows").innerHTML = shown.map(r => `<tr>
     <td class="id">${esc(r.dataset_id)}</td><td>${esc(r.region)}</td><td>${esc(r.year)}</td>
-    <td>${pill(r._stage)}</td><td>${esc(r.filter.replace(/\.yaml$/, ""))}</td>
+    <td class="${r.crop_type === "Yes" ? "" : "note"}">${esc(r.crop_type || "—")}</td><td>${pill(r._stage)}</td><td>${esc(r.filter.replace(/\.yaml$/, ""))}</td>
     <td>${esc(r.built)}</td><td>${esc(r.imagery_done)}</td><td>${esc(r.published)}</td>
     <td class="note">${esc([r.issues, r.notes].filter(Boolean).join(" · "))}</td></tr>`).join("");
 }
