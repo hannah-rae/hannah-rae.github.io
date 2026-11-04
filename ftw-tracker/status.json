@@ -1,7 +1,11 @@
 {
- "state": "running checks",
- "running": [],
- "batch_tail": "batch-03.log: metadata pass: es_ib_2024, ec_lt_2021\nbuilt: es_ib_2024, ec_lt_2021\nMETADATA EXIT 0",
- "checked_at": "2026-11-04 04:47 UTC",
- "synced_at": "2026-11-04 04:47 UTC"
+ "state": "building",
+ "running": [
+  "be_wal_2022",
+  "ie_2022",
+  "si_2019"
+ ],
+ "batch_tail": "batch-04.log: ",
+ "checked_at": "2026-11-04 07:32 UTC",
+ "synced_at": "2026-11-04 07:32 UTC"
 }
