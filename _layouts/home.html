@@ -113,9 +113,10 @@
 <section id="papers" class="papers" style="background: var(--surface); border-top:1px solid var(--line); border-bottom:1px solid var(--line);">
   <div class="inner">
     <div class="eyebrow">Selected papers</div>
-    <h2>Recent work. <span style="font-weight: 400; color: var(--muted); font-size: 14px;">See <a href="{{ '/publications/' | relative_url }}">all publications</a> or <a href="{{ site.author.googlescholar }}">Google Scholar</a> for the full list.</span></h2>
+    <h2>Recent work. <span style="font-weight: 400; color: var(--muted); font-size: 14px;">See <a href="{{ '/publications/' | relative_url }}">all publications</a>.</span></h2>
     <ol>
-      {% for paper in site.data.selected_papers %}
+      {% assign recent_papers = site.data.publications | where: "recent", true %}
+      {% for paper in recent_papers %}
         <li>
           <div class="thumb {{ paper.thumb_class | default: 'ph-default' }}"
                {% if paper.thumb_image %} style="background-image:url('{{ paper.thumb_image | relative_url }}');"{% endif %}
