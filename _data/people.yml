@@ -6,9 +6,6 @@
 # into the `alumni` section below and add a "now" field.
 
 staff:
-  - name: "Ana M. Tárano"
-    role: "Assistant Research Professor"
-    url: "https://anatarano.github.io/"
   - name: "Savannah Ferretti"
     role: "Postdoctoral Researcher"
     url: "https://savannahferretti.github.io/"
@@ -18,6 +15,12 @@ staff:
   - name: "Hunter Blevins"
     role: "Data Scientist"
     url: "https://www.hunterblevins.com/"
+  - name: "Katie Roehrick"
+    role: "Program Manager"
+    url: "https://search.asu.edu/profile/5845016"
+  - name: "Ana M. Tárano"
+    role: "Assistant Research Professor"
+    url: "https://anatarano.github.io/"
 
 phd:
   - { name: "Mirali Purohit",     url: "https://www.linkedin.com/in/mirali-purohit/" }
