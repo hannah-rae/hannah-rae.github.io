@@ -9,6 +9,9 @@ staff:
   - name: "Ana M. Tárano"
     role: "Assistant Research Professor"
     url: "https://anatarano.github.io/"
+  - name: "Savannah Ferretti"
+    role: "Postdoctoral Researcher"
+    url: "https://savannahferretti.github.io/"
   - name: "Kelsey Doerksen"
     role: "Postdoctoral Researcher"
     url: "https://kelsdoerksen.github.io/"
@@ -26,13 +29,14 @@ phd:
   - { name: "Sarah Peterson",     url: "https://www.linkedin.com/in/sarah-peterson-2022/" }
 
 masters:
-  - { name: "Benjamin Herrera", url: "https://benherrera.dev/" }
+  - { name: "Rockwell Jackson", url: "https://www.linkedin.com/in/rockwell-jackson/" }
 
 undergrad:
-  - { name: "Rockwell Jackson", url: "https://www.linkedin.com/in/rockwell-jackson/" }
+  - { name: "Anabel Bedlan", url: "https://www.linkedin.com/in/anabel-bedlan" }
 
 # Alumni: when someone leaves, move them here and add a "now" field.
 # This list is empty for now — fill in when you have the right info.
 alumni: [
-  { name: "Gabriel Tseng", role: "PhD student", now: "Research Scientist at Ai2", url: "https://gabrieltseng.github.io/" }
+  { name: "Gabriel Tseng", role: "PhD student", now: "Research Scientist at Ai2", url: "https://gabrieltseng.github.io/" },
+  { name: "Benjamin Herrera", role: "MS student", now: "PhD Student at CU Boulder", url: "https://benherrera.dev/" }
 ]
