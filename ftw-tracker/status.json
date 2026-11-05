@@ -1,7 +1,7 @@
 {
  "state": "running checks",
  "running": [],
- "batch_tail": "batch-04.log: metadata pass: si_2019, ch_zg_2025, ie_2022, be_wal_2022, ee_2024, hr_2024\nfailed: si_2019, ch_zg_2025, ie_2022, be_wal_2022, ee_2024, hr_2024 (see tracking.csv issues and logs/)\nMETADATA EXIT 1",
- "checked_at": "2026-11-04 21:35 UTC",
- "synced_at": "2026-11-04 21:35 UTC"
+ "batch_tail": "batch-04-retry.log: ",
+ "checked_at": "2026-11-05 00:06 UTC",
+ "synced_at": "2026-11-05 00:06 UTC"
 }

@@ -16,7 +16,7 @@ be_vlg_2023,be_vlg,,2023,Belgium-Flanders,blocked,scenes,be-flanders_filter.yaml
 be_vlg_2024,be_vlg,,2024,Belgium-Flanders,include,scenes+mosaics,be-flanders_filter.yaml,Yes,Yes,,,,,,,
 be_vlg_2025,be_vlg,,2025,Belgium-Flanders,include,scenes+mosaics,be-flanders_filter.yaml,Yes,Yes,,,,,,,
 be_vlg_2026,be_vlg,,2026,Belgium-Flanders,blocked,scenes,be-flanders_filter.yaml,Yes,Yes,,Blocked: no 2026 quarterly mosaics yet,,,,,
-be_wal_2022,be_wal,,2022,Belgium-Wallonia,include,mosaics,be-wallonia_filter.yaml,Yes,Yes,,,2026-11-02,2026-11-03,2026-11-02,877135b5,the batch's gates failed (tests/run_all.py)
+be_wal_2022,be_wal,,2022,Belgium-Wallonia,include,mosaics,be-wallonia_filter.yaml,Yes,Yes,,,2026-11-02,2026-11-03,2026-11-02,877135b5,"build --from select_images failed, see logs/be_wal_2022.log"
 hr_2011,hr,,2011,Croatia,skip-no-imagery,none,croatia_filter.yaml,Yes,No,,"They are kind of weird, only 20 classes. Some are unclear so would appreciate a second look.",,,,,
 hr_2012,hr,,2012,Croatia,skip-no-imagery,none,croatia_filter.yaml,Yes,No,,,,,,,
 hr_2013,hr,,2013,Croatia,skip-no-imagery,none,croatia_filter.yaml,Yes,No,,,,,,,
@@ -136,7 +136,7 @@ sk_2023,sk,,2023,Slovakia,blocked,scenes,slovakia_filter.yaml,Yes,Yes,,Blocked: 
 sk_2024,sk,,2024,Slovakia,include,scenes+mosaics,slovakia_filter.yaml,Yes,Yes,,,,,,,
 sk_2025,sk,,2025,Slovakia,include,scenes+mosaics,slovakia_filter.yaml,Yes,Yes,,,,,,,
 sk_2026,sk,,2026,Slovakia,blocked,scenes,slovakia_filter.yaml,Yes,Yes,,Blocked: no 2026 quarterly mosaics yet,,,,,
-si_2019,si,,2019,Slovenia,include,scenes+mosaics,slovenia_filter.yaml,Yes,Yes,,,2026-11-03,,,6ed9cf28,the batch's gates failed (tests/run_all.py)
+si_2019,si,,2019,Slovenia,include,scenes+mosaics,slovenia_filter.yaml,Yes,Yes,,,2026-11-03,,,6ed9cf28,"build --from select_images failed, see logs/si_2019.log"
 si_2020,si,,2020,Slovenia,include,scenes+mosaics,slovenia_filter.yaml,Yes,Yes,,,,,,,
 si_2021,si,,2021,Slovenia,include,scenes+mosaics,slovenia_filter.yaml,Yes,Yes,,,,,,,
 si_2022,si,,2022,Slovenia,include,scenes+mosaics,slovenia_filter.yaml,Yes,Yes,,,,,,,
