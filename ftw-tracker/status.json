@@ -1,10 +1,9 @@
 {
  "state": "building",
  "running": [
-  "at_2021",
   "at_2022"
  ],
  "batch_tail": "batch-05.log: ",
- "checked_at": "2026-11-05 17:39 UTC",
- "synced_at": "2026-11-05 17:39 UTC"
+ "checked_at": "2026-11-06 03:40 UTC",
+ "synced_at": "2026-11-06 03:40 UTC"
 }
