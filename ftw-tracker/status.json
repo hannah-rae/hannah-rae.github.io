@@ -1,11 +1,10 @@
 {
  "state": "building",
  "running": [
-  "at_2018",
-  "at_2019",
-  "at_2020"
+  "at_2021",
+  "at_2022"
  ],
  "batch_tail": "batch-05.log: metadata pass: at_2018, at_2019, at_2020, at_2021, at_2022\nfailed: at_2018, at_2019, at_2020, at_2021, at_2022 (see tracking.csv issues and logs/)\nMETADATA EXIT 1",
- "checked_at": "2026-11-06 07:41 UTC",
- "synced_at": "2026-11-06 07:41 UTC"
+ "checked_at": "2026-11-06 09:11 UTC",
+ "synced_at": "2026-11-06 09:11 UTC"
 }
