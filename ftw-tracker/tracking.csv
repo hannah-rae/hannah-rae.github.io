@@ -1,9 +1,9 @@
 dataset_id,harmonized_id,source_stem,year,region,status,imagery,filter,wall_to_wall,crop_type,license,notes,built,published,imagery_done,ftwd_commit,issues
-at_2018,at,,2018,Austria,include,scenes+mosaics,austria_filter.yaml,Yes,Yes,,,2026-11-03,2026-11-04,2026-11-03,6ed9cf28,
-at_2019,at,,2019,Austria,include,scenes+mosaics,austria_filter.yaml,Yes,Yes,,,2026-11-03,2026-11-04,2026-11-03,6ed9cf28,
-at_2020,at,,2020,Austria,include,scenes+mosaics,austria_filter.yaml,Yes,Yes,,,2026-11-03,2026-11-04,2026-11-03,6ed9cf28,
-at_2021,at,,2021,Austria,include,scenes+mosaics,austria_filter.yaml,Yes,Yes,,,2026-11-03,2026-11-04,2026-11-03,6ed9cf28,
-at_2022,at,,2022,Austria,include,scenes+mosaics,austria_filter.yaml,Yes,Yes,,,2026-11-03,2026-11-04,2026-11-03,6ed9cf28,
+at_2018,at,,2018,Austria,include,scenes+mosaics,austria_filter.yaml,Yes,Yes,,,2026-11-03,2026-11-04,2026-11-03,6ed9cf28,the batch's gates failed (tests/run_all.py)
+at_2019,at,,2019,Austria,include,scenes+mosaics,austria_filter.yaml,Yes,Yes,,,2026-11-03,2026-11-04,2026-11-03,6ed9cf28,the batch's gates failed (tests/run_all.py)
+at_2020,at,,2020,Austria,include,scenes+mosaics,austria_filter.yaml,Yes,Yes,,,2026-11-03,2026-11-04,2026-11-03,6ed9cf28,the batch's gates failed (tests/run_all.py)
+at_2021,at,,2021,Austria,include,scenes+mosaics,austria_filter.yaml,Yes,Yes,,,2026-11-03,2026-11-04,2026-11-03,6ed9cf28,the batch's gates failed (tests/run_all.py)
+at_2022,at,,2022,Austria,include,scenes+mosaics,austria_filter.yaml,Yes,Yes,,,2026-11-03,2026-11-04,2026-11-03,6ed9cf28,the batch's gates failed (tests/run_all.py)
 at_2023,at,,2023,Austria,include,scenes+mosaics,austria_filter.yaml,Yes,Yes,,,,,,,
 at_2024,at,,2024,Austria,include,scenes+mosaics,austria_filter.yaml,Yes,Yes,,,,,,,
 at_2025,at,,2025,Austria,include,scenes+mosaics,austria_filter.yaml,Yes,Yes,,,,,,,
