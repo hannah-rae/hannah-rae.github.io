@@ -234,7 +234,7 @@ ch_zg_2025,ch,ch_zg,2025,Switzerland,include,scenes+mosaics,switzerland_filter.y
 ch_zh_2025,ch,ch_zh,2025,Switzerland,include,scenes+mosaics,switzerland_filter.yaml,Yes,Yes,,,,,,,
 it_1_2016,it_1,,2016,Italy-Tuscany,blocked,scenes,it_tuscany_filter.yaml,,Yes,,Blocked: no 2016 quarterly mosaics,,,,,filter: crop codes from this year missing in it_tuscany_filter.yaml
 it_1_2018,it_1,,2018,Italy-Tuscany,include,scenes+mosaics,it_tuscany_filter.yaml,,Yes,,,,,,,filter: crop codes from this year missing in it_tuscany_filter.yaml
-it_1_2019,it_1,,2019,Italy-Tuscany,include,scenes+mosaics,it_tuscany_filter.yaml,,Yes,,,,,,,
+it_1_2019,it_1,,2019,Italy-Tuscany,include,scenes+mosaics,it_tuscany_filter.yaml,,Yes,,,,,,,hold: re-evaluate Tuscany filter before upload (user 2026-11-06)
 it_1_2020,it_1,,2020,Italy-Tuscany,include,scenes+mosaics,it_tuscany_filter.yaml,,Yes,,,,,,,filter: crop codes from this year missing in it_tuscany_filter.yaml
 it_1_2022,it_1,,2022,Italy-Tuscany,include,scenes+mosaics,it_tuscany_filter.yaml,,Yes,,,,,,,filter: crop codes from this year missing in it_tuscany_filter.yaml
 us_usda_cropland_2017,us_usda_cropland,,2017,USDA Crop Sequence Boundaries,exclude,scenes+mosaics,,Yes?,Yes (if merged with CDL),,"Not sure we should be training (def not evaluating) on these. If we use them we should at least subselect to high quality areas, some places are 🗑️
