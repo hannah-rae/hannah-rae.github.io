@@ -1,7 +1,7 @@
 {
- "state": "idle",
+ "state": "uploading",
  "running": [],
  "batch_tail": "batch-05.log: failed: at_2018, at_2019, at_2020, at_2021, at_2022 (see tracking.csv issues and logs/)\nMETADATA EXIT 1\nimagery pass: at_2018, at_2019, at_2020, at_2021, at_2022\nfailed: at_2018, at_2019, at_2020, at_2021, at_2022 (see tracking.csv issues and logs/)\nIMAGERY EXIT 1\nDONE",
- "checked_at": "2026-11-10 19:01 UTC",
- "synced_at": "2026-11-10 19:01 UTC"
+ "checked_at": "2026-11-10 19:16 UTC",
+ "synced_at": "2026-11-10 19:16 UTC"
 }
