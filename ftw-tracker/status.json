@@ -1,11 +1,11 @@
 {
  "state": "building",
  "running": [
-  "ai4sf_ml_2021",
+  "br_ba_lem_2020",
   "glocab_2019",
   "glocab_2020"
  ],
  "batch_tail": "batch-05.log: failed: at_2018, at_2019, at_2020, at_2021, at_2022 (see tracking.csv issues and logs/)\nMETADATA EXIT 1\nimagery pass: at_2018, at_2019, at_2020, at_2021, at_2022\nfailed: at_2018, at_2019, at_2020, at_2021, at_2022 (see tracking.csv issues and logs/)\nIMAGERY EXIT 1\nDONE",
- "checked_at": "2026-11-11 18:44 UTC",
- "synced_at": "2026-11-11 18:44 UTC"
+ "checked_at": "2026-11-11 19:00 UTC",
+ "synced_at": "2026-11-11 19:00 UTC"
 }
