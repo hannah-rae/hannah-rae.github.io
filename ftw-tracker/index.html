@@ -51,12 +51,29 @@
   .region .name { display: flex; justify-content: space-between; }
   .region .bar { height: 8px; margin-top: 3px; }
   a { color: var(--ready); }
+  .totals { display: grid; grid-template-columns: repeat(auto-fit, minmax(140px, 1fr)); gap: 10px; margin-bottom: 12px; }
+  .total .n { font-size: 26px; font-weight: 600; font-variant-numeric: tabular-nums; }
+  .total .l { font-size: 12px; color: var(--muted); }
+  #map { width: 100%; height: auto; display: block; }
+  #map path.land { fill: var(--line); stroke: var(--card); stroke-width: 0.5; }
+  #map path.covered { stroke: var(--card); stroke-width: 0.5; }
+  .maptip { position: fixed; pointer-events: none; background: var(--card); border: 1px solid var(--line);
+    border-radius: 6px; padding: 4px 8px; font-size: 12px; display: none; }
+  .mapnote { font-size: 12px; color: var(--muted); margin-top: 6px; }
 </style>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/d3/7.9.0/d3.min.js"></script>
 </head>
 <body>
 <main>
   <h1>FTW Benchmark Tracker</h1>
   <div class="sub" id="sub">Loading…</div>
+
+  <div class="card" id="overview" hidden>
+    <div class="totals" id="totals"></div>
+    <svg id="map" viewBox="0 0 960 470" role="img" aria-label="Countries covered by published datasets"></svg>
+    <div class="mapnote" id="mapnote"></div>
+  </div>
+  <div class="maptip" id="maptip"></div>
 
   <div class="card">
     <div class="tiles" id="tiles"></div>
@@ -167,6 +184,56 @@ function summary() {
     }).join("");
 }
 
+const WORLD = "https://cdn.jsdelivr.net/gh/nvkelso/natural-earth-vector@v5.1.2/geojson/ne_110m_admin_0_countries.geojson";
+let world = null;
+
+function fmtBytes(b) {
+  const units = ["B", "KB", "MB", "GB", "TB", "PB"];
+  let i = 0;
+  while (b >= 1000 && i < units.length - 1) { b /= 1000; i++; }
+  return `${b.toFixed(b < 10 ? 2 : 1)} ${units[i]}`;
+}
+
+async function overview(stats) {
+  if (!stats) return;
+  document.getElementById("overview").hidden = false;
+  const countries = stats.countries || {};
+  const tiles = [
+    // GAUL gives disputed areas its own x-prefixed codes (xJK, xAP); count ISO countries only.
+    [Object.keys(countries).filter(k => !k.startsWith("x")).length, "Countries"],
+    [stats.datasets.toLocaleString(), "Published datasets"],
+    [stats.chips.toLocaleString(), "Chips"],
+    [stats.fields.toLocaleString(), "Fields"],
+    [fmtBytes(stats.bytes), "Data volume"],
+  ];
+  document.getElementById("totals").innerHTML = tiles.map(([n, l]) =>
+    `<div class="total"><div class="n">${esc(n)}</div><div class="l">${esc(l)}</div></div>`).join("");
+  document.getElementById("mapnote").textContent =
+    `Published datasets only, as of ${stats.generated_at}. Countries from each chip's centre (FAO GAUL 2024).`;
+  if (typeof d3 === "undefined") return;
+  world ||= await fetch(WORLD).then(r => r.json()).catch(() => null);
+  if (!world) return;
+  const svg = d3.select("#map"), tip = document.getElementById("maptip");
+  const path = d3.geoPath(d3.geoNaturalEarth1().fitSize([960, 470], world));
+  const max = d3.max(Object.values(countries), c => c.chips) || 1;
+  const shade = d3.scaleLog().domain([1, max]).range([0.25, 1]).clamp(true);
+  const iso = f => countries[f.properties.ADM0_A3] ? f.properties.ADM0_A3 : f.properties.ISO_A3_EH;
+  svg.selectAll("path").data(world.features).join("path")
+    .attr("d", path)
+    .attr("class", f => countries[iso(f)] ? "covered" : "land")
+    .attr("fill", f => countries[iso(f)] ? "var(--published)" : null)
+    .attr("fill-opacity", f => countries[iso(f)] ? shade(countries[iso(f)].chips) : null)
+    .on("mousemove", (e, f) => {
+      const c = countries[iso(f)];
+      tip.style.display = "block";
+      tip.style.left = `${e.clientX + 12}px`; tip.style.top = `${e.clientY + 12}px`;
+      tip.innerHTML = c
+        ? `<b>${esc(c.name)}</b><br>${c.chips.toLocaleString()} chips · ${c.datasets} dataset${c.datasets === 1 ? "" : "s"}`
+        : esc(f.properties.NAME);
+    })
+    .on("mouseleave", () => tip.style.display = "none");
+}
+
 function builder(s) {
   if (!s) return;
   const el = document.getElementById("builder");
@@ -178,9 +245,10 @@ function builder(s) {
 
 async function load() {
   const bust = `?t=${Date.now()}`;
-  const [csv, status] = await Promise.all([
+  const [csv, status, stats] = await Promise.all([
     fetch("tracking.csv" + bust).then(r => r.text()),
     fetch("status.json" + bust).then(r => r.ok ? r.json() : null).catch(() => null),
+    fetch("stats.json" + bust).then(r => r.ok ? r.json() : null).catch(() => null),
   ]);
   data = parseCSV(csv).map(r => ({...r, _stage: stage(r)}));
   const sel = document.getElementById("stage");
@@ -188,6 +256,7 @@ async function load() {
   document.getElementById("sub").textContent =
     `${data.length} region-years · tracker synced ${status ? status.synced_at : "(unknown)"} · refreshes every 5 min`;
   builder(status);
+  overview(stats);
   summary(); render();
 }
 
