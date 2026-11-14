@@ -1,1 +1,4396 @@
-{"generated_at": "2026-11-13 17:58 UTC", "datasets": 175, "chips": 3076036, "fields": 297775013, "bytes": 7111556263091, "countries": {"AGO": {"name": "Angola", "chips": 1183, "datasets": 7}, "ALA": {"name": "\u00c5land Islands", "chips": 977, "datasets": 6}, "AUT": {"name": "Austria", "chips": 115957, "datasets": 14}, "BDI": {"name": "Burundi", "chips": 157, "datasets": 7}, "BEL": {"name": "Belgium", "chips": 27159, "datasets": 26}, "BEN": {"name": "Benin", "chips": 990, "datasets": 7}, "BFA": {"name": "Burkina Faso", "chips": 1585, "datasets": 7}, "BGR": {"name": "Bulgaria", "chips": 90562, "datasets": 5}, "BIH": {"name": "Bosnia and Herzegovina", "chips": 8, "datasets": 8}, "BLR": {"name": "Belarus", "chips": 9, "datasets": 3}, "BRA": {"name": "Brazil", "chips": 2331, "datasets": 2}, "BWA": {"name": "Botswana", "chips": 148, "datasets": 7}, "CAF": {"name": "Central African Republic", "chips": 67, "datasets": 7}, "CAN": {"name": "Canada", "chips": 160, "datasets": 1}, "CHE": {"name": "Switzerland", "chips": 4046, "datasets": 26}, "CIV": {"name": "C\u00f4te D'Ivoire", "chips": 544, "datasets": 7}, "CMR": {"name": "Cameroon", "chips": 624, "datasets": 7}, "COD": {"name": "Democratic Republic of the Congo", "chips": 1189, "datasets": 7}, "COG": {"name": "Congo", "chips": 61, "datasets": 7}, "CZE": {"name": "Czechia", "chips": 103135, "datasets": 7}, "DEU": {"name": "Germany", "chips": 21295, "datasets": 25}, "DNK": {"name": "Denmark", "chips": 86823, "datasets": 9}, "ERI": {"name": "Eritrea", "chips": 90, "datasets": 7}, "ESP": {"name": "Spain", "chips": 112398, "datasets": 22}, "EST": {"name": "Estonia", "chips": 61978, "datasets": 8}, "ETH": {"name": "Ethiopia", "chips": 5065, "datasets": 7}, "FIN": {"name": "Finland", "chips": 218649, "datasets": 6}, "FRA": {"name": "France", "chips": 975297, "datasets": 12}, "GAB": {"name": "Gabon", "chips": 6, "datasets": 2}, "GBR": {"name": "United Kingdom of Great Britain and Northern Ireland", "chips": 9, "datasets": 3}, "GHA": {"name": "Ghana", "chips": 907, "datasets": 7}, "GIN": {"name": "Guinea", "chips": 173, "datasets": 7}, "GMB": {"name": "Gambia", "chips": 74, "datasets": 7}, "GNB": {"name": "Guinea-Bissau", "chips": 18, "datasets": 4}, "HRV": {"name": "Croatia", "chips": 77470, "datasets": 14}, "HUN": {"name": "Hungary", "chips": 16, "datasets": 8}, "IND": {"name": "India", "chips": 2401, "datasets": 1}, "IRL": {"name": "Ireland", "chips": 50241, "datasets": 3}, "ITA": {"name": "Italy", "chips": 18586, "datasets": 10}, "JPN": {"name": "Japan", "chips": 243806, "datasets": 4}, "KAZ": {"name": "Kazakhstan", "chips": 377, "datasets": 1}, "KEN": {"name": "Kenya", "chips": 1609, "datasets": 7}, "KHM": {"name": "Cambodia", "chips": 412, "datasets": 1}, "LSO": {"name": "Lesotho", "chips": 89, "datasets": 7}, "LTU": {"name": "Lithuania", "chips": 41722, "datasets": 3}, "LUX": {"name": "Luxembourg", "chips": 1, "datasets": 1}, "LVA": {"name": "Latvia", "chips": 117481, "datasets": 17}, "MLI": {"name": "Mali", "chips": 1967, "datasets": 7}, "MOZ": {"name": "Mozambique", "chips": 1734, "datasets": 7}, "MRT": {"name": "Mauritania", "chips": 15, "datasets": 7}, "MWI": {"name": "Malawi", "chips": 834, "datasets": 7}, "NAM": {"name": "Namibia", "chips": 253, "datasets": 7}, "NER": {"name": "Niger", "chips": 1613, "datasets": 7}, "NGA": {"name": "Nigeria", "chips": 8424, "datasets": 7}, "NLD": {"name": "Netherlands (Kingdom of the)", "chips": 68131, "datasets": 18}, "POL": {"name": "Poland", "chips": 28, "datasets": 14}, "PRT": {"name": "Portugal", "chips": 161013, "datasets": 8}, "RUS": {"name": "Russian Federation", "chips": 3642, "datasets": 11}, "RWA": {"name": "Rwanda", "chips": 324, "datasets": 8}, "SDN": {"name": "Sudan", "chips": 4753, "datasets": 7}, "SEN": {"name": "Senegal", "chips": 958, "datasets": 7}, "SLE": {"name": "Sierra Leone", "chips": 7, "datasets": 4}, "SOM": {"name": "Somalia", "chips": 327, "datasets": 7}, "SRB": {"name": "Serbia", "chips": 8, "datasets": 8}, "SSD": {"name": "South Sudan", "chips": 89, "datasets": 7}, "SVK": {"name": "Slovakia", "chips": 78823, "datasets": 8}, "SVN": {"name": "Slovenia", "chips": 25739, "datasets": 14}, "SWE": {"name": "Sweden", "chips": 294333, "datasets": 9}, "SWZ": {"name": "Eswatini", "chips": 54, "datasets": 7}, "TCD": {"name": "Chad", "chips": 1722, "datasets": 7}, "TGO": {"name": "Togo", "chips": 479, "datasets": 7}, "TZA": {"name": "United Republic of Tanzania", "chips": 4467, "datasets": 7}, "UGA": {"name": "Uganda", "chips": 1548, "datasets": 7}, "UKR": {"name": "Ukraine", "chips": 18110, "datasets": 2}, "USA": {"name": "United States of America", "chips": 766, "datasets": 4}, "VNM": {"name": "Viet Nam", "chips": 385, "datasets": 1}, "ZAF": {"name": "South Africa", "chips": 2663, "datasets": 8}, "ZMB": {"name": "Zambia", "chips": 1775, "datasets": 7}, "ZWE": {"name": "Zimbabwe", "chips": 2388, "datasets": 7}, "xAP": {"name": "Arunachal Pradesh", "chips": 1, "datasets": 1}, "xJK": {"name": "Jammu And Kashmir", "chips": 8, "datasets": 1}}}
+{
+ "generated_at": "2026-11-14 00:29 UTC",
+ "datasets": 180,
+ "chips": 3082670,
+ "fields": 297834133,
+ "bytes": 7125630334697,
+ "countries": {
+  "AGO": {
+   "name": "Angola",
+   "chips": 1183,
+   "datasets": 7
+  },
+  "ALA": {
+   "name": "\u00c5land Islands",
+   "chips": 977,
+   "datasets": 6
+  },
+  "ARG": {
+   "name": "Argentina",
+   "chips": 428,
+   "datasets": 4
+  },
+  "AUT": {
+   "name": "Austria",
+   "chips": 115957,
+   "datasets": 14
+  },
+  "BDI": {
+   "name": "Burundi",
+   "chips": 157,
+   "datasets": 7
+  },
+  "BEL": {
+   "name": "Belgium",
+   "chips": 27159,
+   "datasets": 26
+  },
+  "BEN": {
+   "name": "Benin",
+   "chips": 990,
+   "datasets": 7
+  },
+  "BFA": {
+   "name": "Burkina Faso",
+   "chips": 1585,
+   "datasets": 7
+  },
+  "BGR": {
+   "name": "Bulgaria",
+   "chips": 90562,
+   "datasets": 5
+  },
+  "BIH": {
+   "name": "Bosnia and Herzegovina",
+   "chips": 8,
+   "datasets": 8
+  },
+  "BLR": {
+   "name": "Belarus",
+   "chips": 9,
+   "datasets": 3
+  },
+  "BOL": {
+   "name": "Bolivia (Plurinational State of)",
+   "chips": 739,
+   "datasets": 1
+  },
+  "BRA": {
+   "name": "Brazil",
+   "chips": 6155,
+   "datasets": 7
+  },
+  "BWA": {
+   "name": "Botswana",
+   "chips": 148,
+   "datasets": 7
+  },
+  "CAF": {
+   "name": "Central African Republic",
+   "chips": 67,
+   "datasets": 7
+  },
+  "CAN": {
+   "name": "Canada",
+   "chips": 160,
+   "datasets": 1
+  },
+  "CHE": {
+   "name": "Switzerland",
+   "chips": 4046,
+   "datasets": 26
+  },
+  "CIV": {
+   "name": "C\u00f4te D'Ivoire",
+   "chips": 544,
+   "datasets": 7
+  },
+  "CMR": {
+   "name": "Cameroon",
+   "chips": 624,
+   "datasets": 7
+  },
+  "COD": {
+   "name": "Democratic Republic of the Congo",
+   "chips": 1189,
+   "datasets": 7
+  },
+  "COG": {
+   "name": "Congo",
+   "chips": 61,
+   "datasets": 7
+  },
+  "CZE": {
+   "name": "Czechia",
+   "chips": 103135,
+   "datasets": 7
+  },
+  "DEU": {
+   "name": "Germany",
+   "chips": 21295,
+   "datasets": 25
+  },
+  "DNK": {
+   "name": "Denmark",
+   "chips": 86823,
+   "datasets": 9
+  },
+  "ERI": {
+   "name": "Eritrea",
+   "chips": 90,
+   "datasets": 7
+  },
+  "ESP": {
+   "name": "Spain",
+   "chips": 112398,
+   "datasets": 22
+  },
+  "EST": {
+   "name": "Estonia",
+   "chips": 61978,
+   "datasets": 8
+  },
+  "ETH": {
+   "name": "Ethiopia",
+   "chips": 5065,
+   "datasets": 7
+  },
+  "FIN": {
+   "name": "Finland",
+   "chips": 218649,
+   "datasets": 6
+  },
+  "FRA": {
+   "name": "France",
+   "chips": 975297,
+   "datasets": 12
+  },
+  "GAB": {
+   "name": "Gabon",
+   "chips": 6,
+   "datasets": 2
+  },
+  "GBR": {
+   "name": "United Kingdom of Great Britain and Northern Ireland",
+   "chips": 9,
+   "datasets": 3
+  },
+  "GHA": {
+   "name": "Ghana",
+   "chips": 907,
+   "datasets": 7
+  },
+  "GIN": {
+   "name": "Guinea",
+   "chips": 173,
+   "datasets": 7
+  },
+  "GMB": {
+   "name": "Gambia",
+   "chips": 74,
+   "datasets": 7
+  },
+  "GNB": {
+   "name": "Guinea-Bissau",
+   "chips": 18,
+   "datasets": 4
+  },
+  "HRV": {
+   "name": "Croatia",
+   "chips": 77470,
+   "datasets": 14
+  },
+  "HUN": {
+   "name": "Hungary",
+   "chips": 16,
+   "datasets": 8
+  },
+  "IND": {
+   "name": "India",
+   "chips": 2401,
+   "datasets": 1
+  },
+  "IRL": {
+   "name": "Ireland",
+   "chips": 50241,
+   "datasets": 3
+  },
+  "ITA": {
+   "name": "Italy",
+   "chips": 18586,
+   "datasets": 10
+  },
+  "JPN": {
+   "name": "Japan",
+   "chips": 243806,
+   "datasets": 4
+  },
+  "KAZ": {
+   "name": "Kazakhstan",
+   "chips": 377,
+   "datasets": 1
+  },
+  "KEN": {
+   "name": "Kenya",
+   "chips": 1609,
+   "datasets": 7
+  },
+  "KHM": {
+   "name": "Cambodia",
+   "chips": 412,
+   "datasets": 1
+  },
+  "LSO": {
+   "name": "Lesotho",
+   "chips": 89,
+   "datasets": 7
+  },
+  "LTU": {
+   "name": "Lithuania",
+   "chips": 41722,
+   "datasets": 3
+  },
+  "LUX": {
+   "name": "Luxembourg",
+   "chips": 1,
+   "datasets": 1
+  },
+  "LVA": {
+   "name": "Latvia",
+   "chips": 117481,
+   "datasets": 17
+  },
+  "MLI": {
+   "name": "Mali",
+   "chips": 1967,
+   "datasets": 7
+  },
+  "MOZ": {
+   "name": "Mozambique",
+   "chips": 1734,
+   "datasets": 7
+  },
+  "MRT": {
+   "name": "Mauritania",
+   "chips": 15,
+   "datasets": 7
+  },
+  "MWI": {
+   "name": "Malawi",
+   "chips": 834,
+   "datasets": 7
+  },
+  "NAM": {
+   "name": "Namibia",
+   "chips": 253,
+   "datasets": 7
+  },
+  "NER": {
+   "name": "Niger",
+   "chips": 1613,
+   "datasets": 7
+  },
+  "NGA": {
+   "name": "Nigeria",
+   "chips": 8424,
+   "datasets": 7
+  },
+  "NLD": {
+   "name": "Netherlands (Kingdom of the)",
+   "chips": 68131,
+   "datasets": 18
+  },
+  "PER": {
+   "name": "Peru",
+   "chips": 207,
+   "datasets": 1
+  },
+  "POL": {
+   "name": "Poland",
+   "chips": 28,
+   "datasets": 14
+  },
+  "PRT": {
+   "name": "Portugal",
+   "chips": 161013,
+   "datasets": 8
+  },
+  "PRY": {
+   "name": "Paraguay",
+   "chips": 1436,
+   "datasets": 3
+  },
+  "RUS": {
+   "name": "Russian Federation",
+   "chips": 3642,
+   "datasets": 11
+  },
+  "RWA": {
+   "name": "Rwanda",
+   "chips": 324,
+   "datasets": 8
+  },
+  "SDN": {
+   "name": "Sudan",
+   "chips": 4753,
+   "datasets": 7
+  },
+  "SEN": {
+   "name": "Senegal",
+   "chips": 958,
+   "datasets": 7
+  },
+  "SLE": {
+   "name": "Sierra Leone",
+   "chips": 7,
+   "datasets": 4
+  },
+  "SOM": {
+   "name": "Somalia",
+   "chips": 327,
+   "datasets": 7
+  },
+  "SRB": {
+   "name": "Serbia",
+   "chips": 8,
+   "datasets": 8
+  },
+  "SSD": {
+   "name": "South Sudan",
+   "chips": 89,
+   "datasets": 7
+  },
+  "SVK": {
+   "name": "Slovakia",
+   "chips": 78823,
+   "datasets": 8
+  },
+  "SVN": {
+   "name": "Slovenia",
+   "chips": 25739,
+   "datasets": 14
+  },
+  "SWE": {
+   "name": "Sweden",
+   "chips": 294333,
+   "datasets": 9
+  },
+  "SWZ": {
+   "name": "Eswatini",
+   "chips": 54,
+   "datasets": 7
+  },
+  "TCD": {
+   "name": "Chad",
+   "chips": 1722,
+   "datasets": 7
+  },
+  "TGO": {
+   "name": "Togo",
+   "chips": 479,
+   "datasets": 7
+  },
+  "TZA": {
+   "name": "United Republic of Tanzania",
+   "chips": 4467,
+   "datasets": 7
+  },
+  "UGA": {
+   "name": "Uganda",
+   "chips": 1548,
+   "datasets": 7
+  },
+  "UKR": {
+   "name": "Ukraine",
+   "chips": 18110,
+   "datasets": 2
+  },
+  "USA": {
+   "name": "United States of America",
+   "chips": 766,
+   "datasets": 4
+  },
+  "VNM": {
+   "name": "Viet Nam",
+   "chips": 385,
+   "datasets": 1
+  },
+  "ZAF": {
+   "name": "South Africa",
+   "chips": 2663,
+   "datasets": 8
+  },
+  "ZMB": {
+   "name": "Zambia",
+   "chips": 1775,
+   "datasets": 7
+  },
+  "ZWE": {
+   "name": "Zimbabwe",
+   "chips": 2388,
+   "datasets": 7
+  },
+  "xAP": {
+   "name": "Arunachal Pradesh",
+   "chips": 1,
+   "datasets": 1
+  },
+  "xJK": {
+   "name": "Jammu And Kashmir",
+   "chips": 8,
+   "datasets": 1
+  }
+ },
+ "per_dataset": [
+  {
+   "id": "ai4sf_ml_2021",
+   "chips": 797,
+   "fields": 439001,
+   "bytes": 1862919928,
+   "countries": {
+    "KHM": {
+     "name": "Cambodia",
+     "chips": 412
+    },
+    "VNM": {
+     "name": "Viet Nam",
+     "chips": 385
+    }
+   }
+  },
+  {
+   "id": "at_2018",
+   "chips": 14493,
+   "fields": 1800084,
+   "bytes": 34324900749,
+   "countries": {
+    "HUN": {
+     "name": "Hungary",
+     "chips": 2
+    },
+    "DEU": {
+     "name": "Germany",
+     "chips": 1
+    },
+    "AUT": {
+     "name": "Austria",
+     "chips": 14490
+    }
+   }
+  },
+  {
+   "id": "at_2019",
+   "chips": 14491,
+   "fields": 1781603,
+   "bytes": 34414973332,
+   "countries": {
+    "DEU": {
+     "name": "Germany",
+     "chips": 1
+    },
+    "HUN": {
+     "name": "Hungary",
+     "chips": 2
+    },
+    "AUT": {
+     "name": "Austria",
+     "chips": 14488
+    }
+   }
+  },
+  {
+   "id": "at_2020",
+   "chips": 14496,
+   "fields": 1848566,
+   "bytes": 34356037448,
+   "countries": {
+    "DEU": {
+     "name": "Germany",
+     "chips": 1
+    },
+    "HUN": {
+     "name": "Hungary",
+     "chips": 2
+    },
+    "AUT": {
+     "name": "Austria",
+     "chips": 14493
+    }
+   }
+  },
+  {
+   "id": "at_2021",
+   "chips": 14506,
+   "fields": 1836737,
+   "bytes": 34509261448,
+   "countries": {
+    "DEU": {
+     "name": "Germany",
+     "chips": 1
+    },
+    "HUN": {
+     "name": "Hungary",
+     "chips": 2
+    },
+    "AUT": {
+     "name": "Austria",
+     "chips": 14503
+    }
+   }
+  },
+  {
+   "id": "at_2022",
+   "chips": 14473,
+   "fields": 1823268,
+   "bytes": 34374522187,
+   "countries": {
+    "HUN": {
+     "name": "Hungary",
+     "chips": 2
+    },
+    "AUT": {
+     "name": "Austria",
+     "chips": 14470
+    },
+    "DEU": {
+     "name": "Germany",
+     "chips": 1
+    }
+   }
+  },
+  {
+   "id": "at_2023",
+   "chips": 14484,
+   "fields": 1767993,
+   "bytes": 35135120362,
+   "countries": {
+    "DEU": {
+     "name": "Germany",
+     "chips": 1
+    },
+    "AUT": {
+     "name": "Austria",
+     "chips": 14481
+    },
+    "HUN": {
+     "name": "Hungary",
+     "chips": 2
+    }
+   }
+  },
+  {
+   "id": "at_2024",
+   "chips": 14497,
+   "fields": 1750440,
+   "bytes": 35105232672,
+   "countries": {
+    "DEU": {
+     "name": "Germany",
+     "chips": 1
+    },
+    "AUT": {
+     "name": "Austria",
+     "chips": 14494
+    },
+    "HUN": {
+     "name": "Hungary",
+     "chips": 2
+    }
+   }
+  },
+  {
+   "id": "at_2025",
+   "chips": 14516,
+   "fields": 1734174,
+   "bytes": 35090740814,
+   "countries": {
+    "DEU": {
+     "name": "Germany",
+     "chips": 1
+    },
+    "HUN": {
+     "name": "Hungary",
+     "chips": 2
+    },
+    "AUT": {
+     "name": "Austria",
+     "chips": 14513
+    }
+   }
+  },
+  {
+   "id": "be_vlg_2018",
+   "chips": 2939,
+   "fields": 460493,
+   "bytes": 7095005685,
+   "countries": {
+    "NLD": {
+     "name": "Netherlands (Kingdom of the)",
+     "chips": 5
+    },
+    "BEL": {
+     "name": "Belgium",
+     "chips": 2934
+    }
+   }
+  },
+  {
+   "id": "be_vlg_2019",
+   "chips": 2945,
+   "fields": 463818,
+   "bytes": 7104640742,
+   "countries": {
+    "BEL": {
+     "name": "Belgium",
+     "chips": 2940
+    },
+    "NLD": {
+     "name": "Netherlands (Kingdom of the)",
+     "chips": 5
+    }
+   }
+  },
+  {
+   "id": "be_vlg_2020",
+   "chips": 2941,
+   "fields": 466077,
+   "bytes": 7078498357,
+   "countries": {
+    "BEL": {
+     "name": "Belgium",
+     "chips": 2936
+    },
+    "NLD": {
+     "name": "Netherlands (Kingdom of the)",
+     "chips": 5
+    }
+   }
+  },
+  {
+   "id": "be_vlg_2021",
+   "chips": 2943,
+   "fields": 464822,
+   "bytes": 7120941490,
+   "countries": {
+    "NLD": {
+     "name": "Netherlands (Kingdom of the)",
+     "chips": 6
+    },
+    "BEL": {
+     "name": "Belgium",
+     "chips": 2937
+    }
+   }
+  },
+  {
+   "id": "be_vlg_2022",
+   "chips": 2946,
+   "fields": 460280,
+   "bytes": 7121060592,
+   "countries": {
+    "NLD": {
+     "name": "Netherlands (Kingdom of the)",
+     "chips": 6
+    },
+    "BEL": {
+     "name": "Belgium",
+     "chips": 2940
+    }
+   }
+  },
+  {
+   "id": "be_vlg_2023",
+   "chips": 2948,
+   "fields": 460659,
+   "bytes": 7110046888,
+   "countries": {
+    "NLD": {
+     "name": "Netherlands (Kingdom of the)",
+     "chips": 6
+    },
+    "BEL": {
+     "name": "Belgium",
+     "chips": 2942
+    }
+   }
+  },
+  {
+   "id": "be_vlg_2024",
+   "chips": 2949,
+   "fields": 458645,
+   "bytes": 7066392088,
+   "countries": {
+    "BEL": {
+     "name": "Belgium",
+     "chips": 2943
+    },
+    "NLD": {
+     "name": "Netherlands (Kingdom of the)",
+     "chips": 6
+    }
+   }
+  },
+  {
+   "id": "be_vlg_2025",
+   "chips": 2945,
+   "fields": 465487,
+   "bytes": 7124059004,
+   "countries": {
+    "NLD": {
+     "name": "Netherlands (Kingdom of the)",
+     "chips": 6
+    },
+    "BEL": {
+     "name": "Belgium",
+     "chips": 2939
+    }
+   }
+  },
+  {
+   "id": "be_wal_2022",
+   "chips": 3607,
+   "fields": 333673,
+   "bytes": 8321461949,
+   "countries": {
+    "DEU": {
+     "name": "Germany",
+     "chips": 1
+    },
+    "BEL": {
+     "name": "Belgium",
+     "chips": 3596
+    },
+    "FRA": {
+     "name": "France",
+     "chips": 9
+    },
+    "LUX": {
+     "name": "Luxembourg",
+     "chips": 1
+    }
+   }
+  },
+  {
+   "id": "bg_2021",
+   "chips": 18076,
+   "fields": 193698,
+   "bytes": 39165342635,
+   "countries": {
+    "BGR": {
+     "name": "Bulgaria",
+     "chips": 18076
+    }
+   }
+  },
+  {
+   "id": "bg_2022",
+   "chips": 18123,
+   "fields": 196753,
+   "bytes": 39333162826,
+   "countries": {
+    "BGR": {
+     "name": "Bulgaria",
+     "chips": 18123
+    }
+   }
+  },
+  {
+   "id": "bg_2023",
+   "chips": 17846,
+   "fields": 160718,
+   "bytes": 38448715151,
+   "countries": {
+    "BGR": {
+     "name": "Bulgaria",
+     "chips": 17846
+    }
+   }
+  },
+  {
+   "id": "bg_2024",
+   "chips": 18225,
+   "fields": 169170,
+   "bytes": 39316191596,
+   "countries": {
+    "BGR": {
+     "name": "Bulgaria",
+     "chips": 18225
+    }
+   }
+  },
+  {
+   "id": "bg_2025",
+   "chips": 18292,
+   "fields": 176326,
+   "bytes": 39562051614,
+   "countries": {
+    "BGR": {
+     "name": "Bulgaria",
+     "chips": 18292
+    }
+   }
+  },
+  {
+   "id": "br_ba_lem_2020",
+   "chips": 1268,
+   "fields": 1854,
+   "bytes": 2569147542,
+   "countries": {
+    "BRA": {
+     "name": "Brazil",
+     "chips": 1268
+    }
+   }
+  },
+  {
+   "id": "ch_ag_2025",
+   "chips": 346,
+   "fields": 78898,
+   "bytes": 862850971,
+   "countries": {
+    "CHE": {
+     "name": "Switzerland",
+     "chips": 346
+    }
+   }
+  },
+  {
+   "id": "ch_ai_2025",
+   "chips": 14,
+   "fields": 5924,
+   "bytes": 59095299,
+   "countries": {
+    "CHE": {
+     "name": "Switzerland",
+     "chips": 14
+    }
+   }
+  },
+  {
+   "id": "ch_ar_2025",
+   "chips": 34,
+   "fields": 16090,
+   "bytes": 108001316,
+   "countries": {
+    "CHE": {
+     "name": "Switzerland",
+     "chips": 34
+    }
+   }
+  },
+  {
+   "id": "ch_be_2025",
+   "chips": 1061,
+   "fields": 214788,
+   "bytes": 2614776618,
+   "countries": {
+    "CHE": {
+     "name": "Switzerland",
+     "chips": 1061
+    }
+   }
+  },
+  {
+   "id": "ch_bl_2025",
+   "chips": 142,
+   "fields": 27241,
+   "bytes": 357719043,
+   "countries": {
+    "CHE": {
+     "name": "Switzerland",
+     "chips": 138
+    },
+    "FRA": {
+     "name": "France",
+     "chips": 4
+    }
+   }
+  },
+  {
+   "id": "ch_fr_2025",
+   "chips": 363,
+   "fields": 58215,
+   "bytes": 879322023,
+   "countries": {
+    "CHE": {
+     "name": "Switzerland",
+     "chips": 363
+    }
+   }
+  },
+  {
+   "id": "ch_ge_2025",
+   "chips": 44,
+   "fields": 8143,
+   "bytes": 106875421,
+   "countries": {
+    "CHE": {
+     "name": "Switzerland",
+     "chips": 42
+    },
+    "FRA": {
+     "name": "France",
+     "chips": 2
+    }
+   }
+  },
+  {
+   "id": "ch_ju_2025",
+   "chips": 179,
+   "fields": 22626,
+   "bytes": 438071313,
+   "countries": {
+    "CHE": {
+     "name": "Switzerland",
+     "chips": 158
+    },
+    "FRA": {
+     "name": "France",
+     "chips": 21
+    }
+   }
+  },
+  {
+   "id": "ch_lu_2025",
+   "chips": 354,
+   "fields": 83096,
+   "bytes": 970164896,
+   "countries": {
+    "CHE": {
+     "name": "Switzerland",
+     "chips": 354
+    }
+   }
+  },
+  {
+   "id": "ch_sg_2025",
+   "chips": 339,
+   "fields": 89275,
+   "bytes": 1029427283,
+   "countries": {
+    "CHE": {
+     "name": "Switzerland",
+     "chips": 339
+    }
+   }
+  },
+  {
+   "id": "ch_sh_2025",
+   "chips": 44,
+   "fields": 16613,
+   "bytes": 117018469,
+   "countries": {
+    "DEU": {
+     "name": "Germany",
+     "chips": 4
+    },
+    "CHE": {
+     "name": "Switzerland",
+     "chips": 40
+    }
+   }
+  },
+  {
+   "id": "ch_so_2025",
+   "chips": 193,
+   "fields": 32682,
+   "bytes": 474346484,
+   "countries": {
+    "CHE": {
+     "name": "Switzerland",
+     "chips": 193
+    }
+   }
+  },
+  {
+   "id": "ch_sz_2025",
+   "chips": 139,
+   "fields": 26063,
+   "bytes": 368933959,
+   "countries": {
+    "CHE": {
+     "name": "Switzerland",
+     "chips": 139
+    }
+   }
+  },
+  {
+   "id": "ch_tg_2025",
+   "chips": 187,
+   "fields": 50834,
+   "bytes": 495217791,
+   "countries": {
+    "DEU": {
+     "name": "Germany",
+     "chips": 1
+    },
+    "CHE": {
+     "name": "Switzerland",
+     "chips": 186
+    }
+   }
+  },
+  {
+   "id": "ch_ur_2025",
+   "chips": 15,
+   "fields": 8913,
+   "bytes": 77038956,
+   "countries": {
+    "CHE": {
+     "name": "Switzerland",
+     "chips": 15
+    }
+   }
+  },
+  {
+   "id": "ch_vs_2025",
+   "chips": 145,
+   "fields": 301021,
+   "bytes": 526931410,
+   "countries": {
+    "CHE": {
+     "name": "Switzerland",
+     "chips": 145
+    }
+   }
+  },
+  {
+   "id": "ch_zg_2025",
+   "chips": 32,
+   "fields": 9597,
+   "bytes": 106168934,
+   "countries": {
+    "CHE": {
+     "name": "Switzerland",
+     "chips": 32
+    }
+   }
+  },
+  {
+   "id": "ch_zh_2025",
+   "chips": 423,
+   "fields": 113839,
+   "bytes": 1131109552,
+   "countries": {
+    "CHE": {
+     "name": "Switzerland",
+     "chips": 423
+    }
+   }
+  },
+  {
+   "id": "cz_2019",
+   "chips": 14444,
+   "fields": 278939,
+   "bytes": 32190700786,
+   "countries": {
+    "CZE": {
+     "name": "Czechia",
+     "chips": 14441
+    },
+    "POL": {
+     "name": "Poland",
+     "chips": 3
+    }
+   }
+  },
+  {
+   "id": "cz_2020",
+   "chips": 14576,
+   "fields": 294683,
+   "bytes": 32517168100,
+   "countries": {
+    "POL": {
+     "name": "Poland",
+     "chips": 3
+    },
+    "CZE": {
+     "name": "Czechia",
+     "chips": 14573
+    }
+   }
+  },
+  {
+   "id": "cz_2021",
+   "chips": 14572,
+   "fields": 308519,
+   "bytes": 32734141531,
+   "countries": {
+    "POL": {
+     "name": "Poland",
+     "chips": 3
+    },
+    "CZE": {
+     "name": "Czechia",
+     "chips": 14569
+    }
+   }
+  },
+  {
+   "id": "cz_2022",
+   "chips": 14604,
+   "fields": 305000,
+   "bytes": 32750946722,
+   "countries": {
+    "POL": {
+     "name": "Poland",
+     "chips": 3
+    },
+    "CZE": {
+     "name": "Czechia",
+     "chips": 14601
+    }
+   }
+  },
+  {
+   "id": "cz_2023",
+   "chips": 15060,
+   "fields": 364920,
+   "bytes": 33981841014,
+   "countries": {
+    "POL": {
+     "name": "Poland",
+     "chips": 3
+    },
+    "CZE": {
+     "name": "Czechia",
+     "chips": 15057
+    }
+   }
+  },
+  {
+   "id": "cz_2024",
+   "chips": 15064,
+   "fields": 381854,
+   "bytes": 34123635107,
+   "countries": {
+    "POL": {
+     "name": "Poland",
+     "chips": 3
+    },
+    "CZE": {
+     "name": "Czechia",
+     "chips": 15061
+    }
+   }
+  },
+  {
+   "id": "cz_2025",
+   "chips": 14836,
+   "fields": 361991,
+   "bytes": 33444131783,
+   "countries": {
+    "POL": {
+     "name": "Poland",
+     "chips": 3
+    },
+    "CZE": {
+     "name": "Czechia",
+     "chips": 14833
+    }
+   }
+  },
+  {
+   "id": "de_nds_2025",
+   "chips": 10891,
+   "fields": 766838,
+   "bytes": 24795315516,
+   "countries": {
+    "DEU": {
+     "name": "Germany",
+     "chips": 10890
+    },
+    "NLD": {
+     "name": "Netherlands (Kingdom of the)",
+     "chips": 1
+    }
+   }
+  },
+  {
+   "id": "de_sh_2023",
+   "chips": 3452,
+   "fields": 197753,
+   "bytes": 7932769289,
+   "countries": {
+    "DEU": {
+     "name": "Germany",
+     "chips": 3431
+    }
+   }
+  },
+  {
+   "id": "de_sh_2024",
+   "chips": 3451,
+   "fields": 196817,
+   "bytes": 7935534613,
+   "countries": {
+    "DEU": {
+     "name": "Germany",
+     "chips": 3430
+    }
+   }
+  },
+  {
+   "id": "de_sh_2025",
+   "chips": 3451,
+   "fields": 194910,
+   "bytes": 7933454090,
+   "countries": {
+    "DEU": {
+     "name": "Germany",
+     "chips": 3430
+    }
+   }
+  },
+  {
+   "id": "dk_2017",
+   "chips": 9688,
+   "fields": 538287,
+   "bytes": 22160619288,
+   "countries": {
+    "DNK": {
+     "name": "Denmark",
+     "chips": 9688
+    }
+   }
+  },
+  {
+   "id": "dk_2018",
+   "chips": 9629,
+   "fields": 532998,
+   "bytes": 21997533743,
+   "countries": {
+    "DNK": {
+     "name": "Denmark",
+     "chips": 9629
+    }
+   }
+  },
+  {
+   "id": "dk_2019",
+   "chips": 9624,
+   "fields": 524654,
+   "bytes": 21963405795,
+   "countries": {
+    "DNK": {
+     "name": "Denmark",
+     "chips": 9624
+    }
+   }
+  },
+  {
+   "id": "dk_2020",
+   "chips": 9654,
+   "fields": 517805,
+   "bytes": 22107645356,
+   "countries": {
+    "DNK": {
+     "name": "Denmark",
+     "chips": 9654
+    }
+   }
+  },
+  {
+   "id": "dk_2021",
+   "chips": 9647,
+   "fields": 511882,
+   "bytes": 22191269670,
+   "countries": {
+    "DNK": {
+     "name": "Denmark",
+     "chips": 9647
+    }
+   }
+  },
+  {
+   "id": "dk_2022",
+   "chips": 9640,
+   "fields": 504695,
+   "bytes": 22179436379,
+   "countries": {
+    "DNK": {
+     "name": "Denmark",
+     "chips": 9640
+    }
+   }
+  },
+  {
+   "id": "dk_2023",
+   "chips": 9630,
+   "fields": 475953,
+   "bytes": 22141526567,
+   "countries": {
+    "DNK": {
+     "name": "Denmark",
+     "chips": 9630
+    }
+   }
+  },
+  {
+   "id": "dk_2024",
+   "chips": 9672,
+   "fields": 467496,
+   "bytes": 22400813731,
+   "countries": {
+    "DNK": {
+     "name": "Denmark",
+     "chips": 9672
+    }
+   }
+  },
+  {
+   "id": "dk_2025",
+   "chips": 9639,
+   "fields": 459055,
+   "bytes": 22292231801,
+   "countries": {
+    "DNK": {
+     "name": "Denmark",
+     "chips": 9639
+    }
+   }
+  },
+  {
+   "id": "ec_lt_2021",
+   "chips": 13468,
+   "fields": 439199,
+   "bytes": 30213490959,
+   "countries": {
+    "BLR": {
+     "name": "Belarus",
+     "chips": 3
+    },
+    "LTU": {
+     "name": "Lithuania",
+     "chips": 13465
+    }
+   }
+  },
+  {
+   "id": "ee_2017",
+   "chips": 7745,
+   "fields": 166645,
+   "bytes": 17691201377,
+   "countries": {
+    "EST": {
+     "name": "Estonia",
+     "chips": 7743
+    },
+    "LVA": {
+     "name": "Latvia",
+     "chips": 2
+    }
+   }
+  },
+  {
+   "id": "ee_2018",
+   "chips": 7765,
+   "fields": 168684,
+   "bytes": 18122796851,
+   "countries": {
+    "EST": {
+     "name": "Estonia",
+     "chips": 7763
+    },
+    "LVA": {
+     "name": "Latvia",
+     "chips": 2
+    }
+   }
+  },
+  {
+   "id": "ee_2019",
+   "chips": 7787,
+   "fields": 171201,
+   "bytes": 18095262496,
+   "countries": {
+    "EST": {
+     "name": "Estonia",
+     "chips": 7785
+    },
+    "LVA": {
+     "name": "Latvia",
+     "chips": 2
+    }
+   }
+  },
+  {
+   "id": "ee_2020",
+   "chips": 7807,
+   "fields": 172783,
+   "bytes": 17913919215,
+   "countries": {
+    "EST": {
+     "name": "Estonia",
+     "chips": 7805
+    },
+    "LVA": {
+     "name": "Latvia",
+     "chips": 2
+    }
+   }
+  },
+  {
+   "id": "ee_2021",
+   "chips": 7853,
+   "fields": 172840,
+   "bytes": 18334774530,
+   "countries": {
+    "EST": {
+     "name": "Estonia",
+     "chips": 7851
+    },
+    "LVA": {
+     "name": "Latvia",
+     "chips": 2
+    }
+   }
+  },
+  {
+   "id": "ee_2022",
+   "chips": 7871,
+   "fields": 172628,
+   "bytes": 18399745095,
+   "countries": {
+    "EST": {
+     "name": "Estonia",
+     "chips": 7869
+    },
+    "LVA": {
+     "name": "Latvia",
+     "chips": 2
+    }
+   }
+  },
+  {
+   "id": "ee_2023",
+   "chips": 7606,
+   "fields": 166680,
+   "bytes": 17608903971,
+   "countries": {
+    "EST": {
+     "name": "Estonia",
+     "chips": 7603
+    },
+    "LVA": {
+     "name": "Latvia",
+     "chips": 3
+    }
+   }
+  },
+  {
+   "id": "ee_2024",
+   "chips": 7562,
+   "fields": 163476,
+   "bytes": 17470298062,
+   "countries": {
+    "EST": {
+     "name": "Estonia",
+     "chips": 7559
+    },
+    "LVA": {
+     "name": "Latvia",
+     "chips": 3
+    }
+   }
+  },
+  {
+   "id": "es_2025",
+   "chips": 53145,
+   "fields": 6648736,
+   "bytes": 134641397795,
+   "countries": {
+    "ESP": {
+     "name": "Spain",
+     "chips": 53145
+    }
+   }
+  },
+  {
+   "id": "es_cat_2024",
+   "chips": 5814,
+   "fields": 638119,
+   "bytes": 14032926914,
+   "countries": {
+    "ESP": {
+     "name": "Spain",
+     "chips": 5814
+    }
+   }
+  },
+  {
+   "id": "es_cm_2024",
+   "chips": 17833,
+   "fields": 3759699,
+   "bytes": 45774178114,
+   "countries": {
+    "ESP": {
+     "name": "Spain",
+     "chips": 17833
+    }
+   }
+  },
+  {
+   "id": "es_ib_2024",
+   "chips": 837,
+   "fields": 323006,
+   "bytes": 2326182895,
+   "countries": {
+    "ESP": {
+     "name": "Spain",
+     "chips": 837
+    }
+   }
+  },
+  {
+   "id": "es_po_2025",
+   "chips": 29795,
+   "fields": 3842764,
+   "bytes": 72312998501,
+   "countries": {
+    "ESP": {
+     "name": "Spain",
+     "chips": 29795
+    }
+   }
+  },
+  {
+   "id": "es_vc_2024",
+   "chips": 4926,
+   "fields": 2115489,
+   "bytes": 14129280202,
+   "countries": {
+    "ESP": {
+     "name": "Spain",
+     "chips": 4926
+    }
+   }
+  },
+  {
+   "id": "fi_2020",
+   "chips": 37389,
+   "fields": 896518,
+   "bytes": 81934249158,
+   "countries": {
+    "ALA": {
+     "name": "\u00c5land Islands",
+     "chips": 172
+    },
+    "FIN": {
+     "name": "Finland",
+     "chips": 37215
+    }
+   }
+  },
+  {
+   "id": "fi_2021",
+   "chips": 37086,
+   "fields": 893836,
+   "bytes": 82367564829,
+   "countries": {
+    "ALA": {
+     "name": "\u00c5land Islands",
+     "chips": 171
+    },
+    "FIN": {
+     "name": "Finland",
+     "chips": 36913
+    }
+   }
+  },
+  {
+   "id": "fi_2022",
+   "chips": 37070,
+   "fields": 899463,
+   "bytes": 82263622515,
+   "countries": {
+    "ALA": {
+     "name": "\u00c5land Islands",
+     "chips": 165
+    },
+    "FIN": {
+     "name": "Finland",
+     "chips": 36903
+    }
+   }
+  },
+  {
+   "id": "fi_2023",
+   "chips": 36621,
+   "fields": 819083,
+   "bytes": 81336689616,
+   "countries": {
+    "FIN": {
+     "name": "Finland",
+     "chips": 36462
+    },
+    "ALA": {
+     "name": "\u00c5land Islands",
+     "chips": 157
+    }
+   }
+  },
+  {
+   "id": "fi_2024",
+   "chips": 35929,
+   "fields": 806986,
+   "bytes": 79773272657,
+   "countries": {
+    "ALA": {
+     "name": "\u00c5land Islands",
+     "chips": 157
+    },
+    "FIN": {
+     "name": "Finland",
+     "chips": 35771
+    }
+   }
+  },
+  {
+   "id": "fi_2025",
+   "chips": 35540,
+   "fields": 783770,
+   "bytes": 78455850941,
+   "countries": {
+    "FIN": {
+     "name": "Finland",
+     "chips": 35385
+    },
+    "ALA": {
+     "name": "\u00c5land Islands",
+     "chips": 155
+    }
+   }
+  },
+  {
+   "id": "fr_2017",
+   "chips": 121892,
+   "fields": 7697005,
+   "bytes": 276880552972,
+   "countries": {
+    "DEU": {
+     "name": "Germany",
+     "chips": 1
+    },
+    "CHE": {
+     "name": "Switzerland",
+     "chips": 3
+    },
+    "BEL": {
+     "name": "Belgium",
+     "chips": 2
+    },
+    "FRA": {
+     "name": "France",
+     "chips": 121874
+    },
+    "ESP": {
+     "name": "Spain",
+     "chips": 4
+    }
+   }
+  },
+  {
+   "id": "fr_2018",
+   "chips": 121841,
+   "fields": 7803055,
+   "bytes": 278441560249,
+   "countries": {
+    "ESP": {
+     "name": "Spain",
+     "chips": 4
+    },
+    "CHE": {
+     "name": "Switzerland",
+     "chips": 3
+    },
+    "BEL": {
+     "name": "Belgium",
+     "chips": 2
+    },
+    "FRA": {
+     "name": "France",
+     "chips": 121828
+    }
+   }
+  },
+  {
+   "id": "fr_2019",
+   "chips": 121933,
+   "fields": 7866566,
+   "bytes": 278766840662,
+   "countries": {
+    "CHE": {
+     "name": "Switzerland",
+     "chips": 3
+    },
+    "BEL": {
+     "name": "Belgium",
+     "chips": 2
+    },
+    "ESP": {
+     "name": "Spain",
+     "chips": 4
+    },
+    "FRA": {
+     "name": "France",
+     "chips": 121917
+    }
+   }
+  },
+  {
+   "id": "fr_2020",
+   "chips": 121954,
+   "fields": 7974090,
+   "bytes": 279437817618,
+   "countries": {
+    "CHE": {
+     "name": "Switzerland",
+     "chips": 3
+    },
+    "ESP": {
+     "name": "Spain",
+     "chips": 4
+    },
+    "BEL": {
+     "name": "Belgium",
+     "chips": 2
+    },
+    "FRA": {
+     "name": "France",
+     "chips": 121941
+    }
+   }
+  },
+  {
+   "id": "fr_2021",
+   "chips": 122031,
+   "fields": 8001869,
+   "bytes": 279875349336,
+   "countries": {
+    "CHE": {
+     "name": "Switzerland",
+     "chips": 3
+    },
+    "ESP": {
+     "name": "Spain",
+     "chips": 4
+    },
+    "BEL": {
+     "name": "Belgium",
+     "chips": 2
+    },
+    "FRA": {
+     "name": "France",
+     "chips": 122018
+    }
+   }
+  },
+  {
+   "id": "fr_2022",
+   "chips": 121995,
+   "fields": 7992282,
+   "bytes": 279735968559,
+   "countries": {
+    "CHE": {
+     "name": "Switzerland",
+     "chips": 3
+    },
+    "BEL": {
+     "name": "Belgium",
+     "chips": 2
+    },
+    "FRA": {
+     "name": "France",
+     "chips": 121978
+    },
+    "ESP": {
+     "name": "Spain",
+     "chips": 4
+    }
+   }
+  },
+  {
+   "id": "fr_2023",
+   "chips": 121876,
+   "fields": 7907678,
+   "bytes": 279097556234,
+   "countries": {
+    "CHE": {
+     "name": "Switzerland",
+     "chips": 3
+    },
+    "ESP": {
+     "name": "Spain",
+     "chips": 4
+    },
+    "BEL": {
+     "name": "Belgium",
+     "chips": 2
+    },
+    "FRA": {
+     "name": "France",
+     "chips": 121858
+    }
+   }
+  },
+  {
+   "id": "fr_2024",
+   "chips": 121860,
+   "fields": 7751144,
+   "bytes": 279241247915,
+   "countries": {
+    "ESP": {
+     "name": "Spain",
+     "chips": 4
+    },
+    "CHE": {
+     "name": "Switzerland",
+     "chips": 3
+    },
+    "FRA": {
+     "name": "France",
+     "chips": 121847
+    },
+    "BEL": {
+     "name": "Belgium",
+     "chips": 2
+    }
+   }
+  },
+  {
+   "id": "glocab_2017",
+   "chips": 6067,
+   "fields": 40574,
+   "bytes": 12342117577,
+   "countries": {
+    "UKR": {
+     "name": "Ukraine",
+     "chips": 5770
+    },
+    "USA": {
+     "name": "United States of America",
+     "chips": 297
+    }
+   }
+  },
+  {
+   "id": "glocab_2018",
+   "chips": 598,
+   "fields": 5405,
+   "bytes": 1247878471,
+   "countries": {
+    "RUS": {
+     "name": "Russian Federation",
+     "chips": 157
+    },
+    "CAN": {
+     "name": "Canada",
+     "chips": 160
+    },
+    "USA": {
+     "name": "United States of America",
+     "chips": 281
+    }
+   }
+  },
+  {
+   "id": "glocab_2019",
+   "chips": 4975,
+   "fields": 14181,
+   "bytes": 10006151216,
+   "countries": {
+    "RUS": {
+     "name": "Russian Federation",
+     "chips": 3458
+    },
+    "KAZ": {
+     "name": "Kazakhstan",
+     "chips": 377
+    },
+    "BRA": {
+     "name": "Brazil",
+     "chips": 1063
+    },
+    "USA": {
+     "name": "United States of America",
+     "chips": 77
+    }
+   }
+  },
+  {
+   "id": "glocab_2020",
+   "chips": 12452,
+   "fields": 120080,
+   "bytes": 25311963518,
+   "countries": {
+    "UKR": {
+     "name": "Ukraine",
+     "chips": 12340
+    },
+    "USA": {
+     "name": "United States of America",
+     "chips": 111
+    }
+   }
+  },
+  {
+   "id": "hr_2017",
+   "chips": 9676,
+   "fields": 1279591,
+   "bytes": 22042810402,
+   "countries": {
+    "HRV": {
+     "name": "Croatia",
+     "chips": 9667
+    },
+    "SVN": {
+     "name": "Slovenia",
+     "chips": 7
+    },
+    "BIH": {
+     "name": "Bosnia and Herzegovina",
+     "chips": 1
+    },
+    "SRB": {
+     "name": "Serbia",
+     "chips": 1
+    }
+   }
+  },
+  {
+   "id": "hr_2018",
+   "chips": 9704,
+   "fields": 1294934,
+   "bytes": 22143446637,
+   "countries": {
+    "HRV": {
+     "name": "Croatia",
+     "chips": 9695
+    },
+    "SVN": {
+     "name": "Slovenia",
+     "chips": 7
+    },
+    "BIH": {
+     "name": "Bosnia and Herzegovina",
+     "chips": 1
+    },
+    "SRB": {
+     "name": "Serbia",
+     "chips": 1
+    }
+   }
+  },
+  {
+   "id": "hr_2019",
+   "chips": 9724,
+   "fields": 1312364,
+   "bytes": 22150944663,
+   "countries": {
+    "HRV": {
+     "name": "Croatia",
+     "chips": 9715
+    },
+    "SRB": {
+     "name": "Serbia",
+     "chips": 1
+    },
+    "BIH": {
+     "name": "Bosnia and Herzegovina",
+     "chips": 1
+    },
+    "SVN": {
+     "name": "Slovenia",
+     "chips": 7
+    }
+   }
+  },
+  {
+   "id": "hr_2020",
+   "chips": 9703,
+   "fields": 1306729,
+   "bytes": 22151389597,
+   "countries": {
+    "HRV": {
+     "name": "Croatia",
+     "chips": 9694
+    },
+    "SVN": {
+     "name": "Slovenia",
+     "chips": 7
+    },
+    "BIH": {
+     "name": "Bosnia and Herzegovina",
+     "chips": 1
+    },
+    "SRB": {
+     "name": "Serbia",
+     "chips": 1
+    }
+   }
+  },
+  {
+   "id": "hr_2021",
+   "chips": 9734,
+   "fields": 1305126,
+   "bytes": 22227435068,
+   "countries": {
+    "HRV": {
+     "name": "Croatia",
+     "chips": 9725
+    },
+    "SVN": {
+     "name": "Slovenia",
+     "chips": 7
+    },
+    "SRB": {
+     "name": "Serbia",
+     "chips": 1
+    },
+    "BIH": {
+     "name": "Bosnia and Herzegovina",
+     "chips": 1
+    }
+   }
+  },
+  {
+   "id": "hr_2022",
+   "chips": 9715,
+   "fields": 1294648,
+   "bytes": 22117929909,
+   "countries": {
+    "HRV": {
+     "name": "Croatia",
+     "chips": 9706
+    },
+    "SVN": {
+     "name": "Slovenia",
+     "chips": 7
+    },
+    "BIH": {
+     "name": "Bosnia and Herzegovina",
+     "chips": 1
+    },
+    "SRB": {
+     "name": "Serbia",
+     "chips": 1
+    }
+   }
+  },
+  {
+   "id": "hr_2023",
+   "chips": 9680,
+   "fields": 1285847,
+   "bytes": 22031076687,
+   "countries": {
+    "SVN": {
+     "name": "Slovenia",
+     "chips": 7
+    },
+    "BIH": {
+     "name": "Bosnia and Herzegovina",
+     "chips": 1
+    },
+    "HRV": {
+     "name": "Croatia",
+     "chips": 9671
+    },
+    "SRB": {
+     "name": "Serbia",
+     "chips": 1
+    }
+   }
+  },
+  {
+   "id": "hr_2024",
+   "chips": 9588,
+   "fields": 1196306,
+   "bytes": 21813745731,
+   "countries": {
+    "SVN": {
+     "name": "Slovenia",
+     "chips": 7
+    },
+    "HRV": {
+     "name": "Croatia",
+     "chips": 9579
+    },
+    "SRB": {
+     "name": "Serbia",
+     "chips": 1
+    },
+    "BIH": {
+     "name": "Bosnia and Herzegovina",
+     "chips": 1
+    }
+   }
+  },
+  {
+   "id": "ie_2022",
+   "chips": 16734,
+   "fields": 1000290,
+   "bytes": 38918989493,
+   "countries": {
+    "IRL": {
+     "name": "Ireland",
+     "chips": 16730
+    },
+    "GBR": {
+     "name": "United Kingdom of Great Britain and Northern Ireland",
+     "chips": 3
+    }
+   }
+  },
+  {
+   "id": "ie_2023",
+   "chips": 16762,
+   "fields": 1077312,
+   "bytes": 38912106806,
+   "countries": {
+    "IRL": {
+     "name": "Ireland",
+     "chips": 16758
+    },
+    "GBR": {
+     "name": "United Kingdom of Great Britain and Northern Ireland",
+     "chips": 3
+    }
+   }
+  },
+  {
+   "id": "ie_2024",
+   "chips": 16757,
+   "fields": 1076016,
+   "bytes": 39638467954,
+   "countries": {
+    "GBR": {
+     "name": "United Kingdom of Great Britain and Northern Ireland",
+     "chips": 3
+    },
+    "IRL": {
+     "name": "Ireland",
+     "chips": 16753
+    }
+   }
+  },
+  {
+   "id": "in_10k_ml_2020",
+   "chips": 2410,
+   "fields": 10013,
+   "bytes": 5205284475,
+   "countries": {
+    "xAP": {
+     "name": "Arunachal Pradesh",
+     "chips": 1
+    },
+    "IND": {
+     "name": "India",
+     "chips": 2401
+    },
+    "xJK": {
+     "name": "Jammu And Kashmir",
+     "chips": 8
+    }
+   }
+  },
+  {
+   "id": "it_1_2018",
+   "chips": 4515,
+   "fields": 499100,
+   "bytes": 10636370954,
+   "countries": {
+    "ITA": {
+     "name": "Italy",
+     "chips": 4515
+    }
+   }
+  },
+  {
+   "id": "it_1_2019",
+   "chips": 4713,
+   "fields": 434752,
+   "bytes": 10903613131,
+   "countries": {
+    "ITA": {
+     "name": "Italy",
+     "chips": 4713
+    }
+   }
+  },
+  {
+   "id": "it_1_2020",
+   "chips": 4673,
+   "fields": 498953,
+   "bytes": 11019664371,
+   "countries": {
+    "ITA": {
+     "name": "Italy",
+     "chips": 4673
+    }
+   }
+  },
+  {
+   "id": "it_1_2022",
+   "chips": 4679,
+   "fields": 495762,
+   "bytes": 10935964237,
+   "countries": {
+    "ITA": {
+     "name": "Italy",
+     "chips": 4679
+    }
+   }
+  },
+  {
+   "id": "jp_2021",
+   "chips": 61016,
+   "fields": 30165774,
+   "bytes": 153916068487,
+   "countries": {
+    "JPN": {
+     "name": "Japan",
+     "chips": 60996
+    }
+   }
+  },
+  {
+   "id": "jp_2022",
+   "chips": 60961,
+   "fields": 29778783,
+   "bytes": 153224265082,
+   "countries": {
+    "JPN": {
+     "name": "Japan",
+     "chips": 60944
+    }
+   }
+  },
+  {
+   "id": "jp_2023",
+   "chips": 60957,
+   "fields": 29673005,
+   "bytes": 153098103154,
+   "countries": {
+    "JPN": {
+     "name": "Japan",
+     "chips": 60940
+    }
+   }
+  },
+  {
+   "id": "jp_2024",
+   "chips": 60943,
+   "fields": 29418076,
+   "bytes": 152793711495,
+   "countries": {
+    "JPN": {
+     "name": "Japan",
+     "chips": 60926
+    }
+   }
+  },
+  {
+   "id": "lacuna_2017",
+   "chips": 6972,
+   "fields": 92944,
+   "bytes": 14871658690,
+   "countries": {
+    "BFA": {
+     "name": "Burkina Faso",
+     "chips": 163
+    },
+    "BDI": {
+     "name": "Burundi",
+     "chips": 16
+    },
+    "NGA": {
+     "name": "Nigeria",
+     "chips": 1177
+    },
+    "TZA": {
+     "name": "United Republic of Tanzania",
+     "chips": 651
+    },
+    "GHA": {
+     "name": "Ghana",
+     "chips": 76
+    },
+    "ZAF": {
+     "name": "South Africa",
+     "chips": 349
+    },
+    "AGO": {
+     "name": "Angola",
+     "chips": 173
+    },
+    "TCD": {
+     "name": "Chad",
+     "chips": 265
+    },
+    "MWI": {
+     "name": "Malawi",
+     "chips": 127
+    },
+    "COD": {
+     "name": "Democratic Republic of the Congo",
+     "chips": 188
+    },
+    "KEN": {
+     "name": "Kenya",
+     "chips": 198
+    },
+    "NAM": {
+     "name": "Namibia",
+     "chips": 28
+    },
+    "SSD": {
+     "name": "South Sudan",
+     "chips": 14
+    },
+    "MLI": {
+     "name": "Mali",
+     "chips": 266
+    },
+    "GIN": {
+     "name": "Guinea",
+     "chips": 26
+    },
+    "ETH": {
+     "name": "Ethiopia",
+     "chips": 720
+    },
+    "SOM": {
+     "name": "Somalia",
+     "chips": 24
+    },
+    "SEN": {
+     "name": "Senegal",
+     "chips": 118
+    },
+    "COG": {
+     "name": "Congo",
+     "chips": 15
+    },
+    "RWA": {
+     "name": "Rwanda",
+     "chips": 21
+    },
+    "BEN": {
+     "name": "Benin",
+     "chips": 167
+    },
+    "SDN": {
+     "name": "Sudan",
+     "chips": 670
+    },
+    "BWA": {
+     "name": "Botswana",
+     "chips": 24
+    },
+    "LSO": {
+     "name": "Lesotho",
+     "chips": 16
+    },
+    "ZMB": {
+     "name": "Zambia",
+     "chips": 256
+    },
+    "MOZ": {
+     "name": "Mozambique",
+     "chips": 247
+    },
+    "ERI": {
+     "name": "Eritrea",
+     "chips": 8
+    },
+    "TGO": {
+     "name": "Togo",
+     "chips": 81
+    },
+    "CMR": {
+     "name": "Cameroon",
+     "chips": 105
+    },
+    "UGA": {
+     "name": "Uganda",
+     "chips": 217
+    },
+    "CIV": {
+     "name": "C\u00f4te D'Ivoire",
+     "chips": 8
+    },
+    "MRT": {
+     "name": "Mauritania",
+     "chips": 2
+    },
+    "ZWE": {
+     "name": "Zimbabwe",
+     "chips": 360
+    },
+    "SWZ": {
+     "name": "Eswatini",
+     "chips": 12
+    },
+    "CAF": {
+     "name": "Central African Republic",
+     "chips": 10
+    },
+    "GMB": {
+     "name": "Gambia",
+     "chips": 2
+    },
+    "NER": {
+     "name": "Niger",
+     "chips": 172
+    }
+   }
+  },
+  {
+   "id": "lacuna_2018",
+   "chips": 7215,
+   "fields": 95633,
+   "bytes": 15452824831,
+   "countries": {
+    "NAM": {
+     "name": "Namibia",
+     "chips": 56
+    },
+    "COD": {
+     "name": "Democratic Republic of the Congo",
+     "chips": 194
+    },
+    "KEN": {
+     "name": "Kenya",
+     "chips": 226
+    },
+    "SSD": {
+     "name": "South Sudan",
+     "chips": 14
+    },
+    "NER": {
+     "name": "Niger",
+     "chips": 202
+    },
+    "CIV": {
+     "name": "C\u00f4te D'Ivoire",
+     "chips": 83
+    },
+    "UGA": {
+     "name": "Uganda",
+     "chips": 248
+    },
+    "MRT": {
+     "name": "Mauritania",
+     "chips": 1
+    },
+    "SEN": {
+     "name": "Senegal",
+     "chips": 187
+    },
+    "COG": {
+     "name": "Congo",
+     "chips": 9
+    },
+    "RWA": {
+     "name": "Rwanda",
+     "chips": 27
+    },
+    "AGO": {
+     "name": "Angola",
+     "chips": 171
+    },
+    "TCD": {
+     "name": "Chad",
+     "chips": 257
+    },
+    "MWI": {
+     "name": "Malawi",
+     "chips": 126
+    },
+    "MLI": {
+     "name": "Mali",
+     "chips": 283
+    },
+    "GIN": {
+     "name": "Guinea",
+     "chips": 26
+    },
+    "ETH": {
+     "name": "Ethiopia",
+     "chips": 737
+    },
+    "SOM": {
+     "name": "Somalia",
+     "chips": 57
+    },
+    "NGA": {
+     "name": "Nigeria",
+     "chips": 1179
+    },
+    "TZA": {
+     "name": "United Republic of Tanzania",
+     "chips": 612
+    },
+    "BEN": {
+     "name": "Benin",
+     "chips": 140
+    },
+    "SDN": {
+     "name": "Sudan",
+     "chips": 671
+    },
+    "BWA": {
+     "name": "Botswana",
+     "chips": 13
+    },
+    "ZMB": {
+     "name": "Zambia",
+     "chips": 239
+    },
+    "MOZ": {
+     "name": "Mozambique",
+     "chips": 234
+    },
+    "ERI": {
+     "name": "Eritrea",
+     "chips": 11
+    },
+    "LSO": {
+     "name": "Lesotho",
+     "chips": 5
+    },
+    "GNB": {
+     "name": "Guinea-Bissau",
+     "chips": 1
+    },
+    "CAF": {
+     "name": "Central African Republic",
+     "chips": 11
+    },
+    "ZWE": {
+     "name": "Zimbabwe",
+     "chips": 318
+    },
+    "SWZ": {
+     "name": "Eswatini",
+     "chips": 8
+    },
+    "GMB": {
+     "name": "Gambia",
+     "chips": 11
+    },
+    "GHA": {
+     "name": "Ghana",
+     "chips": 119
+    },
+    "ZAF": {
+     "name": "South Africa",
+     "chips": 328
+    },
+    "TGO": {
+     "name": "Togo",
+     "chips": 77
+    },
+    "CMR": {
+     "name": "Cameroon",
+     "chips": 88
+    },
+    "BFA": {
+     "name": "Burkina Faso",
+     "chips": 222
+    },
+    "BDI": {
+     "name": "Burundi",
+     "chips": 24
+    }
+   }
+  },
+  {
+   "id": "lacuna_2019",
+   "chips": 7343,
+   "fields": 97630,
+   "bytes": 15719165670,
+   "countries": {
+    "NAM": {
+     "name": "Namibia",
+     "chips": 31
+    },
+    "COD": {
+     "name": "Democratic Republic of the Congo",
+     "chips": 178
+    },
+    "KEN": {
+     "name": "Kenya",
+     "chips": 233
+    },
+    "SSD": {
+     "name": "South Sudan",
+     "chips": 16
+    },
+    "NER": {
+     "name": "Niger",
+     "chips": 208
+    },
+    "CIV": {
+     "name": "C\u00f4te D'Ivoire",
+     "chips": 79
+    },
+    "UGA": {
+     "name": "Uganda",
+     "chips": 220
+    },
+    "MRT": {
+     "name": "Mauritania",
+     "chips": 6
+    },
+    "GAB": {
+     "name": "Gabon",
+     "chips": 2
+    },
+    "GHA": {
+     "name": "Ghana",
+     "chips": 155
+    },
+    "ZAF": {
+     "name": "South Africa",
+     "chips": 357
+    },
+    "AGO": {
+     "name": "Angola",
+     "chips": 170
+    },
+    "TCD": {
+     "name": "Chad",
+     "chips": 261
+    },
+    "MWI": {
+     "name": "Malawi",
+     "chips": 115
+    },
+    "GIN": {
+     "name": "Guinea",
+     "chips": 24
+    },
+    "ETH": {
+     "name": "Ethiopia",
+     "chips": 769
+    },
+    "SOM": {
+     "name": "Somalia",
+     "chips": 43
+    },
+    "BEN": {
+     "name": "Benin",
+     "chips": 144
+    },
+    "SDN": {
+     "name": "Sudan",
+     "chips": 670
+    },
+    "LSO": {
+     "name": "Lesotho",
+     "chips": 12
+    },
+    "ZMB": {
+     "name": "Zambia",
+     "chips": 317
+    },
+    "MOZ": {
+     "name": "Mozambique",
+     "chips": 261
+    },
+    "ERI": {
+     "name": "Eritrea",
+     "chips": 20
+    },
+    "BWA": {
+     "name": "Botswana",
+     "chips": 15
+    },
+    "ZWE": {
+     "name": "Zimbabwe",
+     "chips": 354
+    },
+    "SWZ": {
+     "name": "Eswatini",
+     "chips": 6
+    },
+    "CAF": {
+     "name": "Central African Republic",
+     "chips": 8
+    },
+    "GMB": {
+     "name": "Gambia",
+     "chips": 4
+    },
+    "TGO": {
+     "name": "Togo",
+     "chips": 58
+    },
+    "CMR": {
+     "name": "Cameroon",
+     "chips": 101
+    },
+    "MLI": {
+     "name": "Mali",
+     "chips": 240
+    },
+    "NGA": {
+     "name": "Nigeria",
+     "chips": 1217
+    },
+    "TZA": {
+     "name": "United Republic of Tanzania",
+     "chips": 630
+    },
+    "SEN": {
+     "name": "Senegal",
+     "chips": 118
+    },
+    "RWA": {
+     "name": "Rwanda",
+     "chips": 47
+    },
+    "COG": {
+     "name": "Congo",
+     "chips": 10
+    },
+    "BFA": {
+     "name": "Burkina Faso",
+     "chips": 222
+    },
+    "BDI": {
+     "name": "Burundi",
+     "chips": 22
+    }
+   }
+  },
+  {
+   "id": "lacuna_2020",
+   "chips": 7762,
+   "fields": 100383,
+   "bytes": 16607172914,
+   "countries": {
+    "BFA": {
+     "name": "Burkina Faso",
+     "chips": 299
+    },
+    "BDI": {
+     "name": "Burundi",
+     "chips": 28
+    },
+    "NER": {
+     "name": "Niger",
+     "chips": 283
+    },
+    "NGA": {
+     "name": "Nigeria",
+     "chips": 1279
+    },
+    "TZA": {
+     "name": "United Republic of Tanzania",
+     "chips": 672
+    },
+    "GHA": {
+     "name": "Ghana",
+     "chips": 160
+    },
+    "ZAF": {
+     "name": "South Africa",
+     "chips": 344
+    },
+    "MLI": {
+     "name": "Mali",
+     "chips": 315
+    },
+    "SLE": {
+     "name": "Sierra Leone",
+     "chips": 2
+    },
+    "NAM": {
+     "name": "Namibia",
+     "chips": 29
+    },
+    "COD": {
+     "name": "Democratic Republic of the Congo",
+     "chips": 162
+    },
+    "KEN": {
+     "name": "Kenya",
+     "chips": 276
+    },
+    "SSD": {
+     "name": "South Sudan",
+     "chips": 5
+    },
+    "CIV": {
+     "name": "C\u00f4te D'Ivoire",
+     "chips": 142
+    },
+    "UGA": {
+     "name": "Uganda",
+     "chips": 231
+    },
+    "MRT": {
+     "name": "Mauritania",
+     "chips": 1
+    },
+    "AGO": {
+     "name": "Angola",
+     "chips": 164
+    },
+    "TCD": {
+     "name": "Chad",
+     "chips": 242
+    },
+    "MWI": {
+     "name": "Malawi",
+     "chips": 121
+    },
+    "GMB": {
+     "name": "Gambia",
+     "chips": 14
+    },
+    "ZWE": {
+     "name": "Zimbabwe",
+     "chips": 387
+    },
+    "CAF": {
+     "name": "Central African Republic",
+     "chips": 10
+    },
+    "SWZ": {
+     "name": "Eswatini",
+     "chips": 1
+    },
+    "GNB": {
+     "name": "Guinea-Bissau",
+     "chips": 6
+    },
+    "BEN": {
+     "name": "Benin",
+     "chips": 149
+    },
+    "SDN": {
+     "name": "Sudan",
+     "chips": 772
+    },
+    "LSO": {
+     "name": "Lesotho",
+     "chips": 17
+    },
+    "ZMB": {
+     "name": "Zambia",
+     "chips": 242
+    },
+    "BWA": {
+     "name": "Botswana",
+     "chips": 21
+    },
+    "MOZ": {
+     "name": "Mozambique",
+     "chips": 244
+    },
+    "ERI": {
+     "name": "Eritrea",
+     "chips": 17
+    },
+    "TGO": {
+     "name": "Togo",
+     "chips": 59
+    },
+    "CMR": {
+     "name": "Cameroon",
+     "chips": 78
+    },
+    "SEN": {
+     "name": "Senegal",
+     "chips": 140
+    },
+    "RWA": {
+     "name": "Rwanda",
+     "chips": 44
+    },
+    "COG": {
+     "name": "Congo",
+     "chips": 5
+    },
+    "GIN": {
+     "name": "Guinea",
+     "chips": 19
+    },
+    "ETH": {
+     "name": "Ethiopia",
+     "chips": 729
+    },
+    "SOM": {
+     "name": "Somalia",
+     "chips": 53
+    }
+   }
+  },
+  {
+   "id": "lacuna_2021",
+   "chips": 7141,
+   "fields": 94053,
+   "bytes": 15321947985,
+   "countries": {
+    "NER": {
+     "name": "Niger",
+     "chips": 234
+    },
+    "COD": {
+     "name": "Democratic Republic of the Congo",
+     "chips": 168
+    },
+    "NAM": {
+     "name": "Namibia",
+     "chips": 30
+    },
+    "SSD": {
+     "name": "South Sudan",
+     "chips": 13
+    },
+    "KEN": {
+     "name": "Kenya",
+     "chips": 243
+    },
+    "BFA": {
+     "name": "Burkina Faso",
+     "chips": 210
+    },
+    "BDI": {
+     "name": "Burundi",
+     "chips": 23
+    },
+    "NGA": {
+     "name": "Nigeria",
+     "chips": 1231
+    },
+    "TZA": {
+     "name": "United Republic of Tanzania",
+     "chips": 694
+    },
+    "CIV": {
+     "name": "C\u00f4te D'Ivoire",
+     "chips": 70
+    },
+    "UGA": {
+     "name": "Uganda",
+     "chips": 225
+    },
+    "MRT": {
+     "name": "Mauritania",
+     "chips": 1
+    },
+    "SEN": {
+     "name": "Senegal",
+     "chips": 137
+    },
+    "COG": {
+     "name": "Congo",
+     "chips": 11
+    },
+    "RWA": {
+     "name": "Rwanda",
+     "chips": 41
+    },
+    "GHA": {
+     "name": "Ghana",
+     "chips": 132
+    },
+    "ZAF": {
+     "name": "South Africa",
+     "chips": 347
+    },
+    "GMB": {
+     "name": "Gambia",
+     "chips": 18
+    },
+    "CAF": {
+     "name": "Central African Republic",
+     "chips": 7
+    },
+    "ZWE": {
+     "name": "Zimbabwe",
+     "chips": 269
+    },
+    "SWZ": {
+     "name": "Eswatini",
+     "chips": 10
+    },
+    "MLI": {
+     "name": "Mali",
+     "chips": 278
+    },
+    "ETH": {
+     "name": "Ethiopia",
+     "chips": 707
+    },
+    "SOM": {
+     "name": "Somalia",
+     "chips": 46
+    },
+    "GIN": {
+     "name": "Guinea",
+     "chips": 16
+    },
+    "SLE": {
+     "name": "Sierra Leone",
+     "chips": 1
+    },
+    "BEN": {
+     "name": "Benin",
+     "chips": 129
+    },
+    "SDN": {
+     "name": "Sudan",
+     "chips": 661
+    },
+    "ZMB": {
+     "name": "Zambia",
+     "chips": 235
+    },
+    "MOZ": {
+     "name": "Mozambique",
+     "chips": 250
+    },
+    "ERI": {
+     "name": "Eritrea",
+     "chips": 17
+    },
+    "BWA": {
+     "name": "Botswana",
+     "chips": 22
+    },
+    "LSO": {
+     "name": "Lesotho",
+     "chips": 6
+    },
+    "TGO": {
+     "name": "Togo",
+     "chips": 58
+    },
+    "CMR": {
+     "name": "Cameroon",
+     "chips": 80
+    },
+    "GNB": {
+     "name": "Guinea-Bissau",
+     "chips": 6
+    },
+    "AGO": {
+     "name": "Angola",
+     "chips": 188
+    },
+    "TCD": {
+     "name": "Chad",
+     "chips": 216
+    },
+    "MWI": {
+     "name": "Malawi",
+     "chips": 111
+    }
+   }
+  },
+  {
+   "id": "lacuna_2022",
+   "chips": 7262,
+   "fields": 94510,
+   "bytes": 15601909924,
+   "countries": {
+    "BFA": {
+     "name": "Burkina Faso",
+     "chips": 242
+    },
+    "BDI": {
+     "name": "Burundi",
+     "chips": 34
+    },
+    "NAM": {
+     "name": "Namibia",
+     "chips": 46
+    },
+    "COD": {
+     "name": "Democratic Republic of the Congo",
+     "chips": 168
+    },
+    "KEN": {
+     "name": "Kenya",
+     "chips": 204
+    },
+    "SSD": {
+     "name": "South Sudan",
+     "chips": 6
+    },
+    "GHA": {
+     "name": "Ghana",
+     "chips": 137
+    },
+    "ZAF": {
+     "name": "South Africa",
+     "chips": 372
+    },
+    "NGA": {
+     "name": "Nigeria",
+     "chips": 1199
+    },
+    "TZA": {
+     "name": "United Republic of Tanzania",
+     "chips": 592
+    },
+    "CIV": {
+     "name": "C\u00f4te D'Ivoire",
+     "chips": 104
+    },
+    "UGA": {
+     "name": "Uganda",
+     "chips": 240
+    },
+    "MRT": {
+     "name": "Mauritania",
+     "chips": 2
+    },
+    "SEN": {
+     "name": "Senegal",
+     "chips": 143
+    },
+    "RWA": {
+     "name": "Rwanda",
+     "chips": 51
+    },
+    "COG": {
+     "name": "Congo",
+     "chips": 5
+    },
+    "AGO": {
+     "name": "Angola",
+     "chips": 150
+    },
+    "TCD": {
+     "name": "Chad",
+     "chips": 244
+    },
+    "MWI": {
+     "name": "Malawi",
+     "chips": 109
+    },
+    "NER": {
+     "name": "Niger",
+     "chips": 248
+    },
+    "CAF": {
+     "name": "Central African Republic",
+     "chips": 10
+    },
+    "ZWE": {
+     "name": "Zimbabwe",
+     "chips": 367
+    },
+    "GMB": {
+     "name": "Gambia",
+     "chips": 10
+    },
+    "SWZ": {
+     "name": "Eswatini",
+     "chips": 10
+    },
+    "GIN": {
+     "name": "Guinea",
+     "chips": 29
+    },
+    "ETH": {
+     "name": "Ethiopia",
+     "chips": 682
+    },
+    "SOM": {
+     "name": "Somalia",
+     "chips": 46
+    },
+    "MLI": {
+     "name": "Mali",
+     "chips": 292
+    },
+    "SLE": {
+     "name": "Sierra Leone",
+     "chips": 3
+    },
+    "TGO": {
+     "name": "Togo",
+     "chips": 65
+    },
+    "CMR": {
+     "name": "Cameroon",
+     "chips": 73
+    },
+    "BEN": {
+     "name": "Benin",
+     "chips": 154
+    },
+    "ZMB": {
+     "name": "Zambia",
+     "chips": 257
+    },
+    "SDN": {
+     "name": "Sudan",
+     "chips": 670
+    },
+    "MOZ": {
+     "name": "Mozambique",
+     "chips": 231
+    },
+    "LSO": {
+     "name": "Lesotho",
+     "chips": 21
+    },
+    "ERI": {
+     "name": "Eritrea",
+     "chips": 10
+    },
+    "BWA": {
+     "name": "Botswana",
+     "chips": 31
+    },
+    "GNB": {
+     "name": "Guinea-Bissau",
+     "chips": 5
+    }
+   }
+  },
+  {
+   "id": "lacuna_2023",
+   "chips": 6966,
+   "fields": 88573,
+   "bytes": 14966244521,
+   "countries": {
+    "NER": {
+     "name": "Niger",
+     "chips": 266
+    },
+    "BFA": {
+     "name": "Burkina Faso",
+     "chips": 227
+    },
+    "BDI": {
+     "name": "Burundi",
+     "chips": 10
+    },
+    "COD": {
+     "name": "Democratic Republic of the Congo",
+     "chips": 131
+    },
+    "NAM": {
+     "name": "Namibia",
+     "chips": 33
+    },
+    "KEN": {
+     "name": "Kenya",
+     "chips": 229
+    },
+    "SSD": {
+     "name": "South Sudan",
+     "chips": 21
+    },
+    "GHA": {
+     "name": "Ghana",
+     "chips": 128
+    },
+    "ZAF": {
+     "name": "South Africa",
+     "chips": 327
+    },
+    "NGA": {
+     "name": "Nigeria",
+     "chips": 1142
+    },
+    "TZA": {
+     "name": "United Republic of Tanzania",
+     "chips": 616
+    },
+    "CIV": {
+     "name": "C\u00f4te D'Ivoire",
+     "chips": 58
+    },
+    "UGA": {
+     "name": "Uganda",
+     "chips": 167
+    },
+    "GAB": {
+     "name": "Gabon",
+     "chips": 4
+    },
+    "MRT": {
+     "name": "Mauritania",
+     "chips": 2
+    },
+    "SEN": {
+     "name": "Senegal",
+     "chips": 115
+    },
+    "COG": {
+     "name": "Congo",
+     "chips": 6
+    },
+    "RWA": {
+     "name": "Rwanda",
+     "chips": 20
+    },
+    "AGO": {
+     "name": "Angola",
+     "chips": 167
+    },
+    "TCD": {
+     "name": "Chad",
+     "chips": 237
+    },
+    "MWI": {
+     "name": "Malawi",
+     "chips": 125
+    },
+    "GMB": {
+     "name": "Gambia",
+     "chips": 15
+    },
+    "CAF": {
+     "name": "Central African Republic",
+     "chips": 11
+    },
+    "ZWE": {
+     "name": "Zimbabwe",
+     "chips": 333
+    },
+    "SWZ": {
+     "name": "Eswatini",
+     "chips": 7
+    },
+    "MLI": {
+     "name": "Mali",
+     "chips": 293
+    },
+    "GIN": {
+     "name": "Guinea",
+     "chips": 33
+    },
+    "ETH": {
+     "name": "Ethiopia",
+     "chips": 721
+    },
+    "SOM": {
+     "name": "Somalia",
+     "chips": 58
+    },
+    "SLE": {
+     "name": "Sierra Leone",
+     "chips": 1
+    },
+    "BEN": {
+     "name": "Benin",
+     "chips": 107
+    },
+    "ZMB": {
+     "name": "Zambia",
+     "chips": 229
+    },
+    "SDN": {
+     "name": "Sudan",
+     "chips": 639
+    },
+    "BWA": {
+     "name": "Botswana",
+     "chips": 22
+    },
+    "MOZ": {
+     "name": "Mozambique",
+     "chips": 267
+    },
+    "ERI": {
+     "name": "Eritrea",
+     "chips": 7
+    },
+    "LSO": {
+     "name": "Lesotho",
+     "chips": 12
+    },
+    "TGO": {
+     "name": "Togo",
+     "chips": 81
+    },
+    "CMR": {
+     "name": "Cameroon",
+     "chips": 99
+    }
+   }
+  },
+  {
+   "id": "lt_2024",
+   "chips": 14123,
+   "fields": 999975,
+   "bytes": 32864352550,
+   "countries": {
+    "BLR": {
+     "name": "Belarus",
+     "chips": 3
+    },
+    "LTU": {
+     "name": "Lithuania",
+     "chips": 14120
+    }
+   }
+  },
+  {
+   "id": "lt_2025",
+   "chips": 14140,
+   "fields": 998171,
+   "bytes": 32826936957,
+   "countries": {
+    "BLR": {
+     "name": "Belarus",
+     "chips": 3
+    },
+    "LTU": {
+     "name": "Lithuania",
+     "chips": 14137
+    }
+   }
+  },
+  {
+   "id": "lv_2017",
+   "chips": 13016,
+   "fields": 411979,
+   "bytes": 30490523496,
+   "countries": {
+    "LVA": {
+     "name": "Latvia",
+     "chips": 13013
+    },
+    "RUS": {
+     "name": "Russian Federation",
+     "chips": 3
+    }
+   }
+  },
+  {
+   "id": "lv_2018",
+   "chips": 13028,
+   "fields": 414914,
+   "bytes": 30698540039,
+   "countries": {
+    "RUS": {
+     "name": "Russian Federation",
+     "chips": 3
+    },
+    "LVA": {
+     "name": "Latvia",
+     "chips": 13025
+    }
+   }
+  },
+  {
+   "id": "lv_2019",
+   "chips": 13074,
+   "fields": 420707,
+   "bytes": 30736191678,
+   "countries": {
+    "RUS": {
+     "name": "Russian Federation",
+     "chips": 3
+    },
+    "LVA": {
+     "name": "Latvia",
+     "chips": 13071
+    }
+   }
+  },
+  {
+   "id": "lv_2020",
+   "chips": 13088,
+   "fields": 421947,
+   "bytes": 30614404341,
+   "countries": {
+    "RUS": {
+     "name": "Russian Federation",
+     "chips": 3
+    },
+    "LVA": {
+     "name": "Latvia",
+     "chips": 13085
+    }
+   }
+  },
+  {
+   "id": "lv_2021",
+   "chips": 13073,
+   "fields": 415271,
+   "bytes": 30858239692,
+   "countries": {
+    "RUS": {
+     "name": "Russian Federation",
+     "chips": 3
+    },
+    "LVA": {
+     "name": "Latvia",
+     "chips": 13070
+    }
+   }
+  },
+  {
+   "id": "lv_2022",
+   "chips": 13066,
+   "fields": 408201,
+   "bytes": 30942049824,
+   "countries": {
+    "RUS": {
+     "name": "Russian Federation",
+     "chips": 3
+    },
+    "LVA": {
+     "name": "Latvia",
+     "chips": 13063
+    }
+   }
+  },
+  {
+   "id": "lv_2023",
+   "chips": 13028,
+   "fields": 430001,
+   "bytes": 30626216822,
+   "countries": {
+    "LVA": {
+     "name": "Latvia",
+     "chips": 13025
+    },
+    "RUS": {
+     "name": "Russian Federation",
+     "chips": 3
+    }
+   }
+  },
+  {
+   "id": "lv_2024",
+   "chips": 13056,
+   "fields": 404294,
+   "bytes": 30622629419,
+   "countries": {
+    "LVA": {
+     "name": "Latvia",
+     "chips": 13053
+    },
+    "RUS": {
+     "name": "Russian Federation",
+     "chips": 3
+    }
+   }
+  },
+  {
+   "id": "lv_2025",
+   "chips": 13061,
+   "fields": 398509,
+   "bytes": 30453846953,
+   "countries": {
+    "LVA": {
+     "name": "Latvia",
+     "chips": 13058
+    },
+    "RUS": {
+     "name": "Russian Federation",
+     "chips": 3
+    }
+   }
+  },
+  {
+   "id": "nl_2017",
+   "chips": 7600,
+   "fields": 734447,
+   "bytes": 17672538002,
+   "countries": {
+    "DEU": {
+     "name": "Germany",
+     "chips": 11
+    },
+    "BEL": {
+     "name": "Belgium",
+     "chips": 4
+    },
+    "NLD": {
+     "name": "Netherlands (Kingdom of the)",
+     "chips": 7573
+    }
+   }
+  },
+  {
+   "id": "nl_2018",
+   "chips": 7594,
+   "fields": 727330,
+   "bytes": 17627837862,
+   "countries": {
+    "DEU": {
+     "name": "Germany",
+     "chips": 11
+    },
+    "BEL": {
+     "name": "Belgium",
+     "chips": 4
+    },
+    "NLD": {
+     "name": "Netherlands (Kingdom of the)",
+     "chips": 7567
+    }
+   }
+  },
+  {
+   "id": "nl_2019",
+   "chips": 7582,
+   "fields": 721521,
+   "bytes": 17617219868,
+   "countries": {
+    "DEU": {
+     "name": "Germany",
+     "chips": 11
+    },
+    "NLD": {
+     "name": "Netherlands (Kingdom of the)",
+     "chips": 7556
+    },
+    "BEL": {
+     "name": "Belgium",
+     "chips": 4
+    }
+   }
+  },
+  {
+   "id": "nl_2020",
+   "chips": 7592,
+   "fields": 720427,
+   "bytes": 17448156538,
+   "countries": {
+    "DEU": {
+     "name": "Germany",
+     "chips": 11
+    },
+    "NLD": {
+     "name": "Netherlands (Kingdom of the)",
+     "chips": 7565
+    },
+    "BEL": {
+     "name": "Belgium",
+     "chips": 4
+    }
+   }
+  },
+  {
+   "id": "nl_2021",
+   "chips": 7596,
+   "fields": 718608,
+   "bytes": 17700409325,
+   "countries": {
+    "BEL": {
+     "name": "Belgium",
+     "chips": 4
+    },
+    "NLD": {
+     "name": "Netherlands (Kingdom of the)",
+     "chips": 7569
+    },
+    "DEU": {
+     "name": "Germany",
+     "chips": 11
+    }
+   }
+  },
+  {
+   "id": "nl_2022",
+   "chips": 7590,
+   "fields": 705028,
+   "bytes": 18370669560,
+   "countries": {
+    "BEL": {
+     "name": "Belgium",
+     "chips": 4
+    },
+    "NLD": {
+     "name": "Netherlands (Kingdom of the)",
+     "chips": 7565
+    },
+    "DEU": {
+     "name": "Germany",
+     "chips": 11
+    }
+   }
+  },
+  {
+   "id": "nl_2023",
+   "chips": 7610,
+   "fields": 1202539,
+   "bytes": 20164408074,
+   "countries": {
+    "DEU": {
+     "name": "Germany",
+     "chips": 11
+    },
+    "NLD": {
+     "name": "Netherlands (Kingdom of the)",
+     "chips": 7584
+    },
+    "BEL": {
+     "name": "Belgium",
+     "chips": 4
+    }
+   }
+  },
+  {
+   "id": "nl_2024",
+   "chips": 7584,
+   "fields": 1158541,
+   "bytes": 20006109094,
+   "countries": {
+    "DEU": {
+     "name": "Germany",
+     "chips": 11
+    },
+    "NLD": {
+     "name": "Netherlands (Kingdom of the)",
+     "chips": 7558
+    },
+    "BEL": {
+     "name": "Belgium",
+     "chips": 4
+    }
+   }
+  },
+  {
+   "id": "nl_2025",
+   "chips": 7574,
+   "fields": 1108884,
+   "bytes": 19897040500,
+   "countries": {
+    "DEU": {
+     "name": "Germany",
+     "chips": 11
+    },
+    "NLD": {
+     "name": "Netherlands (Kingdom of the)",
+     "chips": 7548
+    },
+    "BEL": {
+     "name": "Belgium",
+     "chips": 4
+    }
+   }
+  },
+  {
+   "id": "pt_2017",
+   "chips": 20027,
+   "fields": 2100446,
+   "bytes": 47767620585,
+   "countries": {
+    "ESP": {
+     "name": "Spain",
+     "chips": 2
+    },
+    "PRT": {
+     "name": "Portugal",
+     "chips": 20025
+    }
+   }
+  },
+  {
+   "id": "pt_2018",
+   "chips": 20085,
+   "fields": 2247539,
+   "bytes": 48053895977,
+   "countries": {
+    "ESP": {
+     "name": "Spain",
+     "chips": 2
+    },
+    "PRT": {
+     "name": "Portugal",
+     "chips": 20083
+    }
+   }
+  },
+  {
+   "id": "pt_2019",
+   "chips": 20328,
+   "fields": 2297346,
+   "bytes": 48811559061,
+   "countries": {
+    "ESP": {
+     "name": "Spain",
+     "chips": 2
+    },
+    "PRT": {
+     "name": "Portugal",
+     "chips": 20226
+    }
+   }
+  },
+  {
+   "id": "pt_2020",
+   "chips": 20030,
+   "fields": 2282166,
+   "bytes": 48543721424,
+   "countries": {
+    "ESP": {
+     "name": "Spain",
+     "chips": 2
+    },
+    "PRT": {
+     "name": "Portugal",
+     "chips": 20028
+    }
+   }
+  },
+  {
+   "id": "pt_2021",
+   "chips": 20329,
+   "fields": 2483992,
+   "bytes": 49411457424,
+   "countries": {
+    "ESP": {
+     "name": "Spain",
+     "chips": 2
+    },
+    "PRT": {
+     "name": "Portugal",
+     "chips": 20215
+    }
+   }
+  },
+  {
+   "id": "pt_2022",
+   "chips": 20361,
+   "fields": 2521483,
+   "bytes": 49467359558,
+   "countries": {
+    "PRT": {
+     "name": "Portugal",
+     "chips": 20247
+    },
+    "ESP": {
+     "name": "Spain",
+     "chips": 2
+    }
+   }
+  },
+  {
+   "id": "pt_2023",
+   "chips": 20002,
+   "fields": 2326747,
+   "bytes": 48326284469,
+   "countries": {
+    "PRT": {
+     "name": "Portugal",
+     "chips": 20000
+    },
+    "ESP": {
+     "name": "Spain",
+     "chips": 2
+    }
+   }
+  },
+  {
+   "id": "pt_2025",
+   "chips": 20298,
+   "fields": 2525343,
+   "bytes": 49050649280,
+   "countries": {
+    "PRT": {
+     "name": "Portugal",
+     "chips": 20189
+    },
+    "ESP": {
+     "name": "Spain",
+     "chips": 2
+    }
+   }
+  },
+  {
+   "id": "rw_rwanda_ml_2021",
+   "chips": 73,
+   "fields": 1532,
+   "bytes": 159555055,
+   "countries": {
+    "RWA": {
+     "name": "Rwanda",
+     "chips": 73
+    }
+   }
+  },
+  {
+   "id": "se_2017",
+   "chips": 32935,
+   "fields": 797107,
+   "bytes": 72300918630,
+   "countries": {
+    "SWE": {
+     "name": "Sweden",
+     "chips": 32932
+    }
+   }
+  },
+  {
+   "id": "se_2018",
+   "chips": 32623,
+   "fields": 788341,
+   "bytes": 72428824013,
+   "countries": {
+    "SWE": {
+     "name": "Sweden",
+     "chips": 32619
+    }
+   }
+  },
+  {
+   "id": "se_2019",
+   "chips": 32880,
+   "fields": 802595,
+   "bytes": 72447429933,
+   "countries": {
+    "SWE": {
+     "name": "Sweden",
+     "chips": 32876
+    }
+   }
+  },
+  {
+   "id": "se_2020",
+   "chips": 32771,
+   "fields": 811166,
+   "bytes": 71795687597,
+   "countries": {
+    "SWE": {
+     "name": "Sweden",
+     "chips": 32767
+    }
+   }
+  },
+  {
+   "id": "se_2021",
+   "chips": 32822,
+   "fields": 809704,
+   "bytes": 72156630886,
+   "countries": {
+    "SWE": {
+     "name": "Sweden",
+     "chips": 32818
+    }
+   }
+  },
+  {
+   "id": "se_2022",
+   "chips": 32742,
+   "fields": 800930,
+   "bytes": 72169967442,
+   "countries": {
+    "SWE": {
+     "name": "Sweden",
+     "chips": 32737
+    }
+   }
+  },
+  {
+   "id": "se_2023",
+   "chips": 32640,
+   "fields": 798806,
+   "bytes": 71946577273,
+   "countries": {
+    "SWE": {
+     "name": "Sweden",
+     "chips": 32634
+    }
+   }
+  },
+  {
+   "id": "se_2024",
+   "chips": 32410,
+   "fields": 804612,
+   "bytes": 71549570379,
+   "countries": {
+    "SWE": {
+     "name": "Sweden",
+     "chips": 32404
+    }
+   }
+  },
+  {
+   "id": "se_2025",
+   "chips": 32552,
+   "fields": 841014,
+   "bytes": 71611404944,
+   "countries": {
+    "SWE": {
+     "name": "Sweden",
+     "chips": 32546
+    }
+   }
+  },
+  {
+   "id": "si_2019",
+   "chips": 4300,
+   "fields": 817103,
+   "bytes": 10525530755,
+   "countries": {
+    "ITA": {
+     "name": "Italy",
+     "chips": 1
+    },
+    "SVN": {
+     "name": "Slovenia",
+     "chips": 4291
+    },
+    "HRV": {
+     "name": "Croatia",
+     "chips": 3
+    },
+    "AUT": {
+     "name": "Austria",
+     "chips": 5
+    }
+   }
+  },
+  {
+   "id": "si_2020",
+   "chips": 4282,
+   "fields": 816544,
+   "bytes": 10496690906,
+   "countries": {
+    "HRV": {
+     "name": "Croatia",
+     "chips": 3
+    },
+    "ITA": {
+     "name": "Italy",
+     "chips": 1
+    },
+    "SVN": {
+     "name": "Slovenia",
+     "chips": 4274
+    },
+    "AUT": {
+     "name": "Austria",
+     "chips": 4
+    }
+   }
+  },
+  {
+   "id": "si_2021",
+   "chips": 4286,
+   "fields": 821021,
+   "bytes": 10494601054,
+   "countries": {
+    "HRV": {
+     "name": "Croatia",
+     "chips": 3
+    },
+    "ITA": {
+     "name": "Italy",
+     "chips": 1
+    },
+    "SVN": {
+     "name": "Slovenia",
+     "chips": 4278
+    },
+    "AUT": {
+     "name": "Austria",
+     "chips": 4
+    }
+   }
+  },
+  {
+   "id": "si_2022",
+   "chips": 4286,
+   "fields": 822092,
+   "bytes": 10480816053,
+   "countries": {
+    "SVN": {
+     "name": "Slovenia",
+     "chips": 4278
+    },
+    "HRV": {
+     "name": "Croatia",
+     "chips": 3
+    },
+    "AUT": {
+     "name": "Austria",
+     "chips": 4
+    },
+    "ITA": {
+     "name": "Italy",
+     "chips": 1
+    }
+   }
+  },
+  {
+   "id": "si_2023",
+   "chips": 4287,
+   "fields": 825030,
+   "bytes": 10492236732,
+   "countries": {
+    "ITA": {
+     "name": "Italy",
+     "chips": 1
+    },
+    "HRV": {
+     "name": "Croatia",
+     "chips": 3
+    },
+    "AUT": {
+     "name": "Austria",
+     "chips": 4
+    },
+    "SVN": {
+     "name": "Slovenia",
+     "chips": 4279
+    }
+   }
+  },
+  {
+   "id": "si_2024",
+   "chips": 4291,
+   "fields": 800420,
+   "bytes": 10509266297,
+   "countries": {
+    "HRV": {
+     "name": "Croatia",
+     "chips": 3
+    },
+    "ITA": {
+     "name": "Italy",
+     "chips": 1
+    },
+    "AUT": {
+     "name": "Austria",
+     "chips": 4
+    },
+    "SVN": {
+     "name": "Slovenia",
+     "chips": 4283
+    }
+   }
+  },
+  {
+   "id": "sk_2018",
+   "chips": 9806,
+   "fields": 206254,
+   "bytes": 22216908313,
+   "countries": {
+    "SVK": {
+     "name": "Slovakia",
+     "chips": 9806
+    }
+   }
+  },
+  {
+   "id": "sk_2019",
+   "chips": 9856,
+   "fields": 213954,
+   "bytes": 22356660991,
+   "countries": {
+    "POL": {
+     "name": "Poland",
+     "chips": 1
+    },
+    "SVK": {
+     "name": "Slovakia",
+     "chips": 9855
+    }
+   }
+  },
+  {
+   "id": "sk_2020",
+   "chips": 9885,
+   "fields": 216168,
+   "bytes": 22441243319,
+   "countries": {
+    "SVK": {
+     "name": "Slovakia",
+     "chips": 9884
+    },
+    "POL": {
+     "name": "Poland",
+     "chips": 1
+    }
+   }
+  },
+  {
+   "id": "sk_2021",
+   "chips": 9875,
+   "fields": 219309,
+   "bytes": 22568573834,
+   "countries": {
+    "POL": {
+     "name": "Poland",
+     "chips": 1
+    },
+    "SVK": {
+     "name": "Slovakia",
+     "chips": 9874
+    }
+   }
+  },
+  {
+   "id": "sk_2022",
+   "chips": 9866,
+   "fields": 227059,
+   "bytes": 22697799446,
+   "countries": {
+    "POL": {
+     "name": "Poland",
+     "chips": 1
+    },
+    "SVK": {
+     "name": "Slovakia",
+     "chips": 9865
+    }
+   }
+  },
+  {
+   "id": "sk_2023",
+   "chips": 9571,
+   "fields": 217939,
+   "bytes": 21940244168,
+   "countries": {
+    "SVK": {
+     "name": "Slovakia",
+     "chips": 9570
+    },
+    "POL": {
+     "name": "Poland",
+     "chips": 1
+    }
+   }
+  },
+  {
+   "id": "sk_2024",
+   "chips": 9986,
+   "fields": 237595,
+   "bytes": 23212060178,
+   "countries": {
+    "POL": {
+     "name": "Poland",
+     "chips": 1
+    },
+    "SVK": {
+     "name": "Slovakia",
+     "chips": 9985
+    }
+   }
+  },
+  {
+   "id": "sk_2025",
+   "chips": 9985,
+   "fields": 239907,
+   "bytes": 23156495546,
+   "countries": {
+    "POL": {
+     "name": "Poland",
+     "chips": 1
+    },
+    "SVK": {
+     "name": "Slovakia",
+     "chips": 9984
+    }
+   }
+  },
+  {
+   "id": "wri_trazo_ml_2020",
+   "chips": 3687,
+   "fields": 37048,
+   "bytes": 7868723298,
+   "countries": {
+    "ARG": {
+     "name": "Argentina",
+     "chips": 49
+    },
+    "BRA": {
+     "name": "Brazil",
+     "chips": 2707
+    },
+    "PRY": {
+     "name": "Paraguay",
+     "chips": 192
+    },
+    "BOL": {
+     "name": "Bolivia (Plurinational State of)",
+     "chips": 739
+    }
+   }
+  },
+  {
+   "id": "wri_trazo_ml_2021",
+   "chips": 498,
+   "fields": 4945,
+   "bytes": 1066322763,
+   "countries": {
+    "ARG": {
+     "name": "Argentina",
+     "chips": 133
+    },
+    "BRA": {
+     "name": "Brazil",
+     "chips": 365
+    }
+   }
+  },
+  {
+   "id": "wri_trazo_ml_2022",
+   "chips": 590,
+   "fields": 6114,
+   "bytes": 1256059604,
+   "countries": {
+    "ARG": {
+     "name": "Argentina",
+     "chips": 151
+    },
+    "PER": {
+     "name": "Peru",
+     "chips": 207
+    },
+    "BRA": {
+     "name": "Brazil",
+     "chips": 188
+    },
+    "PRY": {
+     "name": "Paraguay",
+     "chips": 44
+    }
+   }
+  },
+  {
+   "id": "wri_trazo_ml_2023",
+   "chips": 499,
+   "fields": 4921,
+   "bytes": 1067538847,
+   "countries": {
+    "ARG": {
+     "name": "Argentina",
+     "chips": 95
+    },
+    "BRA": {
+     "name": "Brazil",
+     "chips": 404
+    }
+   }
+  },
+  {
+   "id": "wri_trazo_ml_2024",
+   "chips": 1360,
+   "fields": 6092,
+   "bytes": 2815427094,
+   "countries": {
+    "PRY": {
+     "name": "Paraguay",
+     "chips": 1200
+    },
+    "BRA": {
+     "name": "Brazil",
+     "chips": 160
+    }
+   }
+  },
+  {
+   "id": "za_fusion_ml_2017",
+   "chips": 239,
+   "fields": 6568,
+   "bytes": 516159369,
+   "countries": {
+    "ZAF": {
+     "name": "South Africa",
+     "chips": 239
+    }
+   }
+  }
+ ]
+}
