@@ -209,7 +209,8 @@ async function overview(stats) {
   document.getElementById("totals").innerHTML = tiles.map(([n, l]) =>
     `<div class="total"><div class="n">${esc(n)}</div><div class="l">${esc(l)}</div></div>`).join("");
   document.getElementById("mapnote").textContent =
-    `Published datasets only, as of ${stats.generated_at}. Countries from each chip's centre (FAO GAUL 2024).`;
+    `Published datasets only, as of ${stats.generated_at}. Chips count one per location per year. ` +
+    `Countries from each chip's centre (FAO GAUL 2024).`;
   if (typeof d3 === "undefined") return;
   world ||= await fetch(WORLD).then(r => r.json()).catch(() => null);
   if (!world) return;
