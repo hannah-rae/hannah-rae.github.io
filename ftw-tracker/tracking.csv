@@ -123,7 +123,7 @@ pt_2017,pt,,2017,Portugal,include,scenes+mosaics,portugal_filter.yaml,Yes,Yes,,,
 pt_2018,pt,,2018,Portugal,include,scenes+mosaics,portugal_filter.yaml,Yes,Yes,,,,2026-11-09,,,
 pt_2019,pt,,2019,Portugal,include,scenes+mosaics,portugal_filter.yaml,Yes,Yes,,,,2026-11-09,,,
 pt_2020,pt,,2020,Portugal,include,scenes+mosaics,portugal_filter.yaml,Yes,Yes,,,,2026-11-09,,,
-pt_2021,pt,,2021,Portugal,include,scenes+mosaics,portugal_filter.yaml,Yes,Yes,,,,2026-11-09,,,the batch's gates failed (tests/run_all.py)
+pt_2021,pt,,2021,Portugal,include,scenes+mosaics,portugal_filter.yaml,Yes,Yes,,,2026-11-21,2026-11-21,2026-11-21,e1c4ed27,
 pt_2022,pt,,2022,Portugal,include,scenes+mosaics,portugal_filter.yaml,Yes,Yes,,,,2026-11-09,,,
 pt_2023,pt,,2023,Portugal,include,scenes+mosaics,portugal_filter.yaml,Yes,Yes,,,2026-11-06,2026-11-08,2026-11-06,48aa27ca,
 pt_2025,pt,,2025,Portugal,include,scenes+mosaics,portugal_filter.yaml,Yes,Yes,,,,2026-11-09,,,
