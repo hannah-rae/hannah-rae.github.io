@@ -21,12 +21,12 @@
   "ie_2022",
   "ie_2023",
   "ie_2024",
-  "in_10k_ml_2020",
   "it_1_2018",
   "it_1_2019",
-  "it_1_2020"
+  "it_1_2020",
+  "it_1_2022"
  ],
  "batch_tail": "batch-05.log: failed: at_2018, at_2019, at_2020, at_2021, at_2022 (see tracking.csv issues and logs/)\nMETADATA EXIT 1\nimagery pass: at_2018, at_2019, at_2020, at_2021, at_2022\nfailed: at_2018, at_2019, at_2020, at_2021, at_2022 (see tracking.csv issues and logs/)\nIMAGERY EXIT 1\nDONE",
- "checked_at": "2026-11-23 10:40 UTC",
- "synced_at": "2026-11-23 10:40 UTC"
+ "checked_at": "2026-11-23 11:11 UTC",
+ "synced_at": "2026-11-23 11:11 UTC"
 }
