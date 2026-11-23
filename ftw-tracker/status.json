@@ -3,7 +3,6 @@
  "running": [
   "at_2025",
   "cz_2025",
-  "dk_2020",
   "dk_2021",
   "dk_2022",
   "dk_2023",
@@ -18,15 +17,18 @@
   "ee_2022",
   "ee_2023",
   "ee_2024",
+  "es_2025",
   "es_cat_2024",
   "es_cm_2024",
+  "es_po_2025",
   "es_vc_2024",
   "fi_2020",
   "fi_2021",
   "fi_2022",
-  "fi_2023"
+  "fi_2023",
+  "fi_2024"
  ],
  "batch_tail": "batch-05.log: failed: at_2018, at_2019, at_2020, at_2021, at_2022 (see tracking.csv issues and logs/)\nMETADATA EXIT 1\nimagery pass: at_2018, at_2019, at_2020, at_2021, at_2022\nfailed: at_2018, at_2019, at_2020, at_2021, at_2022 (see tracking.csv issues and logs/)\nIMAGERY EXIT 1\nDONE",
- "checked_at": "2026-11-23 08:09 UTC",
- "synced_at": "2026-11-23 08:09 UTC"
+ "checked_at": "2026-11-23 08:24 UTC",
+ "synced_at": "2026-11-23 08:24 UTC"
 }
