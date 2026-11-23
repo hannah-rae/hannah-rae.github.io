@@ -8,15 +8,12 @@
   "fi_2023",
   "fi_2024",
   "fi_2025",
-  "hr_2020",
-  "hr_2021",
   "hr_2022",
   "hr_2023",
   "hr_2024",
   "ie_2022",
   "ie_2023",
   "ie_2024",
-  "it_1_2020",
   "it_1_2022",
   "lacuna_2017",
   "lacuna_2018",
@@ -24,9 +21,12 @@
   "lacuna_2020",
   "lacuna_2021",
   "lacuna_2022",
-  "lacuna_2023"
+  "lacuna_2023",
+  "lv_2017",
+  "lv_2018",
+  "lv_2019"
  ],
  "batch_tail": "batch-05.log: failed: at_2018, at_2019, at_2020, at_2021, at_2022 (see tracking.csv issues and logs/)\nMETADATA EXIT 1\nimagery pass: at_2018, at_2019, at_2020, at_2021, at_2022\nfailed: at_2018, at_2019, at_2020, at_2021, at_2022 (see tracking.csv issues and logs/)\nIMAGERY EXIT 1\nDONE",
- "checked_at": "2026-11-23 12:42 UTC",
- "synced_at": "2026-11-23 12:42 UTC"
+ "checked_at": "2026-11-23 12:57 UTC",
+ "synced_at": "2026-11-23 12:57 UTC"
 }
