@@ -1,5 +1,5 @@
 {
- "state": "uploading",
+ "state": "building",
  "running": [
   "at_2018",
   "at_2019",
@@ -24,9 +24,9 @@
   "bg_2024",
   "bg_2025",
   "ch_be_2025",
-  "ch_fr_2025"
+  "ch_lu_2025"
  ],
  "batch_tail": "batch-05.log: failed: at_2018, at_2019, at_2020, at_2021, at_2022 (see tracking.csv issues and logs/)\nMETADATA EXIT 1\nimagery pass: at_2018, at_2019, at_2020, at_2021, at_2022\nfailed: at_2018, at_2019, at_2020, at_2021, at_2022 (see tracking.csv issues and logs/)\nIMAGERY EXIT 1\nDONE",
- "checked_at": "2026-11-23 00:36 UTC",
- "synced_at": "2026-11-23 00:36 UTC"
+ "checked_at": "2026-11-23 00:51 UTC",
+ "synced_at": "2026-11-23 00:51 UTC"
 }
