@@ -1,14 +1,10 @@
 {
  "state": "building",
  "running": [
-  "at_2022",
-  "at_2023",
   "at_2024",
   "at_2025",
   "cz_2020",
-  "cz_2021",
   "cz_2022",
-  "cz_2023",
   "cz_2024",
   "cz_2025",
   "dk_2020",
@@ -24,9 +20,13 @@
   "ee_2020",
   "ee_2021",
   "ee_2022",
-  "ee_2023"
+  "ee_2023",
+  "ee_2024",
+  "es_cat_2024",
+  "es_cm_2024",
+  "es_ib_2024"
  ],
  "batch_tail": "batch-05.log: failed: at_2018, at_2019, at_2020, at_2021, at_2022 (see tracking.csv issues and logs/)\nMETADATA EXIT 1\nimagery pass: at_2018, at_2019, at_2020, at_2021, at_2022\nfailed: at_2018, at_2019, at_2020, at_2021, at_2022 (see tracking.csv issues and logs/)\nIMAGERY EXIT 1\nDONE",
- "checked_at": "2026-11-23 07:09 UTC",
- "synced_at": "2026-11-23 07:09 UTC"
+ "checked_at": "2026-11-23 07:24 UTC",
+ "synced_at": "2026-11-23 07:24 UTC"
 }
