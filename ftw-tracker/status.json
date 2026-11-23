@@ -5,10 +5,6 @@
   "at_2023",
   "at_2024",
   "at_2025",
-  "bg_2021",
-  "bg_2022",
-  "bg_2024",
-  "bg_2025",
   "cz_2019",
   "cz_2020",
   "cz_2021",
@@ -24,9 +20,13 @@
   "dk_2022",
   "dk_2023",
   "dk_2024",
-  "dk_2025"
+  "dk_2025",
+  "ec_lt_2021",
+  "ee_2017",
+  "ee_2018",
+  "ee_2019"
  ],
  "batch_tail": "batch-05.log: failed: at_2018, at_2019, at_2020, at_2021, at_2022 (see tracking.csv issues and logs/)\nMETADATA EXIT 1\nimagery pass: at_2018, at_2019, at_2020, at_2021, at_2022\nfailed: at_2018, at_2019, at_2020, at_2021, at_2022 (see tracking.csv issues and logs/)\nIMAGERY EXIT 1\nDONE",
- "checked_at": "2026-11-23 05:53 UTC",
- "synced_at": "2026-11-23 05:53 UTC"
+ "checked_at": "2026-11-23 06:08 UTC",
+ "synced_at": "2026-11-23 06:08 UTC"
 }
