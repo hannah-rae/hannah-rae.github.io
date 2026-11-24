@@ -1,14 +1,16 @@
 {
  "state": "building",
  "running": [
-  "ee_2017",
-  "ee_2018",
-  "ee_2019",
-  "ee_2021",
-  "ee_2023",
-  "ee_2024"
+  "ai4sf_ml_2021",
+  "br_ba_lem_2020",
+  "ch_be_2025",
+  "glocab_2017",
+  "glocab_2019",
+  "in_10k_ml_2020",
+  "wri_trazo_ml_2020",
+  "wri_trazo_ml_2024"
  ],
  "batch_tail": "batch-05.log: failed: at_2018, at_2019, at_2020, at_2021, at_2022 (see tracking.csv issues and logs/)\nMETADATA EXIT 1\nimagery pass: at_2018, at_2019, at_2020, at_2021, at_2022\nfailed: at_2018, at_2019, at_2020, at_2021, at_2022 (see tracking.csv issues and logs/)\nIMAGERY EXIT 1\nDONE",
- "checked_at": "2026-11-24 21:42 UTC",
- "synced_at": "2026-11-24 21:42 UTC"
+ "checked_at": "2026-11-24 21:57 UTC",
+ "synced_at": "2026-11-24 21:57 UTC"
 }
